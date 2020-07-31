@@ -17,7 +17,7 @@ jobs:
       with:
         python-version: "3.x"
     - run: |
-        python downloader.py
+        # python downloader.py
         date > LAST_UPDATED
     - run: |
         git config --global user.email you.siki@outlook.com
@@ -45,6 +45,7 @@ jobs:
     needs: build
     steps:
     - uses: actions/checkout@v2
+    - run: git fetch --unshallow origin
     - uses: spyoungtech/mirror-action@master
       with:
         REMOTE: 'https://YouSiki@bitbucket.org/YouSiki/adguardrules.git'
