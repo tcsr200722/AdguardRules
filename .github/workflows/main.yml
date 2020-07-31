@@ -42,4 +42,12 @@ jobs:
         dst_token: ${{ secrets.GITEE_TOKEN }}
         white_list: "AdguardRules"
         force_update: true
+    - uses: Yikun/hub-mirror-action@master
+      with:
+        src: github/yousiki
+        dst: bitbucket/yousiki
+        dst_key: ${{ secrets.BITBUCKET_KEY }}
+        dst_token: ${{ secrets.BITBUCKET_TOKEN }}
+        white_list: "AdguardRules"
+        force_update: true
 
