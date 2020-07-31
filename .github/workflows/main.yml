@@ -17,7 +17,9 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: "3.x"
-    - run: python downloader.py
+    - run: |
+        python downloader.py
+        date > LAST_UPDATED
     - run: |
         git config --global user.email you.siki@outlook.com
         git config --global user.name yousiki
