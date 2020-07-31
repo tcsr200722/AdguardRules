@@ -1,8 +1,10 @@
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt adguardsdnsfilter.txt
 https://easylist-downloads.adblockplus.org/easylist.txt easylist.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt easylistchina.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt easyprivacy.txt
 https://easylist-downloads.adblockplus.org/easylist-cookie.txt easylist-cookie.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt anti-ad.txt
+https://raw.githubusercontent.com/hopol/ChinaList2.0/master/ChinaList2.0.txt chinalist.txt
 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt adbyby-lazy.txt
 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt adbyby-video.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt cjx-annoyance.txt
@@ -13,6 +15,7 @@ https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.t
 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt zhihu-strict.txt
 https://raw.githubusercontent.com/Kr328/AdGuard-Custom-Rule/master/rule/bilibili.txt bilibili.txt
 https://raw.githubusercontent.com/Kr328/AdGuard-Custom-Rule/master/rule/cnbeta.txt cnbeta.txt
+https://adaway.org/hosts.txt adaway-hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts ad-wars-hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts 1024-hosts
 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts google-hosts
