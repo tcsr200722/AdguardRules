@@ -11,6 +11,8 @@ https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt xinggsf-rule.txt
 https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt xinggsf-mv.txt
 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt zhihu.txt
 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt zhihu-strict.txt
+https://raw.githubusercontent.com/Kr328/AdGuard-Custom-Rule/master/rule/bilibili.txt bilibili.txt
+https://raw.githubusercontent.com/Kr328/AdGuard-Custom-Rule/master/rule/cnbeta.txt cnbeta.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts ad-wars-hosts
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts 1024-hosts
 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts google-hosts
