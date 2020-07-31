@@ -27,11 +27,11 @@ jobs:
         git commit -m "updated by github actions" -a
     - uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.TOKEN }}
-    - run: |
-        git add .
-        git commit -m "sync" --allow-empty
-        git push -f "https://yousiki:${{ secrets.GITEE_PASSWORD }}@gitee.com/yousiki/AdguardRules.git"
+#         github_token: ${{ secrets.TOKEN }}
+#     - run: |
+#         git add .
+#         git commit -m "sync" --allow-empty
+#         git push -f "https://yousiki:${{ secrets.GITEE_PASSWORD }}@gitee.com/yousiki/AdguardRules.git"
     - run: |
         git add .
         git commit -m "sync" --allow-empty
