@@ -28,6 +28,11 @@ jobs:
     - uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.TOKEN }}
+  gitee:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
     - uses: Yikun/hub-mirror-action@master
       with:
         src: github/yousiki
@@ -36,8 +41,12 @@ jobs:
         dst_token: ${{ secrets.GITEE_TOKEN }}
         white_list: "AdguardRules"
         force_update: true
-    - uses: spyoungtech/mirror-action@master
+  bitbucket:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: wearerequired/git-mirror-action@v1
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.BITBUCKET_KEY }}
       with:
-        REMOTE: 'https://bitbucket.org/YouSiki/adguardrules.git'
-        GIT_USERNAME: yousiki
-        GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
+        source-repo: 'git@github.com:YOUSIKI/AdguardRules.git'
+        destination-repo: 'git@bitbucket.org:YouSiki/adguardrules.git'
