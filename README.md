@@ -1,4 +1,6 @@
-# AdguardRules
+# AdguardRules 
+
+![CI](https://github.com/YOUSIKI/AdguardRules/workflows/CI/badge.svg)
 
 利用 Github Actions 定期收集、更新网络上的 Adguard 规则并同步到 Gitee 仓库 (https://gitee.com/yousiki/AdguardRules)，方便在国内网络环境下使用。
 
