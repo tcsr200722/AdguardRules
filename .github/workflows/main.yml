@@ -44,9 +44,11 @@ jobs:
   bitbucket:
     runs-on: ubuntu-latest
     steps:
-    - uses: wearerequired/git-mirror-action@v1
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.BITBUCKET_KEY }}
+    - uses: actions/checkout@v2
+    - uses: spyoungtech/mirror-action@master
       with:
-        source-repo: 'git@github.com:YOUSIKI/AdguardRules.git'
-        destination-repo: 'git@bitbucket.org:YouSiki/adguardrules.git'
+        REMOTE: 'https://YouSiki@bitbucket.org/YouSiki/adguardrules.git'
+        GIT_PUSH_ARGS: '--force'
+        GIT_USERNAME: yousiki
+        GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
+        GIT_SSH_PRIVATE_KEY: ${{ secrets.BITBUCKET_KEY }}
