@@ -26,10 +26,17 @@ jobs:
     - uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.TOKEN }}
-    - uses: wearerequired/git-mirror-action@v1
-      env:
-        SSH_PRIVATE_KEY: ${{ secrets.GITEE_KEY }}
+#     - uses: wearerequired/git-mirror-action@v1
+#       env:
+#         SSH_PRIVATE_KEY: ${{ secrets.GITEE_KEY }}
+#       with:
+#         source-repo: 'git@github.com:YOUSIKI/AdguardRules.git'
+#         destination-repo: 'git@gitee.com:yousiki/AdguardRules.git'
+    - uses: Yikun/hub-mirror-action@master
       with:
-        source-repo: 'git@github.com:YOUSIKI/AdguardRules.git'
-        destination-repo: 'git@gitee.com:yousiki/AdguardRules.git'
+        src: github/yousiki
+        dst: gitee/yousiki
+        dst_key: ${{ secrets.GITEE_KEY }}
+        dst_token: ${{ secrets.GITEE_TOKEN }}
+        white_list: "AdguardRules"
 
