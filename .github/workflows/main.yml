@@ -39,4 +39,5 @@ jobs:
         dst_key: ${{ secrets.GITEE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
         white_list: "AdguardRules"
+        force_update: true
 
