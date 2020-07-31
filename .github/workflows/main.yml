@@ -28,19 +28,16 @@ jobs:
     - uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.TOKEN }}
-#     - run: |
-#         git add .
-#         git commit -m "sync" --allow-empty
-#         git push -f "https://yousiki:${{ secrets.GITEE_PASSWORD }}@gitee.com/yousiki/AdguardRules.git"
-    - run: |
-        git add .
-        git commit -m "sync" --allow-empty
-        git push -f "https://yousiki:${{ secrets.BITBUCKET_PASSWORD }}@bitbucket.org/YouSiki/adguardrules.git"
-#     - uses: Yikun/hub-mirror-action@master
-#       with:
-#         src: github/yousiki
-#         dst: gitee/yousiki
-#         dst_key: ${{ secrets.GITEE_KEY }}
-#         dst_token: ${{ secrets.GITEE_TOKEN }}
-#         white_list: "AdguardRules"
-#         force_update: true
+    - uses: Yikun/hub-mirror-action@master
+      with:
+        src: github/yousiki
+        dst: gitee/yousiki
+        dst_key: ${{ secrets.GITEE_KEY }}
+        dst_token: ${{ secrets.GITEE_TOKEN }}
+        white_list: "AdguardRules"
+        force_update: true
+    - uses: spyoungtech/mirror-action@master
+      with:
+        REMOTE: 'https://bitbucket.org/YouSiki/adguardrules.git'
+        GIT_USERNAME: yousiki
+        GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
