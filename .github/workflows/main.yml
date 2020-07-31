@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron:  '0 1 * * *'
+    - cron:  '0 */4 * * *'
     
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       with:
         python-version: "3.x"
     - run: |
-        # python downloader.py
+        python downloader.py
         date > LAST_UPDATED
     - run: |
         git config --global user.email you.siki@outlook.com
@@ -52,4 +52,3 @@ jobs:
         GIT_PUSH_ARGS: '--force'
         GIT_USERNAME: yousiki
         GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
-#         GIT_SSH_PRIVATE_KEY: ${{ secrets.BITBUCKET_KEY }}
