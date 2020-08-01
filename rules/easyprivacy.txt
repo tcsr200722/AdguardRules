@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 6PLYs+Go3WgmfkhF323zvA
-! Version: 202008010811
+! Checksum: DjcrM8cA28Y77Zp913zbQw
+! Version: 202008011211
 ! Title: EasyPrivacy
-! Last modified: 01 Aug 2020 08:11 UTC
+! Last modified: 01 Aug 2020 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15434,6 +15434,8 @@ $third-party,websocket,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.
 ||mms.itpro.co.uk^
 ||neowin.net/js/mdn.neowin.js
 ||orionis.techradar.com^
+||quantcast.mgr.consensu.org/cmp.js
+||quantcast.mgr.consensu.org^*/cmp2.js
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
 ||services.hmhost.co.uk^
