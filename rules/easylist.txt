@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4uiBlAN8vB7Ge/7yh+c5Kg
-! Version: 202008020811
+! Checksum: N/IvDG7hIS9JTBpcARa53g
+! Version: 202008021210
 ! Title: EasyList
-! Last modified: 02 Aug 2020 08:10 UTC
+! Last modified: 02 Aug 2020 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19800,6 +19800,7 @@ _popunder+$popup
 ##.ad_600
 ##.ad_630x130
 ##.ad_640
+##.ad_640x480
 ##.ad_640x90
 ##.ad_680x15
 ##.ad_728
@@ -23135,6 +23136,8 @@ _popunder+$popup
 ##.block__advertising-content
 ##.block__advertising-header
 ##.block_ad
+##.block_ad303x1000_left
+##.block_ad303x1000_right
 ##.block_ad_floating_bar
 ##.block_ad_middle
 ##.block_ad_sb_text
@@ -31890,6 +31893,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eswaldderinao.site^
 ||etracking.pro^
 ||etsmercisely.site^
+||ettyjokilint.club^
 ||eunformeranothe.info^
 ||europertsticke.site^
 ||evalynbrought.pro^
@@ -32607,6 +32611,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nq93jx1vpq9r.com^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
+||nraddramatica.club^
 ||nscollectureob.info^
 ||nsecretaflicti.info^
 ||nsofasstroy.info^

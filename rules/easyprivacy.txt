@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rg9jUY1A8FWbbT6qeNXz3Q
-! Version: 202008020811
+! Checksum: PKQEML7gcoJUBH60CMEcyw
+! Version: 202008021211
 ! Title: EasyPrivacy
-! Last modified: 02 Aug 2020 08:11 UTC
+! Last modified: 02 Aug 2020 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11875,6 +11875,7 @@ _mongo_stats/
 ||la-sync.taboola.com^
 ||opps.taboola.com^
 ||taboola.com/?uid=
+||taboola.com/libtrc/impl.
 ||taboola.com/tb?
 ||taboola.com^*/log/
 ||taboola.com^*/notify-impression?$third-party
