@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wSBdghNEBay7fUoORAjmrQ
-! Version: 202008030031
+! Checksum: Mv0eNlgpx1lhPJ7LzVpOSg
+! Version: 202008030411
 ! Title: EasyList
-! Last modified: 03 Aug 2020 00:31 UTC
+! Last modified: 03 Aug 2020 04:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31700,6 +31700,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||delainlygoverhe.info^
 ||demand.bidgear.com^
 ||demannewcure.site^
+||denmaccatory.club^
 ||denmarried.club^
 ||denotatorum.site^
 ||deparabides.club^
@@ -55826,6 +55827,7 @@ dailycaller.com###dailycaller_top
 cbc.ca###dailydeals
 fitnessmagazine.com###dailyprize
 zone.msn.com###dapIfM1
+urbandictionary.com###dark_top
 rawstory.com###darkbackground[style="visibility: visible;"]
 news.yahoo.com###darla
 yahoo.com###darla-ad__LREC
