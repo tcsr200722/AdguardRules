@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tXi76QrfcbbXTkG+qv66Lw
-! Version: 202008022010
+! Checksum: tNIznSB/++kM0C5oi+938A
+! Version: 202008030031
 ! Title: EasyList Cookie List
-! Last modified: 02 Aug 2020 20:10 UTC
+! Last modified: 03 Aug 2020 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13771,6 +13771,7 @@ stokokkino.gr##.popup
 !
 ! ---------- Hebrew ----------
 !
+diners.co.il##.message-container
 !
 ! ---------- Hungarian ----------
 !
@@ -14739,6 +14740,7 @@ consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
 consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,payments.amazon.co.uk,payments.amazon.com,payments.amazon.com.au,payments.amazon.com.br,payments.amazon.de,payments.amazon.es,payments.amazon.fr,payments.amazon.in,payments.amazon.it,simplii.com#@#.consent-wrapper
 boursorama.com,nuxeo.com#@#.cookie-banner
 janrain.com,moemax.de,rituals.com,xxxlshop.de#@#.cookie-bar
+stabila.com#@#.cookie-bar-visible
 rituals.com#@#.cookie-bar-wrapper
 rituals.com#@#.cookie-bar:not(body)
 egmont.com#@#.cookie-bar:not(body):not(html)
@@ -14883,6 +14885,7 @@ yoigo.com#@#thor-cookies
 @@/cookie_law/plugin.js$script,~third-party
 @@/zig_cookiepolicybar/*/CookieBar.js$script,~third-party
 @@||microsoft.com/api/privacy/cookieconsent?$xmlhttprequest,domain=docs.microsoft.com
+@@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
 ! https://github.com/ryanbr/fanboy-adblock/issues/721#issuecomment-443395851
 ! https://github.com/ryanbr/fanboy-adblock/issues/1133
 @@/wp-content/plugins/bwp-minify/min/?*,wp-content$script,stylesheet,~third-party
@@ -14979,6 +14982,7 @@ yoigo.com#@#thor-cookies
 @@||fundacjapsom.pl/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js$script
 @@||gieldykryptowalut.pl/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js$script
 @@||holiday.aquila.pl/min/f=/js/$script
+@@||iccreabanca.it/SiteAssets/js/cookie_js/cookies.dyn.js
 @@||idg.se/idg-consent.min.js$script
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||iubenda.com/cookie_solution/$script,domain=iphoneitalia.com
