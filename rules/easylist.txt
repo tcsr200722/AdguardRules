@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +fPo85JednnXbzlz5n0fPg
-! Version: 202008031210
+! Checksum: WJI9nccdGtqomH1qkg8pmQ
+! Version: 202008031611
 ! Title: EasyList
-! Last modified: 03 Aug 2020 12:10 UTC
+! Last modified: 03 Aug 2020 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15731,7 +15731,6 @@ _popunder+$popup
 ###navbar_ads
 ###navi_banner_ad_780
 ###navigation-ad
-###navlinkad
 ###nba160PromoAd
 ###nba300Ad
 ###nbaGI300ad
@@ -17195,7 +17194,6 @@ _popunder+$popup
 ###topbar-ad
 ###topbarAd
 ###topbar_Adc1_AdContainer
-###topbarad
 ###topbarads
 ###topcustomad
 ###topheader_ads
@@ -31134,6 +31132,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||5aa8f31e2f5d.com^
 ||5c577fc74618431b.com^
 ||5cwr93yyd4lf.com^
+||5f6dmzflgqso.com^
 ||5pr1sfzsl9.com^
 ||5yw028ngxe9x.com^
 ||645yvcj6c8rn.com^
@@ -31695,6 +31694,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dayadopen.site^
 ||dbasedolas.club^
 ||dcontonalscho.info^
+||dcop4khjxsmg.com^
 ||dddomainccc.com^
 ||dditingwetlan.site^
 ||deatheriwevo.site^
@@ -32895,6 +32895,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||psonstrentie.info^
 ||psoumtou.net^
 ||ptaivain.net^
+||ptaughar.com^
 ||ptaulrou.net^
 ||ptauphie.com^
 ||ptavizap.net^
@@ -33264,6 +33265,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tamechangekn.info^
 ||tamiecaseros.pro^
 ||tanit-dio.com^
+||tantsprovisitsc.club^
 ||tarawerap.com^
 ||tartoals.net^
 ||taryarguestio.info^
@@ -50822,6 +50824,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||d2i55s0cnk529c.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2lp70uu6oz7vk.cloudfront.net^
+||d2r3rw91i5z1w9.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
 ||d2ykons4g8jre6.cloudfront.net^
 ||d2z51a9spn09cw.cloudfront.net^
