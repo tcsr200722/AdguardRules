@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: YMics51FE4LMkqADsBxqIw
-! Version: 202008050811
+! Checksum: qPUSqmqYMSAIswkhrEZyyQ
+! Version: 202008051211
 ! Title: EasyPrivacy
-! Last modified: 05 Aug 2020 08:11 UTC
+! Last modified: 05 Aug 2020 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4124,6 +4124,7 @@
 /tealiumTagsData.
 /telemetry/log/*
 /tenping.cpa.
+/testImpressions/beacon
 /textlink.php?text
 /thbeacon/*
 /thcn_code.
@@ -8574,6 +8575,7 @@ _mongo_stats/
 ||bandborder.com^$third-party
 ||basketballbelieve.com^$third-party
 ||baskettexture.com^$third-party
+||boilingbeetle.com^$third-party
 ||breakfastboat.com^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
