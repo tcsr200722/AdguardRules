@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TiEkfmYT4t5KSc8scRpNXA
-! Version: 202008060810
+! Checksum: oe476zRZUYKkVks44Ug2nw
+! Version: 202008061211
 ! Title: EasyList
-! Last modified: 06 Aug 2020 08:10 UTC
+! Last modified: 06 Aug 2020 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3402,8 +3402,11 @@
 /adv6.
 /adv8.
 /adv_2.
+/adv_250x300.
 /adv_468.
 /adv_468_
+/adv_90x728.
+/adv_90x728_
 /adv_background/*
 /adv_banner_
 /adv_box_
@@ -24056,6 +24059,7 @@ _popunder+$popup
 ##.dfp_top-ad
 ##.dfp_unit
 ##.dfp_unit-ad_container
+##.dfpad
 ##.dfrads
 ##.dhAdContainer14
 ##.dianomi-ad
@@ -33173,6 +33177,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||seconomics.club^
 ||secreat.club^
 ||secrecycommotionaspirin.com^
+||secretexts.club^
 ||secure-12.com^
 ||securecloud-dt.com^
 ||secured-iphone.club^
@@ -64567,6 +64572,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||ads.muxiv.com/address/$xmlhttprequest
 @@||ads.nationmedia.com/webfonts/$font
 @@||ads1.atpclick.com/atpClick.aspx?$image,script,domain=jobnet.co.il|jobs-israel.com
+@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adserve.atedra.com/js/$script,domain=repeatmyvids.com
 @@||adserve.atedra.com/vast/wrap.php?$script,domain=repeatmyvids.com
