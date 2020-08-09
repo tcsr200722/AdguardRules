@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 44wcp3yHs9c5fc0+rhM4Lw
-! Version: 202008091611
+! Checksum: I0uJDDjqnYZhEJVjYIR9Iw
+! Version: 202008092010
 ! Title: EasyList
-! Last modified: 09 Aug 2020 16:10 UTC
+! Last modified: 09 Aug 2020 20:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31449,6 +31449,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||b0omr3wn6u4b.com^
 ||b4q982rbqdsw.com^
 ||b56f9c50130def4d.com^
+||b6.d99sure.xyz^
 ||badgearsregra.site^
 ||badsbads.com^
 ||badskis.com^
@@ -32937,6 +32938,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||plathwardsve.site^
 ||playerseo.club^
 ||plehimselves.info^
+||pletiondem.club^
 ||plyvitablesagree.info^
 ||pnhdnlrzwu.com^
 ||pocrowpush.com^
@@ -32949,6 +32951,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||poraryguib.club^
 ||porchiteds.club^
 ||portedlysarcatc.info^
+||positious.club^
 ||possipationd.info^
 ||postlnk.com^
 ||potentingaknt.club^
@@ -33439,6 +33442,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||thodsserentlya.info^
 ||thogrypufe.pro^
 ||thomagejut.site^
+||thomageothe.club^
 ||thoutiquede.club^
 ||thterras.com^
 ||tibacta.com^
