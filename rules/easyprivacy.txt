@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: C0ixqnC6IYgblNM9CaIdyQ
-! Version: 202008082011
+! Checksum: ZIZEqomQlbovWn2a+62lmQ
+! Version: 202008090041
 ! Title: EasyPrivacy
-! Last modified: 08 Aug 2020 20:11 UTC
+! Last modified: 09 Aug 2020 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17277,7 +17277,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||player.sundaysky.com^$subdocument
 @@||playstation.net/event/$domain=playstation.com|playstation.net|sony.com
 @@||pnas.org^*/fingerprint.js$script,~third-party
-@@||pro.ip-api.com/json/$xmlhttprequest,domain=aljazeera.com|cookappsgames.com
+@@||pro.ip-api.com/json/$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|sheee.co.il|walla.co.il
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.StreamSense.js
 @@||pshared.5min.com/Scripts/OnePlayer/Loggers/ComScore.Viewability.js
