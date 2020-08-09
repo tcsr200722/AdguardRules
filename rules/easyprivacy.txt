@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ZIZEqomQlbovWn2a+62lmQ
-! Version: 202008090041
+! Checksum: HptRotrLbBwpq2Ot128s0g
+! Version: 202008090411
 ! Title: EasyPrivacy
-! Last modified: 09 Aug 2020 00:41 UTC
+! Last modified: 09 Aug 2020 04:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6475,6 +6475,7 @@ _mongo_stats/
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
 ||geotargetly-1a441.appspot.com^$third-party
+||geotargetly.co^$third-party
 ||getambassador.com^$third-party
 ||getbackstory.com^$third-party
 ||getblueshift.com^$third-party
@@ -7088,6 +7089,7 @@ _mongo_stats/
 ||nicequest.com^$third-party
 ||niftymaps.com^$third-party
 ||nik.io^$third-party
+||noibu.com^$third-party
 ||noowho.com^$third-party
 ||nordicresearch.com^$third-party
 ||northstartravelmedia.com^$third-party
@@ -9949,6 +9951,7 @@ _mongo_stats/
 ||analytics.gvim.mobi^
 ||analytics.humanautomation.ai^
 ||analytics.inform.com^
+||analytics.jst.ai^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
 ||analytics.live.com^
@@ -13764,6 +13767,7 @@ _mongo_stats/
 ||imgur.com/lumbar.gif?
 ||immassets.s3.amazonaws.com^
 ||imonitor.dhgate.com^
+||imore.com/_gap/
 ||imp-media-lab.thenewslens.com^
 ||imx.comedycentral.com^
 ||indeed.com/rpc/$~xmlhttprequest
@@ -16673,7 +16677,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||log.suumo.jp^
 ||logql.yahoo.co.jp^
 ||measure.ameblo.jp^
-||mmstat.com^$image
+||mmstat.com^$image,ping
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
