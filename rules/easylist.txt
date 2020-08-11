@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +t5/luq/rJhJVCi5PUA+zw
-! Version: 202008111210
+! Checksum: c2v62xrAZVuX6HlKTjBuSw
+! Version: 202008111610
 ! Title: EasyList
-! Last modified: 11 Aug 2020 12:10 UTC
+! Last modified: 11 Aug 2020 16:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31167,6 +31167,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||729dcbaa57e80c1e.com^
 ||7651d44da06c.com^
 ||777ff1571bab7667.com^
+||78986ba32c.com^
 ||7903dabd2b6.com^
 ||79k52baw2qa3.com^
 ||7b3b96c01d798f.com^
@@ -31241,7 +31242,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adreach.me^
 ||adsco.re^
 ||adservi.com^
-||adskeeper.co.uk^
+||adskeeper.co.uk^$domain=~dashboard.adskeeper.co.uk
 ||adsrv.me^
 ||adstonesik.club^
 ||adultterritory.net^
@@ -63003,6 +63004,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||d17lvj5xn8sco6.cloudfront.net/ad/$image,xmlhttprequest
 @@||dailymail.co.uk^$generichide
 @@||dailymotion.com/embed/$subdocument,domain=~gum-gum-streaming.co|~gum-gum-streaming.com|~gum-gum-streaming.tv|~mavanimes.co|~streaming-vostfr.com
+@@||dashboard.adskeeper.co.uk^$domain=dashboard.adskeeper.co.uk
 @@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
 @@||deployads.com/a/9gag.com.js$script,domain=9gag.com
 @@||dianomi.com/cgi-bin/smartads.pl$xmlhttprequest,domain=inc.com
