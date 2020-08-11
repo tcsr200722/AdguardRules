@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bC2jBlOMoYlWDZ1/e2h3Eg
-! Version: 202008102011
+! Checksum: Q/Q7RLEDZ9lkKPECua0qWw
+! Version: 202008110031
 ! Title: EasyPrivacy
-! Last modified: 10 Aug 2020 20:11 UTC
+! Last modified: 11 Aug 2020 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13575,7 +13575,6 @@ _mongo_stats/
 ||ganon.yahoo.com^
 ||gardenweb.com^*/iv_footer.js
 ||gardenweb.com^*/iv_header.js
-||gateway.reddit.com|
 ||gc.newsweek.com^
 ||gcpdata.telegraph.co.uk^
 ||geek.com/js/zdgurgle/
@@ -14289,7 +14288,6 @@ _mongo_stats/
 ||pixel.newsdiscover.com.au^
 ||pixel.pcworld.com^
 ||pixel.propublica.org^
-||pixel.reddit.com^
 ||pixel.spotify.com^
 ||pixel.staging.tree.com^
 ||pixel.tuko.co.ke^
@@ -14381,11 +14379,9 @@ _mongo_stats/
 ||reco.hardsextube.com^
 ||recomendedsite.com/addon/upixel/
 ||recommendation.24.com^
-||redding.com/metrics/
 ||reddit.com/static/pixel.png$image
 ||reddit.com/timings/
 ||reddit.com/web/log/
-||reddit.com^*.gif?$third-party
 ||redditmedia.com/gtm/jail?
 ||redeye.williamhill.com^
 ||redtube.com/_status/pix.php
@@ -15354,7 +15350,6 @@ _mongo_stats/
 ||oneid.mmstat.com^
 ! Port scanning Fingerprinting Trackers (Privacy and CPU abuse)
 ! https://nullsweep.com/why-is-this-website-port-scanning-me/
-$third-party,websocket,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com
 /^https?:\/\/ir\.ebaystatic\.com\/rs\/v\/[a-zA-Z0-9]{18,}\.js/$script,domain=vipr.ebaydesc.com
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
 /^https?:\/\/pov\.spectrum\.net\/[a-zA-Z0-9]{14,}\.js/$script,domain=spectrum.net
@@ -17367,7 +17362,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||unileversolutions.com^*/config/analytics.js
 @@||unisys.com^*/track.gif$image,~third-party
 @@||unpkg.com/@optimizely/$domain=nike.com
-@@||va.msg.liveperson.net^$websocket,domain=online.citi.com
 @@||varagesale.com/assets/analytics-$script,~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vice.com^*/AdobeAnalyticsSDK.min.js
