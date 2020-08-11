@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gad8ab6C7nXPj92ZQUoGmA
-! Version: 202008110811
+! Checksum: +t5/luq/rJhJVCi5PUA+zw
+! Version: 202008111210
 ! Title: EasyList
-! Last modified: 11 Aug 2020 08:11 UTC
+! Last modified: 11 Aug 2020 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33693,6 +33693,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||withinknuko.club^
 ||withougheves.site^
 ||withoughstors.club^
+||withoused.club^
 ||wityamdog.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
@@ -35117,7 +35118,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||buxp.org^$third-party
 ||buyflood.com^$third-party
 ||buyorselltnhomes.com^$third-party
-||buysellads.com^$third-party
+||buysellads.com^$third-party,domain=~bsa-whitelabel.com
 ||buysellads.net^$third-party
 ||buyt.in^$third-party
 ||buywing.com^$third-party
@@ -51583,6 +51584,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||economist.com.na^*/banners/
 ||ed2k.2x4u.de/mfc/
 ||emoneyspace.com/b.php
+||engagesrvr.filefactory.com^
 ||engine.laweekly.com^
 ||enjoy.modd.io^
 ||eprop.co.za/images/banners/
