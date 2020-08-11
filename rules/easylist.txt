@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c2v62xrAZVuX6HlKTjBuSw
-! Version: 202008111610
+! Checksum: 2uert6RNIbqBmDh8iJ6g8A
+! Version: 202008112011
 ! Title: EasyList
-! Last modified: 11 Aug 2020 16:10 UTC
+! Last modified: 11 Aug 2020 20:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20869,6 +20869,7 @@ _popunder+$popup
 ##.ads-post-full
 ##.ads-profile
 ##.ads-rail
+##.ads-rect
 ##.ads-rectangle
 ##.ads-relatedbottom
 ##.ads-right
@@ -31211,6 +31212,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||aadajnnn133.xyz^
 ||abeaddc65282d465.com^
 ||abeforeign.club^
+||abergently.club^
 ||abevc.club^
 ||abgligarchan.com^
 ||ablymechan.club^
@@ -32879,6 +32881,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pagiwp.com^
 ||pagnookr.net^
 ||paintifiercute.club^
+||pakistant.club^
 ||paraterinchest.site^
 ||paratingsulik.site^
 ||parentful.club^
@@ -33414,6 +33417,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tartoals.net^
 ||taryarguestio.info^
 ||tasterdayuns.top^
+||tatdunsit.com^
 ||taveredezeri.site^
 ||teachiefislate.space^
 ||teachievedim.site^
@@ -63551,6 +63555,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||dmm.com^*/display_ad.js$~third-party
 @@||downol.dr.dk/download/*&clicktag=http$document,subdocument,domain=dr.dk
 @@||dr.dk/creatives/*/js_banner?adspaceid=$~third-party
+@@||dr.dk^*^sasfid=*&clicktag=$subdocument,domain=dr.dk
 @@||felcia.co.uk/css/ads-common.css
 @@||felcia.co.uk/css/advert-view.css
 @@||felcia.co.uk/js/ads_common.js
@@ -63583,6 +63588,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp
 @@||s0.2mdn.net/instream/html5/ima3.js$script,domain=tilt.fi
 @@||samplefan.com/img/ad/$image
+@@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk
 @@||smartadserver.com/3310/call$xmlhttprequest,domain=dr.dk
 @@||smartadserver.com/ac?nwid=3310^$script,domain=dr.dk
 @@||smartadserver.com/h/nshow?siteid=$script,domain=dr.dk
