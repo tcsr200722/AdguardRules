@@ -212,13 +212,13 @@ jobs:
     - name: commit and push
       run: |
         if [ -z "$(git status --porcelain)" ]; then 
-          exit 0
-        else 
-          git add .
-          git config --local user.email "you.siki@outlook.com"
-          git config --local user.name "yousiki"
-          git commit -a -m "github action $(date)"
-        fi
+            exit 0
+          else 
+            git add .
+            git config --local user.email "you.siki@outlook.com"
+            git config --local user.name "yousiki"
+            git commit -a -m "Github Actions @ $(date)"
+          fi
 
   sync-to-gitee:
     runs-on: ubuntu-latest
