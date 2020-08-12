@@ -16,6 +16,10 @@
 
 示例 `https://gitee.com/yousiki/AdguardRules/raw/master/rules/anti-ad-easylist.txt`
 
+## GitCDN
+
+示例 `https://gitcdn.xyz/repo/YOUSIKI/AdguardRules/master/rules/anti-ad-easylist.txt`
+
 ## Contribute
 
 欢迎通过 PR 加入更多过滤器。
