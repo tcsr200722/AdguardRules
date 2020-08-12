@@ -209,7 +209,7 @@ jobs:
         file-name: "steven-black-hosts"
         location: "./rules"
     
-    - name: commit and push
+    - name: commit
       run: |
         if [ -z "$(git status --porcelain)" ]; then 
             exit 0
@@ -219,6 +219,10 @@ jobs:
             git config --local user.name "yousiki"
             git commit -a -m "Github Actions @ $(date)"
           fi
+    - name: push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}
 
   sync-to-gitee:
     runs-on: ubuntu-latest
