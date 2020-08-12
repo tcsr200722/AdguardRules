@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8Ga0dYXrTz7ifrFNEuC/eQ
-! Version: 202008121911
+! Checksum: eGHPyyTvvXOwnRMR3RZTFA
+! Version: 202008121921
 ! Title: EasyList
-! Last modified: 12 Aug 2020 19:11 UTC
+! Last modified: 12 Aug 2020 19:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3125,7 +3125,7 @@
 /adsp/*
 /adspa.
 /adspace.$domain=~adspace.pro
-/adspace/*
+/adspace/*$domain=~adspaceagency.com
 /adspace1.
 /AdSpace160x60.
 /adspace2.
