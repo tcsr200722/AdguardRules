@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6X15mh0r/lMicOiSTrPOsg
-! Version: 202008122001
+! Checksum: njWOU8En09Xmg0pAQd7S+w
+! Version: 202008122011
 ! Title: EasyList
-! Last modified: 12 Aug 2020 20:01 UTC
+! Last modified: 12 Aug 2020 20:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29802,6 +29802,7 @@ _popunder+$popup
 ##a[href^="https://djtcollectorclub.org/"][href*="?affiliate_id="]
 ##a[href^="https://dltags.com/"]
 ##a[href^="https://dynamicadx.com/"]
+##a[href^="https://earandmarketing.com/"]
 ##a[href^="https://easygamepromo.com/ef/custom_affiliate/"]
 ##a[href^="https://explore.findanswersnow.net/"]
 ##a[href^="https://farm.plista.com/pets"]
