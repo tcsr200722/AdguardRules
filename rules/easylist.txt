@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6HVioTkVpnJ3OSQoikyTrA
-! Version: 202008121641
+! Checksum: SDMCT8Nu90VW5es7CgIHyA
+! Version: 202008121701
 ! Title: EasyList
-! Last modified: 12 Aug 2020 16:41 UTC
+! Last modified: 12 Aug 2020 17:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29608,6 +29608,7 @@ _popunder+$popup
 ##a[href^="http://secure.hostgator.com/~affiliat/"]
 ##a[href^="http://secure.signup-page.com/"]
 ##a[href^="http://see-work.info/"]
+##a[href^="http://see.kmisln.com/"]
 ##a[href^="http://semi-cod.com/clicks/"]
 ##a[href^="http://serve.williamhill.com/promoRedirect?"]
 ##a[href^="http://server.cpmstar.com/click.aspx?poolid="]
@@ -31799,6 +31800,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||defeatureother.site^
 ||defeaturesher.club^
 ||definitedikdra.site^
+||deiligejenter.com^
 ||delainlygoverhe.info^
 ||demand.bidgear.com^
 ||demannewcure.site^
@@ -33302,6 +33304,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||seeptoag.net^
 ||senrecomines.fun^
 ||senrecominev.fun^
+||separatic.club^
 ||separenujilo.club^
 ||sequently.club^
 ||serconmp.com^
@@ -33324,6 +33327,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sg2rgnza7k9t.com^
 ||sgftrrs.com^
 ||shanta-jos.com^
+||sharedheels.com^
 ||shauthou.net^
 ||sheechoa.com^
 ||sheltenham.site^
@@ -34573,6 +34577,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||advg.jp^$third-party
 ||advgoogle.com^$third-party
 ||advideum.com^$third-party
+||advinci.club^$third-party
 ||advinci.co^$third-party
 ||advinci.net^$third-party
 ||adviralmedia.com^$third-party
