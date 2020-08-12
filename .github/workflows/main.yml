@@ -1,4 +1,4 @@
-name: CI
+name: AutoUpdate
 
 on:
   push:
@@ -9,27 +9,220 @@ on:
     - cron:  '0 */4 * * *'
     
 jobs:
-  build:
+  download-and-update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
+    - name: checkout
+      uses: actions/checkout@v2
+    
+    - name: clean folder
+      run: |
+        rm -rf rules
+        mkdir  rules
+    
+    - name: Adguard Simplified Dns Filter
+      uses: carlosperate/download-file-action@v1.0.3
       with:
-        python-version: "3.x"
-    - run: |
-        python downloader.py
-        date > LAST_UPDATED
-    - run: |
-        git config --global user.email you.siki@outlook.com
-        git config --global user.name yousiki
-        git add .
-        git commit -m "updated by github actions" -a
-    - uses: ad-m/github-push-action@master
+        file-url: "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+        file-name: "adguardsdnsfilter.txt"
+        location: "./rules"
+    
+    - name: EasyList
+      uses: carlosperate/download-file-action@v1.0.3
       with:
-        github_token: ${{ secrets.TOKEN }}
-  gitee:
+        file-url: "https://easylist-downloads.adblockplus.org/easylist.txt"
+        file-name: "easylist.txt"
+        location: "./rules"
+    
+    - name: EasyList-China
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+        file-name: "easylistchina.txt"
+        location: "./rules"
+    
+    - name: EasyList-Cookie
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: https://easylist-downloads.adblockplus.org/easylist-cookie.txt"
+        file-name: "easylist-cookie.txt"
+        location: "./rules"
+    
+    - name: EasyPrivacy
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
+        file-name: "easyprivacy.txt"
+        location: "./rules"
+      
+    - name: Anti-AD
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt"
+        file-name: "anti-ad-easylist.txt"
+        location: "./rules"
+    
+    - name: ChinaList 2.0
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/hopol/ChinaList2.0/master/ChinaList2.0.txt"
+        file-name: "chinalist.txt"
+        location: "./rules"
+        
+    - name: ChinaList 2.0
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/hopol/ChinaList2.0/master/ChinaList2.0.txt"
+        file-name: "chinalist.txt"
+        location: "./rules"
+    
+    - name: AdByBy-Lazy
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt"
+        file-name: "adbyby-lazy.txt"
+        location: "./rules"
+    
+    - name: AdByBy-Video
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt"
+        file-name: "adbyby-video.txt"
+        location: "./rules"
+    
+    - name: CJX-Annoyance
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+        file-name: "cjx-annoyance.txt"
+        location: "./rules"
+    
+    - name: i-dont-care-about-cookies
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://www.i-dont-care-about-cookies.eu/abp/"
+        file-name: "i-dont-care-about-cookies.txt"
+        location: "./rules"
+    
+    - name: xinggsf-rule
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
+        file-name: "xinggsf-rule.txt"
+        location: "./rules"
+    
+    - name: xinggsf-mv
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
+        file-name: "xinggsf-mv.txt"
+        location: "./rules"
+    
+    - name: Zhihu
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt"
+        file-name: "zhihu.txt"
+        location: "./rules"
+    
+    - name: Zhihu Strict
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt"
+        file-name: "zhihu-strict.txt"
+        location: "./rules"
+    
+    - name: Bilibili
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/Kr328/AdGuard-Custom-Rule/master/rule/bilibili.txt"
+        file-name: "bilibili.txt"
+        location: "./rules"
+    
+    - name: Google Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts"
+        file-name: "google-hosts"
+        location: "./rules"
+      
+    - name: AdAway Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://adaway.org/hosts.txt"
+        file-name: "adaway-hosts"
+        location: "./rules"
+    
+    - name: AdWars Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
+        file-name: "ad-wars-hosts"
+        location: "./rules"
+    
+    - name: 1024 Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
+        file-name: "1024-hosts"
+        location: "./rules"
+    
+    - name: hblock Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://hblock.molinero.xyz/hosts"
+        file-name: "hblock-hosts"
+        location: "./rules"
+    
+    - name: mvps Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "http://winhelp2002.mvps.org/hosts.txt"
+        file-name: "mvps-hosts"
+        location: "./rules"
+    
+    - name: neo Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://hosts.nfz.moe/full/hosts"
+        file-name: "neo-hosts"
+        location: "./rules"
+    
+    - name: yhosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+        file-name: "yhosts-hosts"
+        location: "./rules"
+    
+    - name: yourlist Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt"
+        file-name: "yourlist-hosts"
+        location: "./rules"
+    
+    - name: steven black Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+        file-name: "steven-black-hosts"
+        location: "./rules"
+    
+    - name: commit and push
+      run: |
+        if [ -z "$(git status --porcelain)" ]; then 
+          exit 0
+        else 
+          git add .
+          git config --local user.email "you.siki@outlook.com"
+          git config --local user.name "yousiki"
+          git commit -a -m "github action $(date)"
+        fi
+
+  sync-to-gitee:
     runs-on: ubuntu-latest
-    needs: build
+    needs: download-and-update
     steps:
     - uses: actions/checkout@v2
     - uses: Yikun/hub-mirror-action@master
@@ -40,9 +233,10 @@ jobs:
         dst_token: ${{ secrets.GITEE_TOKEN }}
         white_list: "AdguardRules"
         force_update: true
-  bitbucket:
+
+  sync-to-bitbucket:
     runs-on: ubuntu-latest
-    needs: build
+    needs: download-and-update
     steps:
     - uses: actions/checkout@v2
     - run: git fetch --unshallow origin
