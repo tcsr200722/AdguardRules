@@ -68,13 +68,6 @@ jobs:
         file-url: "https://raw.githubusercontent.com/hopol/ChinaList2.0/master/ChinaList2.0.txt"
         file-name: "chinalist.txt"
         location: "./rules"
-        
-    - name: ChinaList 2.0
-      uses: carlosperate/download-file-action@v1.0.3
-      with:
-        file-url: "https://raw.githubusercontent.com/hopol/ChinaList2.0/master/ChinaList2.0.txt"
-        file-name: "chinalist.txt"
-        location: "./rules"
     
     - name: AdByBy-Lazy
       uses: carlosperate/download-file-action@v1.0.3
@@ -139,11 +132,46 @@ jobs:
         file-name: "bilibili.txt"
         location: "./rules"
     
+    - name: Spam404
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt"
+        file-name: "spam404.txt"
+        location: "./rules"
+    
+    - name: Nocoin
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
+        file-name: "nocoin.txt"
+        location: "./rules"
+        
+    - name: Urlhaus Filter Online
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt"
+        file-name: "urlhaus-filter-online.txt"
+        location: "./rules"
+        
     - name: Google Hosts
       uses: carlosperate/download-file-action@v1.0.3
       with:
         file-url: "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts"
         file-name: "google-hosts"
+        location: "./rules"
+    
+    - name: Nocoin Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+        file-name: "nocoin-hosts"
+        location: "./rules"
+      
+    - name: Urlhaus Filter Hosts
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-hosts.txt"
+        file-name: "urlhaus-filter-hosts"
         location: "./rules"
       
     - name: AdAway Hosts
