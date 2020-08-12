@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dKEvRxZnOzBGtc4eEgKQmA
-! Version: 202008121901
+! Checksum: 8Ga0dYXrTz7ifrFNEuC/eQ
+! Version: 202008121911
 ! Title: EasyList
-! Last modified: 12 Aug 2020 19:01 UTC
+! Last modified: 12 Aug 2020 19:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15548,6 +15548,7 @@ _popunder+$popup
 ###middle-ad
 ###middle-ad-destin
 ###middle-story-ad-container
+###middleAd
 ###middleRightColumnAdvert
 ###middle_ad
 ###middle_ads
@@ -21181,6 +21182,7 @@ _popunder+$popup
 ##.ads_disc_square
 ##.ads_disclaimer
 ##.ads_div
+##.ads_div1
 ##.ads_entrymore
 ##.ads_folat_left
 ##.ads_foot
@@ -25147,6 +25149,7 @@ _popunder+$popup
 ##.homefront468Ad
 ##.homepage-300-250-ad
 ##.homepage-ad
+##.homepage-ad-block
 ##.homepage-ad-block-padding
 ##.homepage-ad-buzz-col
 ##.homepage-ad-module
@@ -25355,6 +25358,7 @@ _popunder+$popup
 ##.ingridAd
 ##.inhouseAdUnit
 ##.inhousead
+##.injected-ad
 ##.injectedAd
 ##.inline-ad
 ##.inline-ad-card
@@ -29006,6 +29010,7 @@ _popunder+$popup
 ##.webadvert-container
 ##.webit-ads
 ##.webpart-wrap-advert
+##.website-ad-space
 ##.well-ad
 ##.werb_textlink
 ##.wfb-ad
