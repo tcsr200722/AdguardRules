@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: k80tr34HqKxtCL6QmsYaHQ
-! Version: 202008122141
+! Checksum: Y9TCk4Hj/gXa4hevfr3JXw
+! Version: 202008122201
 ! Title: EasyList
-! Last modified: 12 Aug 2020 21:41 UTC
+! Last modified: 12 Aug 2020 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52889,12 +52889,6 @@ $media,domain=damimage.com|imagedecode.com|imageteam.org
 $script,third-party,xmlhttprequest,domain=abcvideo.cc
 @@||assets.hcaptcha.com/captcha/$script,subdocument,domain=abcvideo.cc
 @@||hcaptcha.com^*/api.js$script,domain=abcvideo.cc
-! 4shared.com
-$image,script,subdocument,third-party,xmlhttprequest,domain=4shared.com
-@@||apis.google.com/js/plusone.js$script,domain=4shared.com
-@@||connect.facebook.net^$script,domain=4shared.com
-|ws://$domain=4shared.com
-||4shared.com/web/amscript/
 ! streamplay
 @@||spcdn.cc^$image,script,xmlhttprequest,domain=streamplay.to
 |http://$image,script,subdocument,third-party,xmlhttprequest,domain=streamplay.to
