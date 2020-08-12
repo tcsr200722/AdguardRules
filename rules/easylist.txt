@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sgxmYJZaW5lc6l61HcD06A
-! Version: 202008121621
+! Checksum: 6HVioTkVpnJ3OSQoikyTrA
+! Version: 202008121641
 ! Title: EasyList
-! Last modified: 12 Aug 2020 16:20 UTC
+! Last modified: 12 Aug 2020 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29870,6 +29870,7 @@ _popunder+$popup
 ##a[href^="https://track.52zxzh.com/"]
 ##a[href^="https://track.adform.net/"]
 ##a[href^="https://track.afftck.com/"]
+##a[href^="https://track.bruceads.com/"]
 ##a[href^="https://track.clickmoi.xyz/"]
 ##a[href^="https://track.healthtrader.com/"]
 ##a[href^="https://track.themadtrcker.com/"]

@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pdon2Zmi5sN0X0Pwxlu0Aw
-! Version: 202008121621
+! Checksum: +ORmdoYDSN8Cv4L5IqVirQ
+! Version: 202008121641
 ! Title: EasyPrivacy
-! Last modified: 12 Aug 2020 16:21 UTC
+! Last modified: 12 Aug 2020 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16641,6 +16641,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||libero.it/search/abin/ajaxtrace?
 ||libero.it^*/counter.php?
 ||livestats.la7.tv^
+||lupoporno.com/js/analytics
 ||ma.register.it^
 ||mediaset.it/cgi-bin/getcod.cgi?
 ||mtv.it/flux/trackingcodes/
