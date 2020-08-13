@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: StXhEYSoRcbAj6R1GNdJOQ
-! Version: 202008130811
+! Checksum: DCI6fL47+0/Fq68Fr5h9bg
+! Version: 202008130821
 ! Title: EasyList
-! Last modified: 13 Aug 2020 08:10 UTC
+! Last modified: 13 Aug 2020 08:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63193,6 +63193,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||notebookcheck.$image,~third-party
 @@||npr.org/sponsorship/targeting/$~third-party,xmlhttprequest
 @@||ntv.io/serve/load.js$domain=mcclatchydc.com
+@@||online-banking.hsbc.com.au/gsp/saas/$~third-party
 @@||p.d.1emn.com^$script,domain=hotair.com
 @@||pbs.twimg.com/ad_img/$xmlhttprequest,domain=twitter.com
 @@||photofunia.com/effects/$image,~third-party
