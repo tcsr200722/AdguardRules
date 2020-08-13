@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j+vDQlEAVpJOldGVm9S4dA
-! Version: 202008130613
+! Checksum: jxKKNwAneG82vwIGj26zRg
+! Version: 202008130633
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 13 Aug 2020 06:13 UTC
+! Last Modified: 13 Aug 2020 06:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -17781,11 +17781,11 @@ thzk.cc##style + div[style="margin-bottom:5px"]
 ||chuantu.biz^$domain=thzk.cc
 ||sinaimg.cn^$domain=thzk.cc
 !#torrentkitty
-torkitty.com,torrentkitty.app,torrentkitty.tv,torrentkitty.se###fixedbanner
-torkitty.com,torrentkitty.app,torrentkitty.tv,torrentkitty.se##A[href*="/aff_"]
-/jquery.bpopup.$domain=torkitty.com|torrentkitty.app|torrentkitty.tv|torrentkitty.se
-/images/vpn*.gif$domain=torkitty.com|torrentkitty.app|torrentkitty.tv|torrentkitty.se
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.tv|torrentkitty.se
+torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.tv,torrentkitty.se###fixedbanner
+torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.tv,torrentkitty.se##A[href*="/aff_"]
+/jquery.bpopup.$domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.tv|torrentkitty.se
+/images/vpn*.gif$domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.tv|torrentkitty.se
+$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.tv|torrentkitty.se
 !#u
 !#v
 !#webkaka.com
