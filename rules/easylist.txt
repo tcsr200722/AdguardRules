@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gK7/MxRlG/o2OAm+B4YlZA
-! Version: 202008130421
+! Checksum: HM4HrlfivhT5f9RaePL/RA
+! Version: 202008130441
 ! Title: EasyList
-! Last modified: 13 Aug 2020 04:21 UTC
+! Last modified: 13 Aug 2020 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31122,6 +31122,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||1st2nd.xyz^
 ||1uejo00npy.buzz^
 ||1ulebzhsv7.buzz^
+||233fb5b59351.com^
 ||25348f89a3.com^
 ||273920d845b.com^
 ||27vckaccbto7p761.pro^
@@ -31179,6 +31180,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||5okyhhthcu.xyz^
 ||5pr1sfzsl9.com^
 ||5vs3vvkjge.buzz^
+||5wuefo9haif3.com^
+||5x5i5tj2u97w.com^
 ||5yw028ngxe9x.com^
 ||63fut3uw0b.xyz^
 ||63r2vxacp0pr.com^
@@ -31880,6 +31883,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dregardianfl.site^
 ||droztihu.com^
 ||drunkersrr.club^
+||drwkzkncihwygw.com^
 ||dryzapsol.com^
 ||dskyseconomic.info^
 ||dspleastanci.site^
@@ -31900,6 +31904,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||e21b1642db801b2a.com^
 ||e2706c6e2b426f74.com^
 ||e2ertt.com^
+||e2wysbacctt1.com^
 ||e376ef28103177cc.com^
 ||eadminimals.fun^
 ||eae5daf052d2673b.com^
@@ -32037,6 +32042,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||evemasoil.com^
 ||eventurypol.site^
 ||eveteaemo.com^
+||evokeframingimpossible.com^
 ||ewseriencern.fun^
 ||exchangepresumeethel.com^
 ||exercially.mobi^
@@ -32060,6 +32066,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||f3551539d6565853.com^
 ||f40f89d54b8.com^
 ||f71bxwn500lj.com^
+||fa165246ee.com^
+||facde99c445.com^
 ||fadsans.com^
 ||fadsanz.com^
 ||fadsatz.com^
@@ -32133,6 +32141,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fnx2n3rqbuw7.com^
 ||fogayeown.com^
 ||fontainsuny.club^
+||fontawfully.com^
 ||foowafoa.com^
 ||forcementsawe.site^
 ||foreignsec.club^
@@ -33559,6 +33568,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tracktraf.com^
 ||traff6.com^
 ||trafiq.loan^
+||trafiq.stream^
 ||traighteri.club^
 ||transardugde.club^
 ||trblocked.com^
@@ -33598,6 +33608,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ueuodgnrhb.com^
 ||ufmmtncv.com^
 ||ufoukolt.com^
+||ufow9xfashbm.com^
 ||ufpcdn.com^
 ||ughhimtoy.com^
 ||ugoupams.com^
@@ -33793,6 +33804,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xauthorous.club^
 ||xcvgdf.party^
 ||xebadu.com^
+||xgubafscfsf.com^
 ||xineday.com^
 ||xioodnxc1p1a.com^
 ||xixlgtczn.com^
