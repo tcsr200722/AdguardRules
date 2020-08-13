@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NeuyQz237wu9zlXHzUy4zA
-! Version: 202008131601
+! Checksum: q3tP6MjO4DUOJTgDtxWdVA
+! Version: 202008131611
 ! Title: EasyList
-! Last modified: 13 Aug 2020 16:01 UTC
+! Last modified: 13 Aug 2020 16:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51995,6 +51995,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sunshineradio.ie/images/banners/
 ||surfmusic.de/anz
 ||survivalblog.com/marketplace/
+||t6d7p4p9.stackpathcdn.com/wp-content/uploads/2020/07/ferty-ad-1.jpg
 ||taadd.com/files/js/site_skin.js
 ||tag.vlitag.com^
 ||talkers.com/imagebase/
