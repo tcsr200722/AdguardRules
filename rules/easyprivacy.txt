@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hpkfn9FTMmhUkCY3eKvKyA
-! Version: 202008141701
+! Checksum: 2A6KIOSHWsqyizdAgHay3g
+! Version: 202008141721
 ! Title: EasyPrivacy
-! Last modified: 14 Aug 2020 17:01 UTC
+! Last modified: 14 Aug 2020 17:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1870,6 +1870,7 @@
 /fingerprint3.js
 /fingerprint3.min.js
 /fingerprintjs2.
+/firebase-analytics.js
 /firestats/*
 /firm_tracking.js
 /fkounter/*
