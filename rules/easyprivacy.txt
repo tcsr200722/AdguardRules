@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VCxgHsOkwytfMqpSi/yrLQ
-! Version: 202008141021
+! Checksum: jRMJQPe+ppfm8JPABocY7w
+! Version: 202008141041
 ! Title: EasyPrivacy
-! Last modified: 14 Aug 2020 10:21 UTC
+! Last modified: 14 Aug 2020 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2041,7 +2041,7 @@
 /geo-ip-detect?
 /geo.php?
 /geoAnalysis.js
-/geocc.
+/geocc.$domain=~geocc.ru
 /geocoding.ash
 /geocompteur.
 /geocounter.
