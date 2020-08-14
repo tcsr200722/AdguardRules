@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: j8dDWHRZ6Hn9za1CzvVDUQ
-! Version: 202008140301
+! Checksum: vj/mQvcKw/vA0bzKIs8n5Q
+! Version: 202008140321
 ! Title: EasyPrivacy
-! Last modified: 14 Aug 2020 03:01 UTC
+! Last modified: 14 Aug 2020 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11984,7 +11984,7 @@ _mongo_stats/
 ||fastly.net/sp.js
 ! Unnecessary third-party scripts
 ||howsmyssl.com^$third-party
-||js.trendmd.com/trendmd.min.js
+||js.trendmd.com^$script,subdocument,third-party
 ||nsg.symantec.com^$third-party
 ||seal.godaddy.com^$third-party
 ||seal.networksolutions.com^$third-party
