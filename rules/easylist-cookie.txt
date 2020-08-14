@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2KyzU9Ztjrne0dn3Z7MkTw
-! Version: 202008141721
+! Checksum: dOV+bRPu83RrnyU/Kua2dA
+! Version: 202008141740
 ! Title: EasyList Cookie List
-! Last modified: 14 Aug 2020 17:21 UTC
+! Last modified: 14 Aug 2020 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12762,6 +12762,7 @@ agenda.brussels,visit.brussels##.confirm
 acast.com,builds.gg,checkyourmath.com,codementor.io##.consent
 fancentro.com##.consent-message
 justwatch.com##.consent-notification
+printscreenshot.com##.consent-overlay
 sportskeeda.com##.consent-pop-up
 themaven.net##.consent-ui
 xing.com##.consent_wrapper
