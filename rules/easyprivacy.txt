@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: lNSotqoH4S/bnjSA4fGQjg
-! Version: 202008151301
+! Checksum: uYYxLKX2yV3o8KYBuIW3AA
+! Version: 202008151311
 ! Title: EasyPrivacy
-! Last modified: 15 Aug 2020 13:01 UTC
+! Last modified: 15 Aug 2020 13:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2943,7 +2943,7 @@
 /NetworkTracking.
 /neustar.beacon.
 /new-client/trackers.
-/new-relic.
+/new-relic.$~stylesheet
 /new.cnt.aspx?
 /newlog.php?
 /newrelic-google-
