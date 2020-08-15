@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kssajW6Dl3bYAkxBHgFwrQ
-! Version: 202008152120
+! Checksum: IvJQh29eNLz+V/x7EDZEeA
+! Version: 202008152140
 ! Title: EasyList Cookie List
-! Last modified: 15 Aug 2020 21:20 UTC
+! Last modified: 15 Aug 2020 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14492,6 +14492,7 @@ fikriyat.com,sabah.com.tr,turkuvazradyolar.com,yeniasir.com.tr##.veriAltBar
 !
 fdu.org.ua###pd_popup
 i.ua##.Disclaimer
+tsn.ua##.c-notification__box
 unian.ua##.cookies
 landrover.ua##.notificationBars
 ua-football.com##.policy-mes
