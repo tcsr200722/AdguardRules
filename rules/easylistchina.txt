@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ugis7LLpSZwrXuorBefIRA
-! Version: 202008162313
+! Checksum: C+238JqTv8w8za04oPs2zg
+! Version: 202008162333
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 16 Aug 2020 23:13 UTC
+! Last Modified: 16 Aug 2020 23:33 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
