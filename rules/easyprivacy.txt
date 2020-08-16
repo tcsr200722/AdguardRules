@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 3AVA6vj3Hjauts37MJTEPA
-! Version: 202008161241
+! Checksum: yOWPIxUlAKGwj38JvrfDxg
+! Version: 202008161301
 ! Title: EasyPrivacy
-! Last modified: 16 Aug 2020 12:41 UTC
+! Last modified: 16 Aug 2020 13:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7354,6 +7354,7 @@ _mongo_stats/
 ||rapidtrk.net^$third-party
 ||rating.in^$third-party
 ||reachforce.com^$third-party
+||reachlocalservices.com^$third-party
 ||reachsocket.com^$third-party
 ||reactful.com^$third-party
 ||reactrmod.com^$third-party
@@ -7430,6 +7431,7 @@ _mongo_stats/
 ||rktch.com^$third-party
 ||rktu.com^$third-party
 ||rlcdn.com^$third-party
+||rlets.com^$third-party
 ||rmtag.com^$third-party
 ||rnengage.com^$third-party
 ||rng-snp-003.com^$third-party
@@ -10680,6 +10682,7 @@ _mongo_stats/
 ||ga.kvideo.io^
 ||ga.webdigi.co.uk^
 ||gamegecko.com/gametrack?
+||gannettdigital.com/capture_logger/
 ||gatehousemedia.com/wickedlocal/ip.js
 ||gateway.foresee.com^
 ||gcion.com/gcion.ashx?
