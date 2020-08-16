@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pStyPi30iCsEgctYYSBaBw
-! Version: 202008161121
+! Checksum: IyH/0r8W98u02QyQJ+Xgfw
+! Version: 202008161140
 ! Title: EasyList
-! Last modified: 16 Aug 2020 11:21 UTC
+! Last modified: 16 Aug 2020 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32470,6 +32470,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jobhobfir.club^
 ||jockeryfgtu.club^
 ||jodellbrought.pro^
+||joobuste.com^
 ||joyvowdig.com^
 ||jqk72ugyl2pz.com^
 ||judaisydfs.club^
@@ -34733,6 +34734,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||adxpremium.services^$third-party
 ||adxprts.com^$third-party
 ||adxprtz.com^$third-party
+||adxpub.com^$third-party
 ||adxscope.com^$third-party
 ||adxxx.me^$third-party
 ||adxxx.org^$third-party
@@ -51534,6 +51536,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gaystarnews.com^*-sponsor.
 ||gaystarnews.com^*/PartnersArtboard-
 ||gaystarnews.com^*/SponsorsArtboard-
+||gcloud.live/asset/bann.js
 ||gen.etherscan.io^
 ||geo*.hltv.org^
 ||gerber-viewer.com/images/*_banner/
@@ -52433,19 +52436,14 @@ $script,third-party,xmlhttprequest,domain=torrentdownload.info
 @@||disquscdn.com^$domain=series9.to
 @@||disqusservice.com^$domain=series9.to
 @@||themovieseries.net^$image,domain=series9.to
-@@||vidcloud.icu^$subdocument,domain=series9.to
 @@||vidcloud9.com^$subdocument,domain=series9.to
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=series9.to
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=series9.to
-! gowatchseries
-$subdocument,third-party,domain=vidcloud.icu
-@@||disqus.com^$domain=gowatchseries.tv
-@@||disquscdn.com^$domain=gowatchseries.tv
-@@||fembed.com^$subdocument,domain=gowatchseries.tv
-@@||themovieseries.net^$image,domain=gowatchseries.tv
-@@||vidcloud.icu^$subdocument,domain=gowatchseries.tv
-|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=gowatchseries.tv
-|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=gowatchseries.tv
+! gowatchseries (> series.movie)
+$image,script,stylesheet,third-party,xmlhttprequest,domain=gowatchseries.movie|gowatchseries.tv|series.movie
+@@||disqus.com^$domain=series.movie
+@@||disquscdn.com^$domain=series.movie
+@@||themovieseries.net^$image,domain=series.movie
 ! skidrowreloaded.com
 |http://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 |https://$script,third-party,xmlhttprequest,domain=skidrowreloaded.com

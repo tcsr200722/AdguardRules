@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gIwLxrtdCId9bbc0keS0pQ
-! Version: 202008161121
+! Checksum: uO5/bwCH3amVOuDoqRo8Qg
+! Version: 202008161140
 ! Title: EasyList Cookie List
-! Last modified: 16 Aug 2020 11:21 UTC
+! Last modified: 16 Aug 2020 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5004,6 +5004,7 @@ _site_cookie_
 ###gdpr-block
 ###gdpr-bottom
 ###gdpr-bottom-banner
+###gdpr-bottom-banner-container
 ###gdpr-box
 ###gdpr-consent
 ###gdpr-consent-banner
@@ -10146,6 +10147,7 @@ _site_cookie_
 ##.gdprbox
 ##.gdprboxcolor
 ##.gdprcookie
+##.gdprcookie-wrapper
 ##.gdprfooter
 ##.gdprpopup
 ##.gdprrhs
@@ -13515,6 +13517,7 @@ eco-systemes.fr,ffr.fr,midilibre.fr,quelpneu.com,sudouest.fr,tv7.com##.cookie
 creavea.com##.creavea-banner-cookie-consent
 tv5unis.ca##.css-wydzoi.e1v9p9hw0
 lexus.fr##.disclaimer
+doctolib.fr##.dl-drawer
 molotov.tv##.eRnhI
 weclap.fr##.front_web_app_main_menu_front-web-app-main-menu-component_front_show_cookie_container
 woodbrass.com##.hidden-sm.hidden-md.row
