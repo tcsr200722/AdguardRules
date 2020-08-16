@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /Aqb98xw8DZ7ibr0pdP/gw
-! Version: 202008161200
+! Checksum: b95xd9CvnKW6cYjRVWe+eg
+! Version: 202008161220
 ! Title: EasyList Cookie List
-! Last modified: 16 Aug 2020 12:00 UTC
+! Last modified: 16 Aug 2020 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14681,6 +14681,7 @@ popsugar.co.uk#@##_evidon-barrier-wrapper
 etonline.com,popsugar.co.uk,popsugar.com,popsugar.com.au#@##_evidon_banner
 aboutcookies.org#@##aboutcookies
 franziskaner-weissbier.de,xmradio.nl#@##accept-cookies
+epolisbari.com#@##accept_cookie
 aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification
 aixfoam.com,aixfoam.de,aixfoam.dk,aixfoam.fi,aixfoam.fr,aixfoam.nl,aixfoam.se#@##cc-notification-wrapper
 bing.com#@##cc_container
@@ -14709,7 +14710,7 @@ ad.win.nl#@##cookieConsentBox
 techopital.com#@##cookieConsentContainer
 indebuurt.nl,tweakers.net#@##cookieContainer
 tiger.nl#@##cookieMessage
-arbeiterkammer.at,brieftip.pl,britishairways.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
+arbeiterkammer.at,brieftip.pl,britishairways.com,epolisbari.com,fotofairsicherung.de,kaliber.pl,naszwybir.pl,onsbrabantnet.nl,tropicana.fr,woolworth.de#@##cookieModal
 dhbbank.nl#@##cookieModalCenter
 krefting.de#@##cookieNote
 tweakers.net#@##cookieOverlay
@@ -14792,7 +14793,7 @@ bbcstudios.com,fotopuzzle.de,hearst.co.uk#@#.cookie-policy
 fotopuzzle.de#@#.cookie-policy-wrapper
 60millions-mag.com#@#.cookie-popup
 lot.com#@#.cookie-promo
-lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
+epolisbari.com,lauritz.com,qxl.de,qxl.dk,qxl.fi,qxl.no,qxl.se#@#.cookie-text
 proglib.io#@#.cookie-visible
 538.nl,pieseauto.ro,saxion.edu,unileverfoodsolutions.com.br,unileverfoodsolutions.com.tr,unileverfoodsolutions.it,xmradio.nl,xs4all.nl#@#.cookie-wall
 ben.nl,bynco.com#@#.cookie-wall-container
