@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: MjnSVgNmO4iIPg6o6ywelg
-! Version: 202008161311
+! Checksum: Y6Nbg5Zk50A4437DN+hWEQ
+! Version: 202008161321
 ! Title: EasyPrivacy
-! Last modified: 16 Aug 2020 13:11 UTC
+! Last modified: 16 Aug 2020 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4580,6 +4580,7 @@
 /traffictrade/*
 /traffix-track.
 /trafic.js
+/trail.gif?s=
 /trakksocial.js
 /trans/logger.js
 /trans_pixel.asp
