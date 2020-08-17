@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: PzX2FiD8VfPZ+FMNZMb+Nw
-! Version: 202008171121
+! Checksum: XLBx6eKuN+FBtsXdSlhVDQ
+! Version: 202008171141
 ! Title: EasyPrivacy
-! Last modified: 17 Aug 2020 11:21 UTC
+! Last modified: 17 Aug 2020 11:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5778,6 +5778,7 @@ _mongo_stats/
 ||athenainstitute.biz^$third-party
 ||atoshonetwork.com^$third-party
 ||atp.io^$third-party
+||atsptp.com^$third-party
 ||atticwicket.com^$third-party
 ||attracta.com^$third-party
 ||attributionapp.com^$third-party
