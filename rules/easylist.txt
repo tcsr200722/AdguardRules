@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: afrkBTBClTmZY/RQcfAOww
-! Version: 202008170301
+! Checksum: W7x2gunmOunFgQPhSmDA/A
+! Version: 202008170311
 ! Title: EasyList
-! Last modified: 17 Aug 2020 03:01 UTC
+! Last modified: 17 Aug 2020 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31296,6 +31296,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||admiriam.club^
 ||admitteepom.club^
 ||adoperatorx.com^
+||adopexchange.com^
 ||adreach.me^
 ||adsco.re^
 ||adservi.com^
@@ -31632,6 +31633,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||carbourse.club^
 ||cardmrket.com^
 ||carefuseds.club^
+||carelacysince.com^
 ||carpetusiko.club^
 ||carticuladx.club^
 ||casinohacksforyou.com^
@@ -31668,6 +31670,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||changement.pro^
 ||chantmarez.club^
 ||characteristicleisure.com^
+||characteristicsumptuousmister.com^
 ||charactice.club^
 ||charalli.pro^
 ||check-now.online^
@@ -31975,6 +31978,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||edmotherew.fun^
 ||edoutoam.net^
 ||edspicuousind.site^
+||educatednicer.com^
 ||educationdemotediabete.com^
 ||edvforeveretest.info^
 ||edwhitnes.info^
@@ -31994,6 +31998,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eikegolehem.com^
 ||eitherewindoor.club^
 ||ek9xrk5gyu.com^
+||elasticrosy.com^
 ||elastinabuker.site^
 ||eldedtickered.site^
 ||eleasuredfas.info^
@@ -33005,6 +33010,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||p6p2w3v92czo.com^
 ||pabhagivene.site^
 ||pacitiesbo.info^
+||pactendsmalt.icu^
 ||padma-fed.com^
 ||padpitnon.site^
 ||padsabz.com^
@@ -33376,6 +33382,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||santrateduk.site^
 ||sapelmyep.com^
 ||sapsixysho.pro^
+||sapsuaveover.com^
 ||sarcasticlinezomby.com^
 ||sarydrinkletr.site^
 ||sasingfinities.space^
@@ -33638,6 +33645,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||thterras.com^
 ||thywhapupi.pro^
 ||tibacta.com^
+||tidint.pro^
 ||tifybecausingp.info^
 ||tilfb.com^
 ||tionpronomyim.info^
@@ -49386,6 +49394,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||downloadprovider.me/en/search/*?aff.id=*&iframe=$third-party
 ||dpbfm6h358sh7.cloudfront.net^
 ||dpsq2uzakdgqz.cloudfront.net^
+||dq3yxnlzwhcys.cloudfront.net^
 ||dqhi3ea93ztgv.cloudfront.net^
 ||dr3k6qonw2kee.cloudfront.net^
 ||dr8pk6ovub897.cloudfront.net^
