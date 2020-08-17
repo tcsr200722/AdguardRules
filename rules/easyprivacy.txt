@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: eOHL6p5VRKalTb52XpkcNQ
-! Version: 202008170922
+! Checksum: /BVtZV0Uy1bDLGVbrWl2iw
+! Version: 202008170941
 ! Title: EasyPrivacy
-! Last modified: 17 Aug 2020 09:22 UTC
+! Last modified: 17 Aug 2020 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9439,7 +9439,6 @@ _mongo_stats/
 ||kir.jp^$third-party
 ||letro.jp^$third-party
 ||macromill.com^$third-party
-||marsflag.com^$third-party
 ||mobylog.jp^$third-party
 ||msgs.jp^$third-party
 ||nex8.net^$third-party
@@ -11005,6 +11004,8 @@ _mongo_stats/
 ||marketingautomation.services/net?$third-party
 ||marketo.com/gw1/
 ||marketo.com/rtp-api/
+||marsflag.com^*/tr.js
+||marsflag.com^*/tr.min.js
 ||mas.nth.ch^
 ||mashery.com/analytics/
 ||materiel.net/r/$image
@@ -11606,6 +11607,7 @@ _mongo_stats/
 ||tr.cloud-media.fr^
 ||tr.connatix.com^
 ||tr.interlake.net^
+||tr.marsflag.com^
 ||tr.webantenna.info^
 ||tr1.mailperformance.com^
 ||tra.scds.pmdstatic.net/pmc-starter/$script
