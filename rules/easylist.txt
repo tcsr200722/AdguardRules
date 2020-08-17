@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AwCT9iKfkmJL7R9Aks5CPA
-! Version: 202008171311
+! Checksum: u/2m09CL0B8mZPB3x6R42A
+! Version: 202008171321
 ! Title: EasyList
-! Last modified: 17 Aug 2020 13:11 UTC
+! Last modified: 17 Aug 2020 13:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63159,6 +63159,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||downol.dr.dk/download/*&clicktag=http$document,subdocument,domain=dr.dk
 @@||dr.dk/creatives/*/js_banner?adspaceid=$~third-party
 @@||dr.dk^*^sasfid=*&clicktag=$subdocument,domain=dr.dk
+@@||ebaykorea.com/ADS/$image,domain=gmarket.co.kr
 @@||felcia.co.uk/css/ads-common.css
 @@||felcia.co.uk/css/advert-view.css
 @@||felcia.co.uk/js/ads_common.js
