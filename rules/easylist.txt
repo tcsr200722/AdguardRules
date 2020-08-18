@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pqbXNbYJ5LHZ+VW28m2Nfg
-! Version: 202008181201
+! Checksum: 7jmw0mlrmqQwyyk57Ymc7w
+! Version: 202008181221
 ! Title: EasyList
-! Last modified: 18 Aug 2020 12:01 UTC
+! Last modified: 18 Aug 2020 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4496,7 +4496,6 @@
 /dfp-ads.
 /dfp-ads/*
 /dfp-custom/*
-/dfp.js
 /dfp.min.js
 /dfp/async.
 /dfp/blocks/*
@@ -63155,7 +63154,6 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||api.friends.ponta.jp/api/$~third-party
 @@||bancodevenezuela.com/imagenes/publicidad/$~third-party
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
-@@||borsen.dk/themes/borsen.dk/js/dfp.js$script
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
 @@||ced.sascdn.com/tag/*/smart.js$domain=dr.dk
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
