@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FQv/A3E9uK9cvJhFilZMVQ
-! Version: 202008181411
+! Checksum: n+LX/Aahq21//R9hHuokBg
+! Version: 202008181421
 ! Title: EasyList
-! Last modified: 18 Aug 2020 14:10 UTC
+! Last modified: 18 Aug 2020 14:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30994,6 +30994,7 @@ anythinghollywood.com,aylak.com#@#.top-ad
 mobilesyrup.com#@#.top-ad-container
 programmableweb.com#@#.top-ad-wrapper
 afbmotorcycles.co.uk#@#.top-advert
+cp24.com#@#.topAd
 nypress.com,timescall.com#@#.topAds
 horsemart.co.uk,torrentv.org#@#.top_ad
 egmnow.com#@#.top_ad_wrap
