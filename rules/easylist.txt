@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: J7yovumLV9xHQb/qaYLdkA
-! Version: 202008190741
+! Checksum: y6fSNuROQPMkgnr+Va2CLQ
+! Version: 202008190801
 ! Title: EasyList
-! Last modified: 19 Aug 2020 07:41 UTC
+! Last modified: 19 Aug 2020 08:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58250,6 +58250,7 @@ careerbuilder.com##.cbmsnArticleAdvertisement
 wcco.com##.cbstv_top_one_column
 givemefile.net##.ccb_cap_class_1
 bigwhite.com##.ccm-image-block
+ccm.net##.ccm_pugoo__sponso
 toptenreviews.com##.ceh_top_ad_container
 nick.com##.celebrity-sponsored
 mybrute.com##.cellulePub
