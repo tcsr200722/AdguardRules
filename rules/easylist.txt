@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UD/gGqvx+bT5xB4ORtUH4A
-! Version: 202008190600
+! Checksum: +P1t5OKY/LaYJR6R0RsaNQ
+! Version: 202008190621
 ! Title: EasyList
-! Last modified: 19 Aug 2020 06:00 UTC
+! Last modified: 19 Aug 2020 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25203,6 +25203,7 @@ _popunder+$popup
 ##.horiz_adspace
 ##.horizontal-ad-holder
 ##.horizontal-ad2
+##.horizontal-ads
 ##.horizontal-advert-container
 ##.horizontalAd
 ##.horizontalAdText
@@ -28164,6 +28165,7 @@ _popunder+$popup
 ##.square-ad-1
 ##.square-ad-container
 ##.square-ad-pane
+##.square-ads
 ##.square-advt
 ##.square-sidebar-ad
 ##.square-sponsorship
@@ -59820,6 +59822,7 @@ sporcle.com##.pubnation
 protect-url.net##.pubpagebas
 radio.com##.purchase
 the18.com##.push-downv
+2conv.com##.push-offer
 vidoza.net##.pvr
 ndtv.com##.pw_wrp
 rockingsoccer.com##.pwadh
