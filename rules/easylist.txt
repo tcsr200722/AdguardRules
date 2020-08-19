@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8Px5tij4CvVFrF1Vb+A76A
-! Version: 202008191011
+! Checksum: rx6U/gzflX+aOWZMIl0rNA
+! Version: 202008191020
 ! Title: EasyList
-! Last modified: 19 Aug 2020 10:11 UTC
+! Last modified: 19 Aug 2020 10:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54457,7 +54457,6 @@ $script,domain=porno333.com
 ||movies.askjolene.com/c64?clickid=$popup
 ||namethatporn.com/ntpoo$popup
 ||nuvidp.com^$popup
-||pinporn.com/popunder/$popup
 ||pop.fapxl.com^$popup
 ||porn101.com^$popup,domain=lexsteele.com
 ||porndoo.com/pup/
