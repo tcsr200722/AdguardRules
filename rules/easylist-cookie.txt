@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QRoCmigUlJAy6YyybQiQZg
-! Version: 202008190720
+! Checksum: 1xXYpA8YtPkz9zpN1Le9mw
+! Version: 202008190741
 ! Title: EasyList Cookie List
-! Last modified: 19 Aug 2020 07:20 UTC
+! Last modified: 19 Aug 2020 07:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -236,6 +236,7 @@
 /cookie-notif.
 /cookie-notification
 /cookie-overlay-
+/cookie-partner-list.
 /cookie-policy-
 /cookie-policy.js
 /cookie-policy.min.
@@ -14947,7 +14948,7 @@ yoigo.com#@#thor-cookies
 @@||consensu.org/gdpr/$script,domain=mentalfloss.com
 @@||consent-pref.trustarc.com^$subdocument
 @@||consent.cmp.oath.com^$script,domain=cyclingnews.com|express.co.uk
-@@||consent.cookiebot.com^$script,domain=digitaltrends.com|refinery29.com|sportdiver.com|warscrap.io
+@@||consent.cookiebot.com^$script,domain=digitaltrends.com|fidelityhouse.eu|refinery29.com|sportdiver.com|warscrap.io
 @@||consent.trustarc.com/asset/$script
 @@||consent.trustarc.com^$image
 @@||consent.truste.com/notice$script
