@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: s+0jSHzXQGwdYN4+z+CwmQ
-! Version: 202008190640
+! Checksum: sEJXRgktti4rZr6qeNUkBQ
+! Version: 202008190701
 ! Title: EasyList
-! Last modified: 19 Aug 2020 06:40 UTC
+! Last modified: 19 Aug 2020 07:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31709,6 +31709,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ciksolre.net^
 ||cinsurmours.club^
 ||circuitewate.space^
+||cityxman.com^
 ||cjf25jklrwqt.com^
 ||cjlqwfpkwi.com^
 ||ckardwithinktab.info^
@@ -31740,6 +31741,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||codemylife.info^
 ||cogleapad.com^
 ||coinadster.com^
+||coinio.cc^
 ||coinverti.com^
 ||collectpush.com^
 ||collectrom.com^
@@ -47650,6 +47652,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zeroredirect1.com^$popup,third-party
 ||zeroredirect10.com^$popup,third-party
 ||zeroredirect9.com^$popup,third-party
+||zlink2.com^$popup
 ||zryydi.com^$popup,third-party
 ! IP addresses
 ||130.211.$popup,third-party,domain=~in-addr.arpa
@@ -51491,6 +51494,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||clarksvilleonline.com/cols/
 ||click.livedoor.com^
 ||clickfunnels.com^$image,domain=wckg.com
+||clipwatching.com/pu/
 ||cloudfront.net/ccmtblv2.png$domain=aim.org
 ||cloudfront.net/wp-content/uploads/2019/01/SPF-$domain=ecommerce-platforms.com
 ||cloudfront.net^$script,domain=1337x.to|celticquicknews.co.uk|deadstate.org|dexerto.com|dotesports.com|downsub.com|footballleagueworld.co.uk|footballtransfertavern.com|greatergood.com|holavid.com|newsweek.com|psychcentral.com|radaronline.com|thecelticblog.com|thisisfutbol.com|turbobit.net|uploadproper.net|videocelts.com|vrv.co

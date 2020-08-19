@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: j7CiaxtJlyRXWPcWpMUhOw
-! Version: 202008190641
+! Checksum: z639TRqPjs0PcG5k0cA9Kw
+! Version: 202008190701
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2020 06:41 UTC
+! Last modified: 19 Aug 2020 07:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7382,6 +7382,7 @@ _mongo_stats/
 ||recoset.com^$third-party
 ||recruitics.com^$third-party
 ||redcounter.net^$third-party
+||redfastlabs.com^$third-party
 ||redistats.com^$third-party
 ||redstatcounter.com^$third-party
 ||reedbusiness.net^$third-party
@@ -11318,6 +11319,7 @@ _mongo_stats/
 ||recart.com/tracking/
 ||recs.atgsvcs.com^$third-party
 ||redditstatic.com/ads/pixel.js
+||redfast.com/ping/
 ||redplum.com^*&pixid=$third-party
 ||reelevant.dev/tracker
 ||reevoo.com/assets/ga.$script
