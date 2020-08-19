@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2020-08-19T09:00:42.421Z
+! Last modified: 2020-08-19T09:34:01.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.8
 !
@@ -384,6 +384,7 @@
 ||bigbangbon.online^
 ||phukienthoitranggiare.com^
 ||lessblog.pro^
+||aiservice.vn^
 ||targetpush.co.kr^
 ||native.wpu.sh^
 ||daunteegyptian.pro^
@@ -2377,6 +2378,7 @@ vkcdnservice.appspot.com^
 ||aimrawwas.site^
 ||aionfavoura.club^
 ||aiphotogram.club^
+||airporates.club^
 ||airportedede.club^
 ||airsanguages.info^
 ||airstossiplarge.info^
@@ -3894,6 +3896,7 @@ vkcdnservice.appspot.com^
 ||nglattemptenlan.fun^
 ||ngleaccinemad.site^
 ||nglingapparen.fun^
+||ngrichtelcr.club^
 ||ngtablishbol.top^
 ||ni6cdwf6w5xr.com^
 ||nibzitgas.com^
@@ -30978,8 +30981,8 @@ adbetnet.com
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 19 Aug 2020 13:38 UTC+7
-! Version: 2008191338
+! Last modified: 19 Aug 2020 16:32 UTC+7
+! Version: 2008191632
 ! Blocked: 494 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -31014,7 +31017,6 @@ adbetnet.com
 ||adtima*.zadn.vn^
 ||adtima.vn^
 ||adtimaserver.vn^
-||aiservice.vn^
 ||ambient-platform.com^
 ||ambientplatform.vn^
 ||amcdn.vn^
@@ -31192,6 +31194,7 @@ adbetnet.com
 ||banner.5giay.vn^
 ||banner.vietnamfinance.vn^
 ||bgadx.com^
+||boxpr.aiservice.vn^
 ||cdn-ads.thesaigontimes.vn^
 ||chiasephim.xyz^
 ||click-ads.saoteen.net^
@@ -31483,6 +31486,7 @@ adbetnet.com
 ! Source name: EasyList China ad servers
 ! Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 !
+||haidaocn.com^
 ||meihaoxiangwang.com^
 ||0024aaaa.com^
 ||00880808.com^
