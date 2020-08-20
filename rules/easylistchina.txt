@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: duecoFMY/+ZM1Lx8KQ5Gig
-! Version: 202008200853
+! Checksum: vmle4rkgDLvb8bFD6Yw0mw
+! Version: 202008200903
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 20 Aug 2020 08:53 UTC
+! Last Modified: 20 Aug 2020 09:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -13888,6 +13888,7 @@ andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.
 i-cable.com#@#.video_ad
 bitauto.com,yinyuetai.com#@#a[href^="http://ad.doubleclick.net/"]
 brandsales.58.com#@#div[id^="ad_"]
+85novel.com#@#.ad-content
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
