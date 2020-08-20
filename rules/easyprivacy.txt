@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bFoqFS1yzvmbknoNoSi0wQ
-! Version: 202008201301
+! Checksum: lnB5q4eDGjwNMYK0L+lBNg
+! Version: 202008201311
 ! Title: EasyPrivacy
-! Last modified: 20 Aug 2020 13:01 UTC
+! Last modified: 20 Aug 2020 13:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15612,6 +15612,7 @@ _mongo_stats/
 ||thisisthewestcountry-gb.thisisthewestcountry.co.uk^
 ||thurrockgazette-gb.thurrockgazette.co.uk^
 ||times-series-gb.times-series.co.uk^
+||trustarc.mgr.consensu.org/get?
 ||ttauri.creativebloq.com^
 ||ttauri.laptopmag.com^
 ||ttauri.livescience.com^
