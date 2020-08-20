@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fohOKOUP5Y2lsWouy8c04Q
-! Version: 202008201101
+! Checksum: bKFX/uiNSGDULFWqVJ+ZgQ
+! Version: 202008201111
 ! Title: EasyList
-! Last modified: 20 Aug 2020 11:01 UTC
+! Last modified: 20 Aug 2020 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52110,7 +52110,7 @@ $script,third-party,domain=171gifs.com|300mbfilms.org|4downfiles.org|69sugar.com
 ||static.doubleclick.net^$domain=youtube.com
 ||www.google.com/pagead/$domain=youtube.com
 ||www.youtube.com/get_midroll_$domain=youtube.com
-||youtube.com/get_video_info?$~third-party
+||youtube.com/get_video_info?*adunit$~third-party
 ! nyafilmer.lol
 ||nyafilmer.wtf/u_a4fv7zck.js
 ||vip-hd-movies.club/scripts/nwm-pw2.min.js$script,domain=nyafilmer.wtf
