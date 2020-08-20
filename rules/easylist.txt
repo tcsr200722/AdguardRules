@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X3dLn640C9Gb4VCzwRqvDQ
-! Version: 202008200441
+! Checksum: kvAk4wVYOKcsq5Hpf+tmiA
+! Version: 202008200501
 ! Title: EasyList
-! Last modified: 20 Aug 2020 04:41 UTC
+! Last modified: 20 Aug 2020 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31300,6 +31300,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||acticantly.club^
 ||acticgreasonsc.info^
 ||adaranth.com^
+||addression.club^
 ||adearsened.info^
 ||adfrastingathles.info^
 ||admiriam.club^
