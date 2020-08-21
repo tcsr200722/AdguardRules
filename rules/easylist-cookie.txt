@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: a5B2HaYP82YUizzVpsazfg
-! Version: 202008210720
+! Checksum: F1pCvvARTDWzMcwpayLm6Q
+! Version: 202008210741
 ! Title: EasyList Cookie List
-! Last modified: 21 Aug 2020 07:20 UTC
+! Last modified: 21 Aug 2020 07:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14609,6 +14609,7 @@ infiniti-vietnam.com.vn##.c_128
 ||creaweb.it/cookie/
 ||cure-naturali.it/cookies?
 ||effekt.it/analytics/
+||meteorete.it/cookie.js
 ||ok-salute.it^*/cookie-law-info-public-
 ||plug.it^*/cmp.min.js
 ||privacyportal.fatergroup.com^
