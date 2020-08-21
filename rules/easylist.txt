@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p3o823L76gNCUM5TMp4OOw
-! Version: 202008210141
+! Checksum: B+nAvU3ABE6dmjm9BqyMww
+! Version: 202008210210
 ! Title: EasyList
-! Last modified: 21 Aug 2020 01:40 UTC
+! Last modified: 21 Aug 2020 02:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26548,6 +26548,7 @@ _popunder+$popup
 ##.os-advertisement
 ##.os-header-ad
 ##.osan-ads
+##.otd-ad-top
 ##.other-posts-ads
 ##.other_adv2
 ##.otherheader_ad
@@ -29037,6 +29038,7 @@ _popunder+$popup
 ##.white-ad-block
 ##.wide-ad
 ##.wide-ad-container
+##.wide-ad-new-layout
 ##.wide-ad-outer
 ##.wide-ad2015
 ##.wide-advert
@@ -55080,6 +55082,8 @@ yahoo.com###darla-ad__LREC
 yahoo.com###darla-ad__LREC2
 bestbuy.com###dart-con
 news24.com###datingWidegt
+dictionary.com###dcomHomeBot-728x90
+dictionary.com###dcomHomeTop-728x90
 ebookmarket.org###ddlink
 gizmodo.co.uk###deal-item
 gazette.com###deal-link
