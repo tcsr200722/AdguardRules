@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KNVDDRSLhfDnmLof3YjVdw
-! Version: 202008211420
+! Checksum: lIsHQpWYFkQ+S6K0hIdJ/g
+! Version: 202008211440
 ! Title: EasyList Cookie List
-! Last modified: 21 Aug 2020 14:20 UTC
+! Last modified: 21 Aug 2020 14:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14748,6 +14748,7 @@ aipsurveys.com,shoppable.com#@##cookiesModal
 gdansk.pl#@##cookies[role="dialog"]
 debeste.de#@##cookies_ok
 vkmag.com#@##cookiesdirective
+rossolimone.com#@##cookiesplus-basic
 ibs.it#@##divPrivacy
 gamewatcher.com,ivoox.com,poszalu.pl,tappedout.net,visionexpress.pl#@##gdpr-modal
 n26.com#@##gdpr-notice
