@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qmiI17dYWAY0x6ewZi2//g
-! Version: 202008212141
+! Checksum: p8i6NhhfmlapbHP6sAG8ew
+! Version: 202008212201
 ! Title: EasyList
-! Last modified: 21 Aug 2020 21:41 UTC
+! Last modified: 21 Aug 2020 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3589,7 +3589,7 @@
 /advFrameCollapse.
 /advhd.
 /advice-ads.
-/advideo.$domain=~advideo.pro
+/advideo.$domain=~advideo.pro|~advideo.site
 /adview.$domain=~adview.mu|~adview.online
 /adview/*
 /adview?
