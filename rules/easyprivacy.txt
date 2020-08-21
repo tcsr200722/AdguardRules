@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kyoOcSeMktpiNRlz6o/j7w
-! Version: 202008210901
+! Checksum: 8DhhzN4HJl27Cnu12fOnkA
+! Version: 202008210911
 ! Title: EasyPrivacy
-! Last modified: 21 Aug 2020 09:01 UTC
+! Last modified: 21 Aug 2020 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1526,6 +1526,7 @@
 /ctrack?
 /ctracker/*$domain=~charmtracker.com
 /ctrl.gif?ref=
+/custom-analytics.js
 /custom-tracking.
 /CustomTrackingScript.
 /cv/conversion.js

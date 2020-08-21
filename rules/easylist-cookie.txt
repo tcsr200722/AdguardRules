@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8NuJdn58Pyz24Ucc2vUHAA
-! Version: 202008210900
+! Checksum: v1onbo/9F+oWASZbQfzXUA
+! Version: 202008210911
 ! Title: EasyList Cookie List
-! Last modified: 21 Aug 2020 09:00 UTC
+! Last modified: 21 Aug 2020 09:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14775,8 +14775,8 @@ franziskaner-weissbier.de#@#.accept-cookies
 imvu.com#@#.accept-cookies:not(html)
 live.nettavisen.no#@#.active > div
 patient.info#@#.alert--cookie
-openfiber.it#@#.cc-banner
-bing.com,czuczu.pl#@#.cc-container
+openfiber.it,supertennis.tv#@#.cc-banner
+bing.com,czuczu.pl,supertennis.tv#@#.cc-container
 morningstar.ca#@#.cc_container
 onet.pl#@#.cmp-app_gdpr
 consent.yahoo.com,lawrievetgroup.co.uk,oath.com#@#.consent-container
