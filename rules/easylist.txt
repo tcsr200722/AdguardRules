@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sVxJv+xvHG9sExlu2wXj8g
-! Version: 202008210300
+! Checksum: QsRUHgjQZCZoKH8lNQZ07Q
+! Version: 202008210311
 ! Title: EasyList
-! Last modified: 21 Aug 2020 03:00 UTC
+! Last modified: 21 Aug 2020 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18458,6 +18458,7 @@ _popunder+$popup
 ##.ad-close-button
 ##.ad-cluster
 ##.ad-cluster-container
+##.ad-code
 ##.ad-codes
 ##.ad-col
 ##.ad-col-02
@@ -48571,6 +48572,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dumbpop.com^$popup
 ||dynsrvazg.com^$popup
 ||dynsrvazh.com^$popup
+||dynsrvcab.com^$popup
 ||easysexdate.com^$popup
 ||ebbp1.pro^$popup
 ||ebocornac.com^$popup,third-party
@@ -48610,6 +48612,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||libedgolart.com^$popup
 ||lofv.xyz^$popup
 ||loltrk.com^$popup,third-party
+||misspkl.com^$popup
 ||moradu.com^$popup,third-party
 ||mptentry.com^$popup
 ||needlive.com^$popup
@@ -48618,6 +48621,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nyetm2mkch.com^$popup
 ||ophistler.pro^$popup
 ||opoxv.com^$popup
+||passtechusa.com^$popup
 ||pd-news.com^$popup
 ||pinkberrytube.com^$popup
 ||playgirl.com^$popup
@@ -52542,7 +52546,7 @@ $webrtc,domain=uptobox.com
 ||swatchseries.to/main.js
 ||www*.swatchseries.to^$script
 ! Fembed
-$script,third-party,xmlhttprequest,domain=clickopen.club|core1player.com|exvcon.com|fembed.com|feurl.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|sonline.pro|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com
+$script,third-party,xmlhttprequest,domain=clickopen.club|core1player.com|exvcon.com|fembed.com|feurl.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|sonline.pro|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com|youtubedownloader.cx
 ||fembed.com/revenue
 ! Fastplay
 |http://$script,stylesheet,third-party,domain=fastplay.to
@@ -53931,6 +53935,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||spankbang.com^*/ero_loader.
 ||sss.xxx/ps/
 ||static.kinghost.com^
+||static.tits-guru.com/js/istripper2.js
 ||stockingstv.com/partners/
 ||stolenvideos.net/stolen.js
 ||sub.avgle.com^
