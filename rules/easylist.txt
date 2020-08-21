@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vvwvGKNh4ae+NoC3QOkLqw
-! Version: 202008210001
+! Checksum: SECvFlRwtjR46k5T+AOuzQ
+! Version: 202008210041
 ! Title: EasyList
-! Last modified: 21 Aug 2020 00:01 UTC
+! Last modified: 21 Aug 2020 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31178,6 +31178,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||448ff4fcfcd199a.com^
 ||4798c7b036.com^
 ||4b9d824b273.com^
+||4e9fa3c5de.com^
 ||4edidqmtzlsa.com^
 ||4ib3rzfjqh.buzz^
 ||4ixbffsib0.monster^
@@ -31192,6 +31193,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||523c579923fd35aa.com^
 ||544bd1e82a9c8c39.com^
 ||550b3ikb9j.com^
+||58f7c1ff30eb.com^
 ||5aa8f31e2f5d.com^
 ||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
@@ -31386,6 +31388,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||amsthr.com^
 ||amsvts.com^
 ||anatomicele.site^
+||anelexpres.club^
 ||anglishreasts.site^
 ||aniashboy.club^
 ||anklandas.club^
@@ -31615,6 +31618,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||buglethemfouls.casa^
 ||buildhoodpip.club^
 ||bullads.net^
+||bulldogdemocracy.com^
 ||bulletindualpartial.com^
 ||bupserge.com^
 ||burbibape.com^
@@ -31977,6 +31981,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||e2ertt.com^
 ||e2wysbacctt1.com^
 ||e376ef28103177cc.com^
+||ea6d133f7ae.com^
 ||eadminimals.fun^
 ||eae5daf052d2673b.com^
 ||eaintrolled.info^
@@ -32630,6 +32635,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||letheyemo.site^
 ||levenileheshe.site^
 ||leveryone.club^
+||lfendascra.club^
 ||lgmsekxqwxe.com^
 ||li9t691864th.com^
 ||libanyelm.com^
@@ -33151,6 +33157,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||point-of-entry.com^
 ||poleonaryprac.info^
 ||polituremil.club^
+||poorlydig.com^
 ||popcash.net^
 ||pophahwot.com^
 ||poponclick.info^
@@ -33576,6 +33583,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||special-offers.online^
 ||special-promotions.online^
 ||specimense.club^
+||specimensspittleentrepreneur.com^
 ||specularpro.site^
 ||spencedsd.club^
 ||spendeivivar.site^
@@ -33646,6 +33654,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||syphilohmmaging.site^
 ||syxylyche.pro^
 ||szahidalkath.fun^
+||tablebehav.club^
 ||tabookbusines.info^
 ||tadsitblimp.com^
 ||taifouwo.com^
@@ -33987,6 +33996,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wtdome.com^
 ||wurtoosy.com^
 ||wv63l89etbhe.com^
+||wvahelphpfnhyx.com^
 ||wvs3bmct6mkz.com^
 ||wysoloneau.com^
 ||wysyshypti.pro^
