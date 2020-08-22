@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g4W11yvkiOF6OcrdoYWfDA
-! Version: 202008220621
+! Checksum: A7FbPw8yBw45lW5gnPdY1A
+! Version: 202008220640
 ! Title: EasyList
-! Last modified: 22 Aug 2020 06:21 UTC
+! Last modified: 22 Aug 2020 06:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5229,7 +5229,7 @@
 /images/adds/*
 /images/ads-
 /images/ads.
-/images/ads/*
+/images/ads/*$domain=~oppdrettstorget.no
 /images/ads_
 /images/adv-
 /images/adv.
