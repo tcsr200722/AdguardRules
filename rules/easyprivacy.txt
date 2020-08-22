@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ytfaesmRdz5dLhJy4ec9/Q
-! Version: 202008220321
+! Checksum: znGe4B3crT+ktmFoXc+b7w
+! Version: 202008220341
 ! Title: EasyPrivacy
-! Last modified: 22 Aug 2020 03:21 UTC
+! Last modified: 22 Aug 2020 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8633,6 +8633,7 @@ _mongo_stats/
 ||caringzinc.com^$third-party
 ||carpentercomparison.com^$third-party
 ||carscannon.com^$third-party
+||causecherry.com^$third-party
 ||cautiouscrate.com^$third-party
 ||cautiouscredit.com^$third-party
 ||cloisteredcord.com^$third-party

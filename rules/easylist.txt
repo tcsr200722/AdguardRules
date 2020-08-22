@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hXWiDLQaCdLt/uf4JVtAuA
-! Version: 202008220321
+! Checksum: 24ekL60tzNOG7+mLta+/jQ
+! Version: 202008220341
 ! Title: EasyList
-! Last modified: 22 Aug 2020 03:21 UTC
+! Last modified: 22 Aug 2020 03:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54259,6 +54259,8 @@ mail.aol.com###SidePanel
 daringfireball.net###SidebarMartini
 imcdb.org###SiteLifeSupport
 road.cc###Top-Billboard
+eetimes.com###WelcomeAdContainer
+eetimes.com###WelcomeAdContainer + #overlay
 ndtv.com###_pcwgtlhs
 krunker.io###aHolder
 imgbox.com###aad-header-1
