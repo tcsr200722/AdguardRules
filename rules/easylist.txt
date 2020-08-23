@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SDOeMRT8Zx1j07UkK+Tx4g
-! Version: 202008230911
+! Checksum: 64IvOyR2LBUfW9nbLHGTYQ
+! Version: 202008230920
 ! Title: EasyList
-! Last modified: 23 Aug 2020 09:10 UTC
+! Last modified: 23 Aug 2020 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7798,6 +7798,7 @@ _adv/overlay/
 _adv_468.
 _Adv_Banner_
 _adv_label.
+_adv_open_x/
 _advert.
 _advert/
 _Advert09.
@@ -60677,6 +60678,7 @@ ettv.to##[href^="https://www.my-privacy-protection.com/"]
 nwanime.tv##[href^="https://www.nutaku.net/signup/landing/"]
 provideocoalition.com##[href^="https://www.provideocoalition.com/linkout/"]
 clickmngr.com##[href^="https://www.safenetdir.com/"]
+visualcapitalist.com##[href^="https://www.visualcapitalist.com/linkout/"]
 vidoza.net##[id*="Overlay"]
 bg-gledai.tv,btsone.cc,friendsfullepisodes.com,linx.cloud,megaurl.xyz,monova.org,ouo.io,ouo.press,swatchseries.to##[id*="ScriptRoot"]
 smallseotools.com##[id^="dont_try_"]
