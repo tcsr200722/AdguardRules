@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kbf7HhwCXe7KDlqUlZzIVg
-! Version: 202008230341
+! Checksum: HcXWGHA3Fe3pAPX4w/4ZrA
+! Version: 202008230401
 ! Title: EasyPrivacy
-! Last modified: 23 Aug 2020 03:41 UTC
+! Last modified: 23 Aug 2020 04:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1498,6 +1498,7 @@
 /cqcounter.
 /crai_tracker.
 /create-lead.js
+/CreateAnalytics.js
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
@@ -11160,6 +11161,7 @@ _mongo_stats/
 ||onespot-tracking.herokuapp.com^
 ||onet.pl/eclk/
 ||onet.pl^*/tags?
+||onetrust.com^$ping
 ||onsugar.com/static/ck.php?
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
@@ -11814,6 +11816,7 @@ _mongo_stats/
 ||uservoice.com^*/track.js
 ||userway.org/api/stats/
 ||userzoom.com/uz.js$third-party
+||utils.global-e.com/set?
 ||utle.tech426.com^
 ||v.giantrealm.com/players/stats.swf?
 ||v.shopify.com^
