@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: c0zk93PIN7CDPBejzMDzpA
-! Version: 202008230821
+! Checksum: JsmvLiTlmg3LnHUwlnODmg
+! Version: 202008230841
 ! Title: EasyPrivacy
-! Last modified: 23 Aug 2020 08:21 UTC
+! Last modified: 23 Aug 2020 08:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10356,6 +10356,7 @@ _mongo_stats/
 ||conde.io/beacon
 ||condenastdigital.com/content?$third-party
 ||confiant-integrations.global.ssl.fastly.net^
+||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbds.js$third-party
 ||consensu.org/?log=
@@ -12031,6 +12032,7 @@ _mongo_stats/
 ||howsmyssl.com^$third-party
 ||js.trendmd.com^$script,subdocument,third-party
 ||nsg.symantec.com^$third-party
+||privacy-policy.truste.com^$third-party
 ||seal.godaddy.com^$third-party
 ||seal.networksolutions.com^$third-party
 ||seal.verisign.com^$third-party
