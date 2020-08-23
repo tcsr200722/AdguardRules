@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BYJUhIncxsCYw6Xm02nD+Q
-! Version: 202008230421
+! Checksum: OCC/ANKgCC15rtxi+o9gWA
+! Version: 202008230441
 ! Title: EasyList
-! Last modified: 23 Aug 2020 04:20 UTC
+! Last modified: 23 Aug 2020 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1684,6 +1684,7 @@
 /adbanner/*
 /adbanner2.
 /adbanner2/*
+/adBanner?
 /adbanner_
 /adbanners/*
 /adbar.$domain=~adbar.fi|~adbar.io|~adbar.jp

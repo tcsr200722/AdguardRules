@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EdGcpG6ojyoHUAUYdlJ3+A
-! Version: 202008230421
+! Checksum: cewMl5KrpZIYdyd9N0byxA
+! Version: 202008230441
 ! Title: EasyPrivacy
-! Last modified: 23 Aug 2020 04:21 UTC
+! Last modified: 23 Aug 2020 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10643,7 +10643,7 @@ _mongo_stats/
 ||facebook.com*/impression.php
 ||facebook.com/*/plugins/send_to_messenger.php?app_id=$third-party
 ||facebook.com/ai.php?
-||facebook.com/ajax/bz$ping
+||facebook.com/ajax/bz$ping,xmlhttprequest
 ||facebook.com/audience_network/$image
 ||facebook.com/brandlift.php
 ||facebook.com/common/cavalry_endpoint.php?
