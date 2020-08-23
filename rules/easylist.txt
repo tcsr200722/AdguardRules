@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lyWam+J95SYlZHevbZ4biQ
-! Version: 202008231220
+! Checksum: TI40MVecA+Ha4RdCuedtuA
+! Version: 202008231240
 ! Title: EasyList
-! Last modified: 23 Aug 2020 12:20 UTC
+! Last modified: 23 Aug 2020 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33467,6 +33467,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sapsixysho.pro^
 ||sapsuaveover.com^
 ||sarcasticlinezomby.com^
+||saredithere.club^
 ||sarydrinkletr.site^
 ||sasingfinities.space^
 ||saturalerdax.site^
@@ -38201,6 +38202,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sakura-traffic.com^$third-party
 ||salesnleads.com^$third-party
 ||salvador24.com^$third-party
+||samsungads.com^$third-party
 ||samvaulter.com^$third-party
 ||samvinva.info^$third-party
 ||saoboo.com^$third-party
