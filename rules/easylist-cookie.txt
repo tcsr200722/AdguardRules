@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BX2rZdADnSYs2NTypWJGPQ
-! Version: 202008230920
+! Checksum: DtnICCg22rFPAYVsj0wOfQ
+! Version: 202008230940
 ! Title: EasyList Cookie List
-! Last modified: 23 Aug 2020 09:20 UTC
+! Last modified: 23 Aug 2020 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14617,6 +14617,7 @@ infiniti-vietnam.com.vn##.c_128
 ||rcsobjects.it/rcs_cpmt/
 ||spesasicura.com/Scripts/cookie.js
 ||stbm.it/utility-fe/prod/general/network.common.v2.js
+||velvetgossip.it^*/gdprvelvet.js
 !
 ! ---------- Japanese ----------
 !
