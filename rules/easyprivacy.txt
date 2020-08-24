@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 8xsEFnHdJrmAPNn6lytCKQ
-! Version: 202008240141
+! Checksum: Pli/eMEhTf2506OOSCYjtQ
+! Version: 202008240201
 ! Title: EasyPrivacy
-! Last modified: 24 Aug 2020 01:41 UTC
+! Last modified: 24 Aug 2020 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15425,6 +15425,8 @@ _mongo_stats/
 ||ebaystatic.com^*/10341xh50yz21mhhydueu4m5wad.js$script,domain=ebay.com
 ||ebaystatic.com^*/g52yxhxv2mzcbealmlkri4kn5av.js$script,domain=ebay.com
 ! Fingerprint
+/^https?:\/\/www\.mouser\.com\/[a-z]{30,}.js/$script,domain=mouser.com
+/^https?:\/\/www\.mouser\.com\/static\/[a-z0-9]{30,}/$script,domain=mouser.com
 /^https?:\/\/www\.ugg\.com\/static\/[a-z0-9]{15,}/$domain=ugg.com
 ||aero.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||bcicdn.com/js-min/*/chunks/8.*.js
