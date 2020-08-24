@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /ks3ovAgzWup9sjiZrOK5g
-! Version: 202008240521
+! Checksum: pheCyLOKSoBks1BSxRKTXg
+! Version: 202008240541
 ! Title: EasyPrivacy
-! Last modified: 24 Aug 2020 05:21 UTC
+! Last modified: 24 Aug 2020 05:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15646,6 +15646,7 @@ _mongo_stats/
 ||thurrockgazette-gb.thurrockgazette.co.uk^
 ||times-series-gb.times-series.co.uk^
 ||trustarc.mgr.consensu.org/get?
+||ttauri.bikeperfect.com^
 ||ttauri.creativebloq.com^
 ||ttauri.laptopmag.com^
 ||ttauri.livescience.com^
