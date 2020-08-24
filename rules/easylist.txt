@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qcJBAIZEYN3HOILv7ajfIg
-! Version: 202008240601
+! Checksum: qO6BpWrwKKHUWlL/QIq6YA
+! Version: 202008240621
 ! Title: EasyList
-! Last modified: 24 Aug 2020 06:01 UTC
+! Last modified: 24 Aug 2020 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31456,6 +31456,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||artapeare.site^
 ||arthwhilearthu.info^
 ||artneesrparkete.info^
+||asacdn.com^
 ||asccdn.com^
 ||asewlfjqwlflkew.com^
 ||ashaidart.site^
@@ -32507,6 +32508,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||inpagepush.com^
 ||inpcut.com^
 ||insnative.com^
+||insolencewalter.com^
 ||instantresp.com^
 ||inswebt.com^
 ||intelligenceadx.com^
@@ -33076,6 +33078,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||outtunova.com^
 ||outwarent.club^
 ||ouzoadru.net^
+||ovcxvpvdk.com^
 ||ovementerter.site^
 ||overnmentil.site^
 ||overnmentsv.club^
@@ -33891,6 +33894,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||uryobtainlyi.club^
 ||usalastnews.pro^
 ||uscpn0c485wn.com^
+||usedbreat.club^
 ||ushoofop.com^
 ||ushooque.net^
 ||ustedpicklyba.space^
