@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9lvel8rDRTQRiwtCC6yjbA
-! Version: 202008240501
+! Checksum: 6TXCIRKjkDmT6V/KcqHfrA
+! Version: 202008240511
 ! Title: EasyPrivacy
-! Last modified: 24 Aug 2020 05:01 UTC
+! Last modified: 24 Aug 2020 05:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2201,8 +2201,6 @@
 /gv-analytics/*
 /gweb/analytics/*
 /hash_stat_bulk/*
-/hawkeye.js
-/hawklinks.js
 /hc/tracking/*
 /hc_pixel.gif?
 /headerpixel.gif?
@@ -5313,6 +5311,10 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! hawkeye
+/hawk.js
+/hawkeye.js
+/hawklinks.js
 ! cloudflare tracking
 /cdn-cgi/apps/body/*$script,~third-party
 /cdn-cgi/apps/head/*$script,~third-party
