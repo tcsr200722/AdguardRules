@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EmdG22sblEUMcI3nfxgm7w
-! Version: 202008252241
+! Checksum: DM8WEMdfM8lHbZfHYXfkAQ
+! Version: 202008252301
 ! Title: EasyPrivacy
-! Last modified: 25 Aug 2020 22:41 UTC
+! Last modified: 25 Aug 2020 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14902,7 +14902,7 @@ _mongo_stats/
 ||tags.msnbc.com^
 ||tags.news.com.au^$script
 ||tagx.nytimes.com^
-||takealot.com/rest/^*/collect
+||takealot.com^*/collect
 ||talktalk.co.uk^*/log.html
 ||talktalk.co.uk^*/tracking/
 ||target.com/ci/$script
