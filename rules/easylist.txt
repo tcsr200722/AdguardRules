@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1bAhcYsCoOX9rtof0L6xAA
-! Version: 202008250000
+! Checksum: HFlB1DjTgyutng+3d1+ZAA
+! Version: 202008250041
 ! Title: EasyList
-! Last modified: 25 Aug 2020 00:00 UTC
+! Last modified: 25 Aug 2020 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31944,6 +31944,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||distinesseqe.site^
 ||distrikerkvazar.site^
 ||ditiesacco.club^
+||ditionstrou.club^
 ||ditookry.com^
 ||ditorsdyehou.club^
 ||dlak0ie0yn.buzz^
@@ -33591,6 +33592,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||slectrumclarat.fun^
 ||sloeri.com^
 ||slykeyhot.site^
+||smallentpation.pro^
 ||smart2cnjuh34jb.com^
 ||smenqskfmpfxnb.bid^
 ||smokerdecoy.com^
@@ -33893,6 +33895,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||url.rw^
 ||urnawareflan.com^
 ||urnkawsxxh.com^
+||uropersag.club^
 ||urymiseshabe.club^
 ||uryobtainlyi.club^
 ||usalastnews.pro^
