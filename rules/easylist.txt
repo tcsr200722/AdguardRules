@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9lyVhh5MH8ruw4qm3tucJA
-! Version: 202008250711
+! Checksum: j6xMFw5AR/eLl9X8LC97Cw
+! Version: 202008250720
 ! Title: EasyList
-! Last modified: 25 Aug 2020 07:11 UTC
+! Last modified: 25 Aug 2020 07:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59006,6 +59006,7 @@ crash.net##.mpuBack
 digitalartsonline.co.uk##.mpuHolder
 lonelyplanet.com##.mpuWrapper
 slidetoplay.com##.mpu_content_banner
+dailymail.co.uk##.mpu_puff_wrapper
 mashable.com##.mpucnt
 popjustice.com##.mpufloatleft
 blinkbox.com##.mpupnl
