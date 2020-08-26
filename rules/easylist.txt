@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fq6WwN/r+QdLGsRd8HVWIg
-! Version: 202008261321
+! Checksum: Jf16Qc0Sm4Ha8dgsn6oebA
+! Version: 202008261341
 ! Title: EasyList
-! Last modified: 26 Aug 2020 13:21 UTC
+! Last modified: 26 Aug 2020 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31159,6 +31159,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||1uejo00npy.buzz^
 ||1ulebzhsv7.buzz^
 ||233fb5b59351.com^
+||24d1c699868.com^
 ||25348f89a3.com^
 ||273920d845b.com^
 ||27vckaccbto7p761.pro^
@@ -32185,6 +32186,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||f3551539d6565853.com^
 ||f40f89d54b8.com^
 ||f71bxwn500lj.com^
+||fa06e75c16.com^
 ||fadsans.com^
 ||fadsanz.com^
 ||fadsatz.com^
@@ -32831,6 +32833,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||mkjsqrpmxqdf.com^
 ||ml0z14azlflr.com^
 ||mlsys.xyz^
+||mmshort.link^
 ||moapteeg.net^
 ||mob1ledev1ces.com^
 ||mobbahjug.com^
@@ -33820,6 +33823,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||torytalenty.site^
 ||totogetica.com^
 ||toxicbraid.com^
+||tpresearch.club^
 ||tpresearchcre.fun^
 ||track-victoriadates.com^
 ||trackad2.com^
