@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QqMdd5KRWR2y47wG7Oa/pA
-! Version: 202008260921
+! Checksum: lP/kkvHqX4M3C+O1/Im3zQ
+! Version: 202008260941
 ! Title: EasyList
-! Last modified: 26 Aug 2020 09:21 UTC
+! Last modified: 26 Aug 2020 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5102,6 +5102,7 @@
 /hiadone_
 /hikaku/banner/*
 /hitbar_ad_
+/hleads.
 /holl_ad.
 /home/_ads
 /home/ad_
@@ -18193,6 +18194,7 @@ _popunder+$popup
 ##.ad--sidebar
 ##.ad--sponsor-content
 ##.ad--square-rectangle
+##.ad--stripe
 ##.ad--stroer
 ##.ad--subcontainer
 ##.ad--top
