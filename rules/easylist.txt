@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tmBPAajAvj/pz76BZz5gXA
-! Version: 202008260140
+! Checksum: kJib/jFSygSGhgbMnrncLg
+! Version: 202008260200
 ! Title: EasyList
-! Last modified: 26 Aug 2020 01:40 UTC
+! Last modified: 26 Aug 2020 02:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31158,6 +31158,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||25348f89a3.com^
 ||273920d845b.com^
 ||27vckaccbto7p761.pro^
+||2abca352f4.com^
 ||2b2b84231908.com^
 ||2b815136jjjv.com^
 ||2cnjuh34jb.com^
@@ -31627,6 +31628,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||brinarynuker.site^
 ||briticatederfd.site^
 ||briticsvocabin.club^
+||btemegxbnalq.com^
 ||buglethemfouls.casa^
 ||buildhoodpip.club^
 ||bullads.net^
@@ -31663,6 +31665,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cancesolit.club^
 ||canonch.pro^
 ||canyboysho.info^
+||capsfogpeck.com^
 ||carbourse.club^
 ||cardmrket.com^
 ||carefuseds.club^
@@ -31712,6 +31715,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||chengaib.net^
 ||chieving.club^
 ||chitereach.club^
+||chocohjuanfhdhf.com^
 ||choorgiw.net^
 ||christingera.site^
 ||christinglatvian.site^
@@ -32334,6 +32338,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||givirsou.net^
 ||gk8j5woqk26f.com^
 ||gl1117wh13.com^
+||glaiwhee.net^
 ||gleergie.net^
 ||glfhqurv.com^
 ||gloarowu.com^
@@ -33019,6 +33024,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ofhypnoer.com^
 ||ofphanpytor.com^
 ||ofttanmob.site^
+||ogleslimeexecs.casa^
 ||ogysevery.site^
 ||ohmchoicechi.online^
 ||ohonorpod.site^
@@ -33509,6 +33515,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||scoastleallo.info^
 ||scommuni.info^
 ||scontainstrep.club^
+||scooterdegradation.com^
 ||scotlandon.club^
 ||scottagesyu.club^
 ||scottingflori.club^
@@ -33678,6 +33685,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||styheremo.site^
 ||submarinebarbecueemigrant.com^
 ||substandferex.site^
+||suburbglaze.com^
 ||successageq.site^
 ||successarysazh.site^
 ||sufferench.club^
@@ -33731,6 +33739,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||teedmightse.info^
 ||telephants.club^
 ||televeniesuc.pro^
+||temposnitehah.work^
 ||temptedcreationnovel.com^
 ||tendents.club^
 ||tentdinationgab.info^
@@ -33841,6 +33850,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ttspikbeglki.com^
 ||tubecorp.com^
 ||tujestimater.pro^
+||tuliprejoice.com^
 ||tutorinforget.site^
 ||twenticiseflo.site^
 ||twentycustomimprovement.com^
@@ -34086,6 +34096,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xxe2.com^
 ||xxladu.com^
 ||xxlargepop.com^
+||xxutoyreg.com^
 ||xxxadu.com^
 ||xyz0k4gfs.xyz^
 ||y2020ad.xyz^
