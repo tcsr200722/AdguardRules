@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: euOuwITMvaC0/CfbCyTfng
-! Version: 202008261311
+! Checksum: Fq6WwN/r+QdLGsRd8HVWIg
+! Version: 202008261321
 ! Title: EasyList
-! Last modified: 26 Aug 2020 13:11 UTC
+! Last modified: 26 Aug 2020 13:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -52823,7 +52823,7 @@ bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][t
 ! Rewrite to internal resources rules for Adblock Plus
 ||slacker.com^*/getspot/?spotid=$media,rewrite=abp-resource:blank-mp3,domain=slacker.com
 ! *** easylist:easylist/easylist_specific_block_popup.txt ***
-$popup,third-party,domain=prettyfast.to|senimovie.co
+$popup,third-party,domain=play.hydracdn.network|prettyfast.to|senimovie.co
 %3D$popup,domain=nme.com
 .link/$popup,domain=bigfile.to
 /dlads.$popup,domain=ouo.io|ouo.press
