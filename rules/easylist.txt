@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N3kYKiZbNlyqRe5rMbXnDQ
-! Version: 202008260501
+! Checksum: gVaYUziMJiMdbUsGam3Zmg
+! Version: 202008260510
 ! Title: EasyList
-! Last modified: 26 Aug 2020 05:01 UTC
+! Last modified: 26 Aug 2020 05:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
