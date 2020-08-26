@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CqaLdd2TlkCeq6V84N7Gxg
-! Version: 202008261500
+! Checksum: wFjtNkEVUU8Fu+i+CGrJXQ
+! Version: 202008261510
 ! Title: EasyList Cookie List
-! Last modified: 26 Aug 2020 15:00 UTC
+! Last modified: 26 Aug 2020 15:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
