@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7sAPUKJqI9aYY7euG3bjGA
-! Version: 202008270140
+! Checksum: kcioJgoExXQa424kgcvjLg
+! Version: 202008270200
 ! Title: EasyList Cookie List
-! Last modified: 27 Aug 2020 01:40 UTC
+! Last modified: 27 Aug 2020 02:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14894,7 +14894,7 @@ bosch-mobility-solutions.com#@#.m-cookie
 bosch-mobility-solutions.com#@#.m-cookie-intro
 makelaarsland.nl#@#.m-cookie-notice
 theverge.com#@#.m-privacy-consent
-brsspa.it,burberry.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
+brsspa.it,burberry.com,canadaswonderland.com,gct.com,herbritts.com,oattravel.com,pentestpartners.com,piaggiogroup.com#@#.mod_cookies
 elring.ae,elring.cn,elring.com,elring.com.tr,elring.de,elring.fr,elring.it,elring.pl,elring.pt,elring.ru,multimediago.pl,ticket.io#@#.modal-cookie
 betway.it#@#.module-cookie
 ramics-conference.org#@#.nf-form-content
