@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Cm6TISrObPWznBd7/aE5Xg
-! Version: 202008270941
+! Checksum: cBTM2HekEOfF5qx+YMfmeg
+! Version: 202008271001
 ! Title: EasyList
-! Last modified: 27 Aug 2020 09:40 UTC
+! Last modified: 27 Aug 2020 10:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29825,6 +29825,7 @@ _popunder+$popup
 ##a[href^="https://awecrptjmp.com/"]
 ##a[href^="https://awejmp.com/"]
 ##a[href^="https://awentw.com/"]
+##a[href^="https://axdsz.pro/"]
 ##a[href^="https://badoinkvr.com/"]
 ##a[href^="https://betway.com/"][href*="&a="]
 ##a[href^="https://blackorange.go2cloud.org/"]
