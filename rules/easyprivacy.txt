@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +MDMsN38v3o4Wp4otRC9hg
-! Version: 202008270221
+! Checksum: MCbsOQnNXR8ofgtbS3I7Xw
+! Version: 202008270241
 ! Title: EasyPrivacy
-! Last modified: 27 Aug 2020 02:21 UTC
+! Last modified: 27 Aug 2020 02:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -69,9 +69,9 @@
 -ga-tracking/
 -gatracker.
 -geoIP.js
--google-analytics-
+-google-analytics-$domain=~whmcsadmintheme.com|~wordpress.org
 -google-analytics.
--google-analytics/
+-google-analytics/$domain=~whmcsadmintheme.com|~wordpress.org
 -google-tag-manager/$script,domain=~wordpress.org
 -heatmaps-analytics/
 -imppix/
@@ -6231,6 +6231,7 @@ _mongo_stats/
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||dmxleo.com^$third-party
+||doceree.com^$third-party
 ||doclix.com^$third-party
 ||dojomojo.com^$third-party
 ||dojomojo.ninja^$third-party
