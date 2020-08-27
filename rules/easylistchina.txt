@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: m9HDckUoJXHi4niQ9FovXg
-! Version: 202008272233
+! Checksum: O7VoADCfRe3yOuFGTu/f9g
+! Version: 202008272253
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 27 Aug 2020 22:33 UTC
+! Last Modified: 27 Aug 2020 22:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -12997,6 +12997,7 @@ dapenti.com##a[href*="sq.cc"]
 mtrend.cn##a[href*="taomoubao.com"]
 jinti.com##a[href*="tempurchina.com"]
 58.com##a[href*="to8to.com"]
+comicat.org##A[href*="tyrantdb.com"]
 1090ys1.com,kisssub.org,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 boke112.com##a[href*="url.cn"]
 enjoymore.fun##a[href*="urlto.pw"]
