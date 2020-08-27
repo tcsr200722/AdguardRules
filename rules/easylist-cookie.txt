@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xuT3fAYTjMjryhopj4O7TQ
-! Version: 202008270600
+! Checksum: aVcxPNT1AU+AreXKQRG1XQ
+! Version: 202008270620
 ! Title: EasyList Cookie List
-! Last modified: 27 Aug 2020 06:00 UTC
+! Last modified: 27 Aug 2020 06:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14013,7 +14013,7 @@ blogfree.net,forumfree.it##.jnote
 hertz247.it##.lbContainer
 hertzrent2buy.it##.lb_overlay
 hilti.it##.m-smartbar-container
-insideevs.it##.m1-footer-message
+insideevs.it,omnifurgone.it,omnimoto.it##.m1-footer-message
 fashionunited.it##.mdc-snackbar__surface
 ari.it##.message
 alfasigma.com,elevensports.it##.modal-backdrop
