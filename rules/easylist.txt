@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LfN5LgvDdHdkL8nRGceqsQ
-! Version: 202008280111
+! Checksum: zTQ2LPGKF8+qXgYdtf9O+g
+! Version: 202008280141
 ! Title: EasyList
-! Last modified: 28 Aug 2020 01:11 UTC
+! Last modified: 28 Aug 2020 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59287,6 +59287,7 @@ bodybuilding.com##.poll-padding
 winnipegfreepress.com##.poll-sponsor
 alluc.com##.ponsorlink
 thefix.com##.pop-up-a
+pedestrian.tv##.popular-jobs-widget
 theguardian.com##.popular-trails__mpu
 filefactory.com,tablesleague.com##.popup
 pirateiro.com##.porndudelink
