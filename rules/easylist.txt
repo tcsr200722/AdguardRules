@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QNybazKUUIlB5japkgp5zQ
-! Version: 202008280051
+! Checksum: LfN5LgvDdHdkL8nRGceqsQ
+! Version: 202008280111
 ! Title: EasyList
-! Last modified: 28 Aug 2020 00:51 UTC
+! Last modified: 28 Aug 2020 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51793,6 +51793,7 @@ $script,third-party,domain=171gifs.com|300mbfilms.org|4downfiles.org|69sugar.com
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=steamplay.cc|streamplay.to
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=steamplay.cc|streamplay.to
 ||steamplay.*/jquery-
+||streamp1ay.*/jquery-
 ||streamplay.*/jquery-
 ! doood
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=dood.to|dood.watch
