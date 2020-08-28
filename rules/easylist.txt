@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pK8d5cuWdeT7OrtdHXxXrw
-! Version: 202008280221
+! Checksum: PPXptwGgtgWCp2+Fx2wBpA
+! Version: 202008280240
 ! Title: EasyList
-! Last modified: 28 Aug 2020 02:21 UTC
+! Last modified: 28 Aug 2020 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19305,6 +19305,7 @@ _popunder+$popup
 ##.ad728_wrap
 ##.ad728cont
 ##.ad728h
+##.ad728top
 ##.ad728x90
 ##.ad728x90-1
 ##.ad728x90-2
@@ -29366,6 +29367,8 @@ _popunder+$popup
 ##.zmgad-right-rail
 ##.zone-advertisement
 ##.zoneAds
+##.zox-post-bot-ad
+##.zox_ad_widget
 ##AD-SLOT
 ##AD-TRIPLE-BOX
 ##ADS-RIGHT
@@ -54044,13 +54047,8 @@ gtopala.com###affiliate-index-300x250
 carmall.com###affiliates
 indycar.com###affiliatesDiv
 ovguide.com###affiliates_outter
-metal-archives.com###affiliation
-awkwardfamilyphotos.com###afpadq-leaderboard
-awkwardfamilyphotos.com###afpadq-sidebar1
-awkwardfamilyphotos.com###afpadq-sidebar2
 search.rr.com###afsBot
 search.rr.com###afsTop
-investorplace.com###after-post-banner
 allgames.com###ag_AdBannerTop
 thehardtimes.net###aht-New-In-Content
 aol.com###ai300x250
@@ -54080,7 +54078,6 @@ realbeauty.com###ams_728_90
 aim.org###amznCharityBanner
 visitsundsvall.se###annons-panel
 ex.ua###announce
-thurrott.com###announcement-bar-container
 hardocp.com###announcements
 peliculas-flv.com###anuncio
 esut.de###anzeige
@@ -54109,11 +54106,7 @@ ktar.com###askadv
 autoblog.com###asl_bot
 autoblog.com###asl_top
 pv-tech.org###associations-wrapper
-forwardprogressives.com###aswift_1_expand
-forwardprogressives.com###aswift_2_expand
-forwardprogressives.com###aswift_3_expand
 sporcle.com###atf-300x600
-ecoustics.com###atf_right_300x250
 hackthissite.org###atimg
 pogo.com###avertising
 scalemates.com###avph
@@ -54422,7 +54415,6 @@ phonescoop.com###botlink
 hplusmagazine.com,j.gs,q.gs###bottom
 jillianmichaels.com###bottom-300
 cheese.com,collider.com,investorplace.com,kiz10.com,lyrics19.com,radionomy.com###bottom-banner
-thurrott.com###bottom-interstitial
 ohio.com###bottom-leader-position
 audioreview.com,fayobserver.com,g4chan.com,icanhasinternets.com,thenextweb.com,topcultured.com###bottom-leaderboard
 startupnation.com###bottom-leaderboard-01
@@ -54442,11 +54434,9 @@ chacha.com###bottomHeaderBannerWrap
 startribune.com###bottomLeaderboard
 tnt.tv###bottomLeftBox
 tnt.tv###bottomMiddleBox
-teoma.com###bottomPaidList
 webdesignledger.com###bottomPremiumBanner
 scientificamerican.com###bottomPromoArea
 tnt.tv###bottomRightBox
-start.fyi###bottomSda
 search.globososo.com###bottom_adv
 ifc.com,nerej.com,nyrej.com,securityweek.com###bottom_banner
 funkypotato.com###bottom_banner_wrapper
@@ -54504,7 +54494,6 @@ cineuropa.org###bt
 indiaresults.com###bt_banner1
 sporcle.com###btf-300x600
 imdb.com###btf_rhs2_wrapper
-ecoustics.com###btf_right_300x250
 overdrive.in###btm_banner1
 w3newspapers.com###btmadd
 theedge.co.nz###bugjuice
@@ -56531,13 +56520,9 @@ scoop.co.nz###topHeader
 chacha.com###topHeaderBannerWrap
 1001tracklists.com###topLB
 digitalartsonline.co.uk###topLeaderContainer
-donedeal.ie,kenyamoja.com,metrotimes.com,orlandoweekly.com,sacurrent.com,startribune.com,wjla.com###topLeaderboard
-kenyamoja.com###topLeaderboard + * + .container-bot
+donedeal.ie,metrotimes.com,orlandoweekly.com,sacurrent.com,startribune.com,wjla.com###topLeaderboard
 dexerto.com,fixya.com,topmarques.co.uk###topLeaderboardContainer
-chamberofcommerce.com###topLeaderboardParent
-teoma.com###topPaidList
 topsite.com###topRightBunner
-start.fyi###topSideSda
 backpage.com###topSponsorWrapper
 rockyou.com###topXpromoWrapper
 hardballtalk.nbcsports.com###top_90h
@@ -56785,6 +56770,7 @@ italymagazine.com###zone-user-wrapper
 hulkshare.com,rockyou.com###zone1
 hulkshare.com###zone2
 luxury-insider.com###zone_728x90
+ecoustics.com###zox-lead-bot
 videohelp.com###zqFhRMLGTfwB
 theverge.com##.-ad
 automobilemag.com##.-adslot
@@ -58573,7 +58559,6 @@ jango.com##.intro_block_module:last-child
 bridgemi.com##.investors-wrapper
 physicsworld.com##.iopp-sidebar
 indianexpress.com##.ipad
-investorplace.com##.ipm-sidebar-ad-text
 twitter.com##.is-promoted
 drivearcade.com,freegamesinc.com##.isk180
 abovethelaw.com,dealbreaker.com,hbr.org,itwire.com##.island

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8rPPw58Ux0nvSAH27TBr0w
-! Version: 202008280220
+! Checksum: 5CETDBAI44AFm0+S4eefww
+! Version: 202008280240
 ! Title: EasyList Cookie List
-! Last modified: 28 Aug 2020 02:20 UTC
+! Last modified: 28 Aug 2020 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12863,6 +12863,7 @@ office.com##.headPopup
 veeam.com##.header-component__messages-overlay
 igvault.com##.header-perm
 hivehome.com##.header-stacked-message
+start.fyi##.headnote
 bing.com##.hpn_top_container
 devhut.net##.ht-notification-section
 huawei.com##.huawei-bootom-cookie
