@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FZRPugD1ZrD0wIKMMZozKg
-! Version: 202008291520
+! Checksum: TtnhS4hbvc360/XEEPzKqg
+! Version: 202008291540
 ! Title: EasyList
-! Last modified: 29 Aug 2020 15:20 UTC
+! Last modified: 29 Aug 2020 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1187,6 +1187,7 @@
 /ad/google/*
 /ad/google_
 /ad/guest/*
+/ad/headercreative/*
 /ad/homepage?
 /ad/html/*
 /ad/iframe.
@@ -15588,6 +15589,7 @@ _popunder+$popup
 ###mobile-ads-ad
 ###mobile-ads-link
 ###mobile-sticky-ad-area
+###mobileAdContainer
 ###mobileAd_holder
 ###mobile_ad_spot_header
 ###mochila-column-right-ad-300x250
@@ -18341,6 +18343,7 @@ _popunder+$popup
 ##.ad-anchor
 ##.ad-aps-wide
 ##.ad-area
+##.ad-area--pd
 ##.ad-area-small
 ##.ad-article-breaker
 ##.ad-article-wrapper
@@ -18588,6 +18591,7 @@ _popunder+$popup
 ##.ad-header
 ##.ad-header-below
 ##.ad-header-container
+##.ad-header-creative
 ##.ad-header-pencil
 ##.ad-header-sidebar
 ##.ad-heading
@@ -23494,6 +23498,8 @@ _popunder+$popup
 ##.bz-ad
 ##.bzads-ic-ad-300-250-600
 ##.c-ad
+##.c-ad--mobile-bigbanner
+##.c-ad--rectangle
 ##.c-ad--text-only
 ##.c-ad--unlabeled
 ##.c-ad-size2
@@ -23504,6 +23510,7 @@ _popunder+$popup
 ##.c-adunit--first
 ##.c-adunit__container
 ##.c-adv3__inner
+##.c-advert
 ##.c-advert-app
 ##.c-advert-superbanner
 ##.c-advertisement
@@ -27136,6 +27143,7 @@ _popunder+$popup
 ##.removeAdsLink
 ##.removeAdsStyle
 ##.reportAdLink
+##.res_ad
 ##.resads-adspot
 ##.residentialads
 ##.resourceImagetAd
@@ -33708,6 +33716,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ssqualismother.info^
 ||staimpor.net^
 ||staitchu.com^
+||stakenallisin.club^
 ||stakenpolise.site^
 ||stardedbio.club^
 ||stargoug.com^
@@ -57709,6 +57718,7 @@ playwinningpoker.com##.centban
 digit.in##.center-add
 port2port.com,privateproperty.co.za##.centerBanner
 siberiantimes.com##.centerBannerRight
+giveawayoftheday.com##.center_ab
 zippyshare.com##.center_reklamy
 sulekha.com##.centxt
 bitcoinmagazine.com##.cer-da
