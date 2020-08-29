@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DESfOTptNEAxnr4aHHq3kA
-! Version: 202008290700
+! Checksum: LyZqbUSWLFmh66e7BolxxA
+! Version: 202008290711
 ! Title: EasyList Cookie List
-! Last modified: 29 Aug 2020 07:00 UTC
+! Last modified: 29 Aug 2020 07:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12550,6 +12550,7 @@ mbc.net###mbc-policy
 logicconcept.eu###mc_top_bar
 iplogger.org,psyonix.com,rocketleague.com,rocketleagueesports.com,wts.com###message
 cyclemiles.co.uk###messages-cont
+picnic.app###modal
 hmc.org.uk###modal-mask
 shellsmart.com###modal_container
 eurocirc.org###msgBox_error
