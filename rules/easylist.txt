@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /zQMrYcphCR1Fa0/sFt+pw
-! Version: 202008292321
+! Checksum: +BLhOb2ysCrrpbb8BN3qGw
+! Version: 202008292341
 ! Title: EasyList
-! Last modified: 29 Aug 2020 23:20 UTC
+! Last modified: 29 Aug 2020 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57061,7 +57061,7 @@ hitfreegames.com,hwinfo.com,twogag.com##.ads2
 giveawayoftheday.com##.ads_wrap
 entrepreneur.com##.adsby
 about.com,bloomberg.com,borfast.com,cdrinfo.com,comesrilanka.com,dpivst.com,howmanyleft.co.uk,mysmartprice.com,nintandbox.net,nycity.today,over-blog.com,plurk.com,portugalresident.com,scitechdaily.com,sgentrepreneurs.com,techsupportalert.com,tolonews.com,wikihoops.com,wlds.com##.adsense
-search.b1.org##.adslabel
+addictivetips.com,search.b1.org##.adslabel
 animeid.com##.adspl
 cheapies.nz##.adstop
 gamerant.com##.adtester-container
@@ -62153,6 +62153,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||player.anyclip.com/anyclip-widget/lre-widget/$script,domain=video.timeout.com|video.venturebeat.com|videos.heute.at
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||pro.myphotopipe.com/images/ProductSections/advert-$image,domain=myphotopipe.com
+@@||scrippsdigital.com/cms/videojs/$stylesheet,domain=scrippsdigital.com
 @@||securitytrails.com/app/api/domain/$~third-party,xmlhttprequest
 @@||static.ziffdavis.com/sitenotice/*/settings.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.c|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||static.ziffdavis.com/sitenotice/evidon-sitenotice-bundle.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.c|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
@@ -62552,7 +62553,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 ! Google "Related Searches"
 @@||www.google.com/adsense/search/ads.js$domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||www.google.com/adsense/search/async-ads.js$domain=webcrawler.com
-@@||www.google.com/afs/ads?*^channel=$subdocument
+@@||www.google.com/afs/ads?*^channel=csa_$subdocument
+@@||www.google.com/afs/ads?*^channel=month$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 ! Gladly.io New Tab extension (https://tab.gladly.io/)
 @@||tab.gladly.io/newtab/|$document,subdocument
