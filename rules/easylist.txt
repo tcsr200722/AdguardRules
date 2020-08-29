@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Rme/gZHv3eqjw2MWhJm82A
-! Version: 202008291511
+! Checksum: FZRPugD1ZrD0wIKMMZozKg
+! Version: 202008291520
 ! Title: EasyList
-! Last modified: 29 Aug 2020 15:10 UTC
+! Last modified: 29 Aug 2020 15:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15198,6 +15198,7 @@ _popunder+$popup
 ###js-ad-billboard
 ###js-ad-leaderboard
 ###js-adslot-300x250-storyrec
+###js-bottom-ad-320x250
 ###js-image-ad-mpu
 ###js-page-ad-top
 ###js-react-video-player-ad-right
@@ -24396,6 +24397,7 @@ _popunder+$popup
 ##.flashadd
 ##.flex-ad
 ##.flexAd
+##.flexContentAd
 ##.flexad
 ##.flexadvert
 ##.flexbanneritemad
@@ -30902,7 +30904,7 @@ davidsilverspares.co.uk#@#.greyAd
 komando.com#@#.grid-item-ad
 forums.digitalspy.com,marketwatch.com,waer.org#@#.has-ad
 minecraftforge.net#@#.hasads
-adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
+adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,minkch.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
 greenbayphoenix.com,photobucket.com#@#.headerAd
 dailytimes.com.pk,swns.com#@#.header_ad
 associatedcontent.com#@#.header_ad_center
@@ -56196,8 +56198,6 @@ knowyourmeme.com###sonic
 sensis.com.au###southPfp
 stv.tv###sp-mpu-container
 aol.com###spA
-amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###sp_detail
-amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###sp_detail2
 thedailygreen.com###sp_footer
 collegefashion.net###spawnsers
 searchenginejournal.com###spcat_ifr
@@ -58124,6 +58124,8 @@ thestranger.com##.fish-butter
 mentalfloss.com##.fixed-footer-section
 techjunkie.com##.fixed-sidebar-fire-tv
 netdania.com##.fixed_footer_banner
+moonliteco.in##.flexAfter
+moonliteco.in##.flexBefore
 nepr.net##.flexslider
 bestgadgetry.com##.flipkart-wrapper
 mysuburbanlife.com##.flipp_module
@@ -60609,6 +60611,7 @@ howtogeek.com##div[id^="purch"]
 target.com##div[id^="rr_promo_"]
 reddit.com##div[id^="sidebar-atf-"]
 reddit.com##div[id^="sidebar-btf-"]
+amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 yahoo.com##div[id^="tile-A"][data-beacon-url^="https://beap.gemini.yahoo.com/mbcsc?"]
 yahoo.com##div[id^="tile-mb-"]
 gsprating.com##div[onclick="window.open('http://www.nationvoice.com')"]
@@ -60986,14 +60989,18 @@ msn.com##.amazon
 msn.com##.dynamicRRWrapper
 msn.com##.extnativead
 msn.com##.extnativeaditem
+msn.com##.medianetintraarticlenativead
 msn.com##.nativeAd-DS-card1-1
 msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
+msn.com##.replacead23
 msn.com##.sameoab_ad_container
 msn.com##.widead
 msn.com##[href^="https://amzn.to/"]
+msn.com##a.nativead[target="_blank"]
 msn.com##a[href*=".booking.com/"]
 msn.com##a[href^="https://rover.ebay.com/"]
+msn.com##div[data-section-id="sponsored.stripe.shopping"]
 ! Bing
 bing.com###mm_pla
 bing.com###verticalads
