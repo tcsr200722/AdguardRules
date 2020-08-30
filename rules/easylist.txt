@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S0Qs3MwH03aa6Z9i2G6tCw
-! Version: 202008300241
+! Checksum: ZmwXhnyOkonmNpVwT0l0zQ
+! Version: 202008300301
 ! Title: EasyList
-! Last modified: 30 Aug 2020 02:40 UTC
+! Last modified: 30 Aug 2020 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32002,6 +32002,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dolphincdn.xyz^
 ||dolsoste.com^
 ||domisesvivin.info^
+||domparce.pro^
 ||donconferen.site^
 ||dooptoug.net^
 ||dorthuredwardles.info^
@@ -33116,6 +33117,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||opsoomet.net^
 ||optimizesrv.com^
 ||optvx.com^
+||orarbeatrem.club^
 ||oratedencourse.info^
 ||oratorsresente.info^
 ||orcjagpox.com^
