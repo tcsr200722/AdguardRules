@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: tO6UmMvEbzU5cO52G7Vd0w
-! Version: 202008301141
+! Checksum: gQek+VJPWxzeZVGwHDQfcA
+! Version: 202008301201
 ! Title: EasyPrivacy
-! Last modified: 30 Aug 2020 11:41 UTC
+! Last modified: 30 Aug 2020 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12052,6 +12052,9 @@ _mongo_stats/
 ||fastly.net/i?
 ||fastly.net/plw.js
 ||fastly.net/sp.js
+! Consent Trackers
+||privacy-center.org^$third-party
+||privacy-mgmt.com^$third-party
 ! Unnecessary third-party scripts
 ||howsmyssl.com^$third-party
 ||js.trendmd.com^$script,subdocument,third-party
@@ -15618,6 +15621,7 @@ _mongo_stats/
 ||mms.blick.ch^
 ||mms.gocomics.com^
 ||mms.itpro.co.uk^
+||mms.wwe.com^
 ||neowin.net/js/mdn.neowin.js
 ||newsshopper-gb.newsshopper.co.uk^
 ||northwichguardian-gb.northwichguardian.co.uk^
