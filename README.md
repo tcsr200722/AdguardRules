@@ -10,7 +10,7 @@
 
 ## GitHack
 
-示例 `https://raw.githubusercontent.com/YOUSIKI/AdguardRules/master/rules/anti-ad-easylist.txt`
+示例 `https://raw.githack.com/YOUSIKI/AdguardRules/master/rules/anti-ad-easylist.txt`
 
 ## Gitee
 
