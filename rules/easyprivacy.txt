@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: SvKQRGdq+cmRrtrS/hQLaw
-! Version: 202008300821
+! Checksum: oibWYo9qI1xAFSos4s+J7g
+! Version: 202008300841
 ! Title: EasyPrivacy
-! Last modified: 30 Aug 2020 08:21 UTC
+! Last modified: 30 Aug 2020 08:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -627,6 +627,7 @@
 /analytics-assets/*
 /analytics-beacon-
 /analytics-cdn.
+/analytics-collector
 /analytics-core-bundle-
 /analytics-corp.js
 /analytics-dotcom/*
