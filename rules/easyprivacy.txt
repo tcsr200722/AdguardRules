@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 77/+wEkQgO3yz1YHx3AHSQ
-! Version: 202008301221
+! Checksum: JQK/Im0RCOCpsKrL2/1viA
+! Version: 202008301241
 ! Title: EasyPrivacy
-! Last modified: 30 Aug 2020 12:21 UTC
+! Last modified: 30 Aug 2020 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15657,6 +15657,7 @@ _mongo_stats/
 ||stourbridgenews-gb.stourbridgenews.co.uk^
 ||surreycomet-gb.surreycomet.co.uk^
 ||swindonadvertiser-gb.swindonadvertiser.co.uk^
+||telegraph.co.uk/telegraph-advertising/tmg-cmp.min.js
 ||theargus-gb.theargus.co.uk^
 ||theboltonnews-gb.theboltonnews.co.uk^
 ||thenational-gb.thenational.scot^
