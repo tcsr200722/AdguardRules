@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e+o2+RQtCVcyKxj+H8Du8A
-! Version: 202008310741
+! Checksum: TzL3dhALoLc6QL3v1BEzQg
+! Version: 202008310801
 ! Title: EasyList
-! Last modified: 31 Aug 2020 07:41 UTC
+! Last modified: 31 Aug 2020 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31995,6 +31995,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||diseasonal.club^
 ||diseasons.club^
 ||disloyalstrapunderstatement.com^
+||disobeystewhit.com^
 ||displaynews.live^
 ||displayvertising.com^
 ||distinesseqe.site^
@@ -33341,6 +33342,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||propeanikob.site^
 ||properatery.club^
 ||propu.sh^
+||prosumsit.com^
 ||protectdedication.com^
 ||protection-booster.club^
 ||protection-cleaner.club^
@@ -33411,6 +33413,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ractcogniser.top^
 ||racticeretre.club^
 ||raenfh9tkuka.com^
+||railroadheroicgold.com^
 ||raivikod.net^
 ||ramatering.club^
 ||rangsunbaa.com^
@@ -33699,6 +33702,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sixtuxfixer.com^
 ||sjscxhknxeek.com^
 ||skullimpact.com^
+||slaveforgetfulsneak.com^
 ||slectrumclarat.fun^
 ||sloeri.com^
 ||slykeyhot.site^
