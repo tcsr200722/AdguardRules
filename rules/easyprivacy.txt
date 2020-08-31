@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4os37hESKwsZ6WjcpLAXmA
-! Version: 202008310941
+! Checksum: AveZ4B4MIYsMY2NPif5zmQ
+! Version: 202008310951
 ! Title: EasyPrivacy
-! Last modified: 31 Aug 2020 09:41 UTC
+! Last modified: 31 Aug 2020 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3803,7 +3803,7 @@
 /smartrack/*
 /smartserve-
 /smarttag-prod.
-/smarttag.js
+/smarttag.*js
 /smarttag/smarttag-
 /smetrics.*/b/ss/*
 /smetrics.*/id?
