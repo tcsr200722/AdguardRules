@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qiDtAD2lr8oPmRpKnRVCyQ
-! Version: 202008311821
+! Checksum: INrI9XfTQrpiOkbcLN4ecA
+! Version: 202008311841
 ! Title: EasyList
-! Last modified: 31 Aug 2020 18:21 UTC
+! Last modified: 31 Aug 2020 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60785,6 +60785,7 @@ rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgpro
 horoscope.com##tr[valign="top"][height="250"]
 tumblr.com#?#._1DxdS:-abp-has( > div > header[role="banner"])
 twitter.com#?#div[data-testid="UserCell"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|プロモーション/)
+twitter.com#?#div[data-testid="eventHero"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|sponsorluğunda|Mainostettu|推廣|推广/)
 twitter.com#?#div[data-testid="placementTracking"]:-abp-has(svg + div[dir="auto"] > span:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|推薦|推荐|プロモーション/))
 twitter.com#?#div[data-testid="trend"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|sponsorluğunda|Mainostettu|推廣|推广/)
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted Tweet|Gesponserter Tweet|推廣推文|推广推文/)
