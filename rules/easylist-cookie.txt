@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /uGWvJxw7RpWn/kC8ZMFxw
-! Version: 202008310620
+! Checksum: rr3kinXlxee9C9vi41pIuw
+! Version: 202008310640
 ! Title: EasyList Cookie List
-! Last modified: 31 Aug 2020 06:20 UTC
+! Last modified: 31 Aug 2020 06:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14038,6 +14038,7 @@ edilvetta.it,naegele.it##.privacy
 smtvsanmarino.sm##.privacy-top
 italradio.org##.privacyStatement
 prelex.it##.rstboxes
+juzaphoto.com##.s_bluebox
 ogrtorino.it##.sc-dxgOiQ
 larrysmith.it##.scroll-banner
 teleradiopadrepio.it##.spu-bg
