@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VJVfb2gOdKYThF9TerkURA
-! Version: 202009011541
+! Checksum: h8OuUB3sVzBdmxdC4GlCGQ
+! Version: 202009011601
 ! Title: EasyList
-! Last modified: 01 Sep 2020 15:41 UTC
+! Last modified: 01 Sep 2020 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29879,6 +29879,7 @@ _popunder+$popup
 ##a[href^="https://giftsale.co.uk/?utm_"]
 ##a[href^="https://go.ad2up.com/"]
 ##a[href^="https://go.cmrdr.com/"]
+##a[href^="https://go.gldrdr.com/"]
 ##a[href^="https://go.hpyrdr.com/"]
 ##a[href^="https://go.onclasrv.com/"]
 ##a[href^="https://go.stripchat.com/"][href*="&campaignId="]
