@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Frq/Mxfv6MUrZK+TKSj9kw
-! Version: 202009010920
+! Checksum: BWX5lezLIXMrTTdwbFonrA
+! Version: 202009010940
 ! Title: EasyList
-! Last modified: 01 Sep 2020 09:20 UTC
+! Last modified: 01 Sep 2020 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -648,7 +648,6 @@
 .com/iplgadshow
 .com/js.ng/
 .com/js/ad.$~script
-.com/js/ads/
 .com/js/adsense
 .com/miads/
 .com/ntfc.php?$script
@@ -4560,7 +4559,6 @@
 /displayads3.
 /displayadsiframe.
 /displaybanner/*
-/dist/ads.
 /div-ads.
 /divad/*
 /dlfeatads.
@@ -5423,8 +5421,6 @@
 /js.ng/size=
 /js/ads-$~script
 /js/ads_
-/js/adv.
-/js/adv/*
 /js/adverts-
 /js/adz.
 /js/dfp-
@@ -35843,7 +35839,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||commissionmonster.com^$third-party
 ||commodationship.info^$third-party
 ||comscore.com^$third-party
-||concert.io^$third-party
 ||conderedtoget.info^$third-party
 ||conduit-banners.com^$third-party
 ||conduit-services.com^$third-party
