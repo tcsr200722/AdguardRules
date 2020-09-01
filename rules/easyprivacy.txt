@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: AgD7cQDLNtYJvAIftDUr7w
-! Version: 202009010141
+! Checksum: s4CRY/a1v6WotJXlzamo6g
+! Version: 202009010201
 ! Title: EasyPrivacy
-! Last modified: 01 Sep 2020 01:41 UTC
+! Last modified: 01 Sep 2020 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1379,6 +1379,7 @@
 /common/ga.js
 /common/tracker.js
 /competeTracking_test.html?
+/compile/AppMeasurement.
 /comscore-min.js
 /comscore.
 /comscore/pageview_
@@ -11241,6 +11242,7 @@ _mongo_stats/
 ||photobox.com/event
 ||photobox.com/logs
 ||phrasetech.com/api/collect
+||pi.ispot.tv^
 ||piano.io/tracker/
 ||pico.tools/metrics/
 ||ping-dot-acp-magento.appspot.com^
