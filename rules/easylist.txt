@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KAMe6IMUECVJDgxKlRWgBw
-! Version: 202009020711
+! Checksum: Y9lEMiZBQJaOz4sOlgTgxQ
+! Version: 202009020721
 ! Title: EasyList
-! Last modified: 02 Sep 2020 07:11 UTC
+! Last modified: 02 Sep 2020 07:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9934,6 +9934,7 @@ _popunder+$popup
 ###ad-blade
 ###ad-block
 ###ad-block-125
+###ad-block-aa
 ###ad-block-bottom
 ###ad-block-container
 ###ad-border
@@ -29871,6 +29872,7 @@ _popunder+$popup
 ##a[href^="https://explore.findanswersnow.net/"]
 ##a[href^="https://farm.plista.com/pets"]
 ##a[href^="https://fileboom.me/pr/"]
+##a[href^="https://financeads.net/tc.php?"]
 ##a[href^="https://fleshlight.sjv.io/"]
 ##a[href^="https://flirtaescopa.com/"]
 ##a[href^="https://fonts.fontplace9.com/"]
