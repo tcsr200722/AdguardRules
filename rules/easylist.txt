@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c3IQfYtw1p6cYKpN9zTpGg
-! Version: 202009020401
+! Checksum: JRVnvLWhWB8UIikiN3tLBw
+! Version: 202009020420
 ! Title: EasyList
-! Last modified: 02 Sep 2020 04:01 UTC
+! Last modified: 02 Sep 2020 04:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32982,6 +32982,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||narrowperennialaffable.com^
 ||natesbiscussi.club^
 ||natorpression.fun^
+||nawdwtocxqru.com^
 ||nbasicalbuffere.info^
 ||nbf9b5aurl.com^
 ||nbxiwktuvymecs.com^
@@ -33435,6 +33436,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||quotes.com^
 ||qwerq133.xyz^
 ||qwlltztcbwif.com^
+||qyvpgddwqynp.com^
 ||qza7iorexyrp.com^
 ||r-tb.com^
 ||r6ztccbkdrbi.com^
@@ -33444,6 +33446,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||racticeretre.club^
 ||raenfh9tkuka.com^
 ||railroadheroicgold.com^
+||raisingglisten.com^
 ||raivikod.net^
 ||ramatering.club^
 ||rangsunbaa.com^
