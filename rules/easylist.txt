@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JUKYF/vvhJndCbQSYrBDkQ
-! Version: 202009020110
+! Checksum: z6aFJNKM6N0SmokZ5Hmg8Q
+! Version: 202009020121
 ! Title: EasyList
-! Last modified: 02 Sep 2020 01:10 UTC
+! Last modified: 02 Sep 2020 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -53741,6 +53741,7 @@ wyciwyg:$popup,domain=jkanime.net
 ||uuvm.pornpics.com^
 ||vibraporn.com/vg/
 ||videos.com^*/jsp.js
+||videosdotados.com/sparkling-mud-f515/
 ||videoszoofiliahd.com/wp-content/themes/vz/js/p.js
 ||vidmo.org/images/*_banuers_
 ||vipergirls.to^*/sc300x250.
