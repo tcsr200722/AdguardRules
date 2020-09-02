@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: wVww6gPAr0cDa6b8VrNacA
-! Version: 202009020541
+! Checksum: nRZRTqoOhptgGKKo1EfXng
+! Version: 202009020601
 ! Title: EasyPrivacy
-! Last modified: 02 Sep 2020 05:41 UTC
+! Last modified: 02 Sep 2020 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5767,6 +5767,7 @@ _mongo_stats/
 ||answerscloud.com^$third-party
 ||anti-cheat.info^$third-party
 ||antiblock.info^$third-party
+||anura.io^$third-party
 ||ape78cn2.com^$third-party
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
@@ -17190,6 +17191,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||bookmate.com^*/impressions?$xmlhttprequest
 @@||bootcamp.mit.edu/js/angulartics-google-analytics.min.js
 @@||boxberry.ru/local/templates/site-boxberry/js/tracking_service.js$xmlhttprequest
+@@||browser.sentry-cdn.com^$domain=washingtonpost.com
 @@||bugzilla.mozilla.org^*/extensions/TrackingFlags/$script
 @@||c.paypal.com/da/r/fb.js$script
 @@||c212.net^$image,domain=prnewswire.com
