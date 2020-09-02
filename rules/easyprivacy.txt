@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nRZRTqoOhptgGKKo1EfXng
-! Version: 202009020601
+! Checksum: 3efuEP2ivSrUhOzzTo2Zbw
+! Version: 202009020621
 ! Title: EasyPrivacy
-! Last modified: 02 Sep 2020 06:01 UTC
+! Last modified: 02 Sep 2020 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2032,6 +2032,7 @@
 /gaTags.js
 /gatc.js
 /gatrack.
+/gaTracker.
 /gatracking.
 /gatrackingcampaigns/*
 /gatrackthis.
