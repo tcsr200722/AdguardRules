@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VLdYPo1ZK24GqR3UI+s/yg
-! Version: 202009030501
+! Checksum: T8RBhsUwsVaiGWEupRoqXA
+! Version: 202009030511
 ! Title: EasyList
-! Last modified: 03 Sep 2020 05:01 UTC
+! Last modified: 03 Sep 2020 05:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33084,6 +33084,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||normugtog.com^
 ||northeregikgf.club^
 ||northyatters.site^
+||nostromedia.com^
 ||notestscredi.club^
 ||nothickner.club^
 ||notification-centar.com^
