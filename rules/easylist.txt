@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eKxyPlZeWmcIdG5lgTY6eg
-! Version: 202009031901
+! Checksum: fHGIoh7DAQ2+7dHWP/EJxQ
+! Version: 202009031911
 ! Title: EasyList
-! Last modified: 03 Sep 2020 19:01 UTC
+! Last modified: 03 Sep 2020 19:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -36890,6 +36890,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ibryte.com^$third-party
 ||icdirect.com^$third-party
 ||idealmedia.com^$third-party
+||idealmedia.io^$third-party
 ||identads.com^$third-party
 ||idownloadgalore.com^$third-party
 ||idreammedia.com^$third-party
@@ -37456,6 +37457,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||misslk.com^$third-party
 ||mitatic.xyz^$third-party
 ||mitouxoo.net^$third-party
+||mixadvert.com^$third-party
 ||mixi.media^$third-party
 ||mixmarket.biz^$third-party
 ||mixpo.com^$third-party
@@ -38275,6 +38277,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rbnt.org^$third-party
 ||rclmc.top^$third-party
 ||rcurn.com^$third-party
+||rcvlink.com^$third-party
+||rcvlinks.com^$third-party
 ||reachjunction.com^$third-party
 ||reachlocal.com^$third-party
 ||reachmode.com^$third-party
@@ -39449,6 +39453,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||zisboombah.net^$third-party
 ||zjk24.com^$third-party
 ||zm232.com^$third-party
+||zme5uv.site^$third-party
 ||znaptag.com^$third-party
 ||zoafoaho.net^$third-party
 ||zoagremo.net^$third-party
