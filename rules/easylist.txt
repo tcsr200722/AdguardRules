@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: f35035dASOjvPXXggZwUkQ
-! Version: 202009040521
+! Checksum: J1/YEMOjR340QBXKDOf9Og
+! Version: 202009040540
 ! Title: EasyList
-! Last modified: 04 Sep 2020 05:21 UTC
+! Last modified: 04 Sep 2020 05:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32303,6 +32303,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fagaxesea.com^
 ||fagmomqua.site^
 ||fahimpace.pro^
+||faigroas.net^
 ||fairyceiling.com^
 ||familinger.club^
 ||famountsuref.site^
@@ -32595,6 +32596,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||housopsi.net^
 ||howbyehid.site^
 ||howeverhou.fun^
+||hpeprovisioning17.live^
 ||hriaaim06kts.com^
 ||hrthvf.xyz^
 ||hsh51nvkrv.com^
@@ -32699,6 +32701,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jodellbrought.pro^
 ||joobuste.com^
 ||joyekepus.online^
+||joyschema13.live^
 ||joyvowdig.com^
 ||jqk72ugyl2pz.com^
 ||judaisydfs.club^
@@ -33274,6 +33277,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ovyiakt1wzqz.com^
 ||owedinternslt.space^
 ||oweverycanvas.info^
+||owlsoralscola.icu^
 ||owncutone.com^
 ||oxtowerbus.club^
 ||oyeesfrencha.fun^
@@ -33320,6 +33324,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||paveherniaell.com^
 ||paveralleycoun.info^
 ||pb5oqguywycj.com^
+||pclk.name^
 ||pcommaging.site^
 ||pd-news.com^
 ||pearerinven.fun^
@@ -33993,6 +33998,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||thywhapupi.pro^
 ||tibacta.com^
 ||tidint.pro^
+||tidyboressire.com^
 ||tifybecausingp.info^
 ||tineprepair.club^
 ||tingenerall.club^
@@ -46916,6 +46922,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hlpnowp-c.com^$popup,third-party
 ||hotchatdate.com^$popup,third-party
 ||hotchatdirect.com^$popup,third-party
+||hpeprovisioning17.live^$popup
 ||hqtrk.com^$popup
 ||hrahdmon.com^$popup
 ||hrtye.com^$popup
@@ -46950,6 +46957,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||iwanttodeliver.com^$popup,third-party
 ||iyfnzgb.com^$popup
 ||jdtracker.com^$popup,third-party
+||joyschema13.live^$popup
 ||jqfjrjka5t.top^$popup
 ||jsmentry.com^$popup
 ||jsmptjmp.com^$popup
