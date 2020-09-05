@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vvlgm1/T6qZByFEll/FpXA
-! Version: 202009050841
+! Checksum: 0sq6RHaWJG5WVOIQCz1SGA
+! Version: 202009050850
 ! Title: EasyList
-! Last modified: 05 Sep 2020 08:41 UTC
+! Last modified: 05 Sep 2020 08:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60244,6 +60244,7 @@ greatandhra.com##div[class^="add"]
 technical.city##div[class^="banner_"]
 kijiji.ca##div[class^="sponsored-"]
 amazon.com##div[data-ad-id]
+engadget.com##div[data-component="GeminiAdItem"]
 pushsquare.com##div[data-dfp-id]
 monova.org##div[data-id]
 engadget.com##div[data-nav-drawer-slide-panel] > aside[role="banner"]
