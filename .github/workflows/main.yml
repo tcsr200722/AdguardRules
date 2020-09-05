@@ -252,29 +252,29 @@ jobs:
       with:
         github_token: ${{ secrets.TOKEN }}
 
-  sync-to-gitee:
-    runs-on: ubuntu-latest
-    needs: download-and-update
-    steps:
-    - uses: actions/checkout@v2
-    - uses: Yikun/hub-mirror-action@master
-      with:
-        src: github/yousiki
-        dst: gitee/yousiki
-        dst_key: ${{ secrets.GITEE_KEY }}
-        dst_token: ${{ secrets.GITEE_TOKEN }}
-        white_list: "AdguardRules"
-        force_update: true
+#   sync-to-gitee:
+#     runs-on: ubuntu-latest
+#     needs: download-and-update
+#     steps:
+#     - uses: actions/checkout@v2
+#     - uses: Yikun/hub-mirror-action@master
+#       with:
+#         src: github/yousiki
+#         dst: gitee/yousiki
+#         dst_key: ${{ secrets.GITEE_KEY }}
+#         dst_token: ${{ secrets.GITEE_TOKEN }}
+#         white_list: "AdguardRules"
+#         force_update: true
 
-  sync-to-bitbucket:
-    runs-on: ubuntu-latest
-    needs: download-and-update
-    steps:
-    - uses: actions/checkout@v2
-    - run: git fetch --unshallow origin
-    - uses: spyoungtech/mirror-action@master
-      with:
-        REMOTE: 'https://YouSiki@bitbucket.org/YouSiki/adguardrules.git'
-        GIT_PUSH_ARGS: '--force'
-        GIT_USERNAME: yousiki
-        GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
+#   sync-to-bitbucket:
+#     runs-on: ubuntu-latest
+#     needs: download-and-update
+#     steps:
+#     - uses: actions/checkout@v2
+#     - run: git fetch --unshallow origin
+#     - uses: spyoungtech/mirror-action@master
+#       with:
+#         REMOTE: 'https://YouSiki@bitbucket.org/YouSiki/adguardrules.git'
+#         GIT_PUSH_ARGS: '--force'
+#         GIT_USERNAME: yousiki
+#         GIT_PASSWORD: ${{ secrets.BITBUCKET_PASSWORD }}
