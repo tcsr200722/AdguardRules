@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: VhRqos7fKNTTx+t5mNntNA
-! Version: 202009050933
+! Checksum: 0ObSZ/mvyo9mkNM05Mt46A
+! Version: 202009050953
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 05 Sep 2020 09:33 UTC
+! Last Modified: 05 Sep 2020 09:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -10121,7 +10121,6 @@ cnfol.com##.AdAsideW300H250
 hung-ya.com##.AdBottom
 qq.com##.AdBox-Article-QQ
 qq.com##.AdTop-Article-QQ
-crsky.com##.Adown_dli
 cnfol.com##.AdvDL
 fx110.com,fx110.uk##.Adv_1
 bestopview.com##.Adv_c
@@ -10152,7 +10151,6 @@ jinhua.com.cn##.FocusAD
 angelweb.cn##.GG960x90
 aiyuke.com##.GGad
 downg.com##.Gs_d[href$=".exe"]
-crsky.com##.Gs_d[href="javascript:;"]
 52fzwg.com,79tao.com,hqol.cn,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com##.GzList
 le.com##.H-tg
 diyifanwen.com##.Hzh1
