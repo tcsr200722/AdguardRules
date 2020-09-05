@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IwJy8iymOb3zReCdmDJIFw
-! Version: 202009050741
+! Checksum: ozSPUf1LO1M49HwUY7wFFw
+! Version: 202009050750
 ! Title: EasyList
-! Last modified: 05 Sep 2020 07:40 UTC
+! Last modified: 05 Sep 2020 07:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60077,6 +60077,7 @@ monova.org##[onclick] > a[class]
 filecrypt.cc,filecrypt.co##[onclick^="location.href"]
 filecrypt.cc,filecrypt.co##[onclick^="top.location"]
 nzbindex.com##[src="/img/i/frugal.gif"]
+wccftech.com##[style*="display:"][class]
 uploaded.to##[style="margin-left: 15px;"]
 wahm.com##[style="min-height:250px;"]
 imagetwist.com##[target="_blank"] > img

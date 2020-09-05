@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: cdJNXlhwnqhZ+c+SebPd2g
-! Version: 202009050741
+! Checksum: NSBO3BXGQR8c91XL2UruVg
+! Version: 202009050751
 ! Title: EasyPrivacy
-! Last modified: 05 Sep 2020 07:41 UTC
+! Last modified: 05 Sep 2020 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -917,6 +917,7 @@
 /autotag.
 /autotrack-with-autotrack-analytics.
 /autotrack.carbon.js
+/autotrack.custom.js
 /autotrack.custom.min.js
 /autotrack.js
 /autotrack.min.js
