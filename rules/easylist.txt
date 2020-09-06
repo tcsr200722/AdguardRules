@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ahsPiVYOLDYNQXn1FuMFwA
-! Version: 202009062201
+! Checksum: lk0s32kgnIbfG3prEAFA7g
+! Version: 202009062211
 ! Title: EasyList
-! Last modified: 06 Sep 2020 22:00 UTC
+! Last modified: 06 Sep 2020 22:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33069,6 +33069,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||motille.com^
 ||movie-pass.live^
 ||mozgvya.com^
+||mpanybac.club^
 ||mpay69.com^
 ||mpletedsen.fun^
 ||mplexanno.club^
