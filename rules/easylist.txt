@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A9On32i1tqn6vsmM2r0c0w
-! Version: 202009060121
+! Checksum: 3qkZDhdoXc7TOiW0ewUeEw
+! Version: 202009060141
 ! Title: EasyList
-! Last modified: 06 Sep 2020 01:20 UTC
+! Last modified: 06 Sep 2020 01:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4180,6 +4180,7 @@
 /btstryad.
 /bucketads.
 /buddyw_ad.
+/build/dfp.js
 /buildAdfoxBanner.
 /buildAdriverBanner.
 /bundle/ads.
@@ -7179,6 +7180,7 @@
 /wordpress-ads-plug-in/*
 /work.php?n=*&size=*&c=
 /wp-ad.min.
+/wp-auto-affiliate-links/*
 /wp-bannerize-
 /wp-bannerize.
 /wp-bannerize/*
