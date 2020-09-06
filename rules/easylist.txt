@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kyiwmroQfxlmchYXuGwXzw
-! Version: 202009060050
+! Checksum: A9On32i1tqn6vsmM2r0c0w
+! Version: 202009060121
 ! Title: EasyList
-! Last modified: 06 Sep 2020 00:50 UTC
+! Last modified: 06 Sep 2020 01:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8207,6 +8207,7 @@ _prx/ba_$script
 /prebid2140.
 /prebid3.
 /prebid35.
+/prebid4.
 /prebid?
 /prebid_$script
 /prebidtest.
@@ -30031,6 +30032,7 @@ _popunder+$popup
 ##a[onmousedown^="this.href='/wp-content/embed-ad-content/"]
 ##ad-desktop-sidebar
 ##amp-ad-custom
+##app-advertisement
 ##aside[id^="adrotate_widgets-"]
 ##aside[id^="advads_ad_widget-"]
 ##aside[id^="div-gpt-ad"]
@@ -58087,6 +58089,8 @@ addictinggames.com##.gameHeaderSponsor
 kibagames.com##.game__bottomInfoRightContainer
 muchgames.com##.gamead
 monstertruckgames.org##.gamecatbox
+keengamer.com##.gameon-above-the-title-970x250-desktop
+keengamer.com##.gameon-in-content-desktop-1
 cartoondollemporium.com##.games_dolls_ads_right300x250
 adultswim.com##.gametap-placement
 cpuboss.com##.gat-da
@@ -60254,6 +60258,7 @@ apnews.com##div[class^="Component-rectanglePlaceholderWrapper-"]
 issuu.com##div[class^="ExploreShelf__ad"]
 greatandhra.com##div[class^="add"]
 technical.city##div[class^="banner_"]
+keengamer.com##div[class^="gameon-mpu-"]
 kijiji.ca##div[class^="sponsored-"]
 amazon.com##div[data-ad-id]
 engadget.com##div[data-component="GeminiAdItem"]
