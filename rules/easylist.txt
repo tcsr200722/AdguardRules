@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lxZDvSbLqbnSFskhyZVtjA
-! Version: 202009060001
+! Checksum: kyiwmroQfxlmchYXuGwXzw
+! Version: 202009060050
 ! Title: EasyList
-! Last modified: 06 Sep 2020 00:01 UTC
+! Last modified: 06 Sep 2020 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16882,6 +16882,7 @@ _popunder+$popup
 ###stickyrightad
 ###stopAdv
 ###stopAdvt
+###stories-ad
 ###story-90-728-area
 ###story-ad
 ###story-ad-1-wrapper
@@ -30439,6 +30440,7 @@ _popunder+$popup
 ##.td-zergnet
 ##.widget-ami-zergnet
 ##.widget_ok_zergnet_widget
+##.zerg-widgets
 ##.zergmod
 ##.zergnet
 ##.zergnet-holder
@@ -33663,6 +33665,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rightiescolled.club^
 ||rightstaredstun.com^
 ||rinedcountilconsiden.info^
+||ringassum.club^
 ||rintellsfundrew.info^
 ||riodovernprovi.club^
 ||ripslifestassoci.info^
@@ -52515,7 +52518,6 @@ javascript:$popup,domain=pirateproxy.live|proxyfrom.asia|superproxy.biz|thehidde
 @@||netdna-cdn.com/wp-content/$script,third-party,domain=100percentfedup.com|allthingsvegas.com|americasfreedomfighters.com|dailyheadlines.net|foreverymom.com|newser.com|shark-tank.com|tosavealife.com|videogamesblogger.com
 @@||netdna-cdn.com/wp-includes/js/$script,third-party,domain=100percentfedup.com|allthingsvegas.com|americasfreedomfighters.com|dailyheadlines.net|foreverymom.com|newser.com|shark-tank.com|thehayride.com|tosavealife.com|videogamesblogger.com
 @@||outstreamplayer.com^$domain=grammarist.com
-@@||p.jwpcdn.com/player/v/$script,stylesheet,third-party
 @@||platform.instagram.com^$script,third-party,domain=100percentfedup.com|allthingsvegas.com|dailyheadlines.net|foreverymom.com|newser.com|rightwingnews.com|shark-tank.com|tosavealife.com|videogamesblogger.com
 @@||platform.twitter.com^$image,domain=allthingsvegas.com|newser.com|whatfinger.com
 @@||playbuzz.com/widget/$script,third-party
@@ -55627,6 +55629,7 @@ behealthydaily.com###partners_content
 gumtree.com###partnership-vip-compact
 gumtree.com###partnerships
 patheos.com###patheos-ad-region
+mashable.com###pathing-banner
 carscoops.com###payload
 binaries4all.com###payserver
 binaries4all.com###payserver2
@@ -57018,6 +57021,7 @@ cultofmac.com##.appDetailPanel-ad
 channelchooser.com##.append-bottom.last
 capitalfm.com,classicfm.com##.apple_music
 360.cymru##.ardal-hysbyseb
+whatculture.com##.area-x__large
 liveonlineradio.net##.art-Header2
 skysports.com##.art-betlink
 carsession.com##.artBanner300
@@ -57032,7 +57036,7 @@ infoworld.com##.article-intercept
 androidcentral.com,cordcutters.com,crackberry.com,imore.com,windowscentral.com##.article-leaderboard
 scoop.co.nz##.article-left-box
 pressgazette.co.uk,spearswms.com##.article-mpu
-nintendolife.com,pushsquare.com##.article-recommendations
+nintendolife.com,purexbox.com,pushsquare.com##.article-recommendations
 windowscentral.com##.article-shop-bar
 forbes.com##.article-speedbump
 salemreporter.com##.article-sponsors
@@ -58022,6 +58026,7 @@ tiresandparts.net##.footer_top_banner
 scotsman.com##.footer_top_holder
 datamation.com##.footerbanner
 eurocupbasketball.com,euroleague.net##.footersponsors-container
+purexbox.com##.for-desktop
 videojug.com##.forceMPUSize
 alphacoders.com##.form_info
 northcoastnow.com##.formy
