@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3q0LVxj1E3QdaKjK3IlOug
-! Version: 202009071021
+! Checksum: wM/nEvEoqzfAAf1TWWkGFA
+! Version: 202009071041
 ! Title: EasyList
-! Last modified: 07 Sep 2020 10:21 UTC
+! Last modified: 07 Sep 2020 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15959,6 +15959,7 @@ _popunder+$popup
 ###populate_ad_textupper_textlink
 ###popupAd
 ###popupBottomAd
+###popup_ad_wrapper
 ###popup_domination_lightbox_wrapper
 ###popupadunit
 ###portlet-advertisement-left
@@ -32352,6 +32353,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fagmomqua.site^
 ||fahimpace.pro^
 ||faigroas.net^
+||fairnessenhancedisposal.com^
 ||fairyceiling.com^
 ||familinger.club^
 ||famountsuref.site^
@@ -32591,6 +32593,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hadspms.com^
 ||haftobso.net^
 ||hagainstan.space^
+||hailstoneclayfairy.com^
 ||haithoaz.net^
 ||halleyperson.pro^
 ||hamadotax.site^
@@ -33688,6 +33691,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||resolidarisons.website^
 ||responservbzh.icu^
 ||responserver.com^
+||responsibilityimplied.com^
 ||responsidejo.club^
 ||restroyhyt.club^
 ||resultsgenou.club^
