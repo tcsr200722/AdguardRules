@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: E0j3RapVOE5yzFozV416aw
-! Version: 202009070800
+! Checksum: jQl97AtAWOXstNZNNDJk2A
+! Version: 202009070820
 ! Title: EasyList
-! Last modified: 07 Sep 2020 08:00 UTC
+! Last modified: 07 Sep 2020 08:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3654,7 +3654,7 @@
 /adwizard_
 /adwolf.
 /adword.
-/adwords.$domain=~ppc.ee|~radom.pl
+/adwords.$domain=~adwords.dominatus.si|~ppc.ee|~radom.pl
 /adwords/*$domain=~google.com
 /adwordstracking.js
 /adWorking/*
