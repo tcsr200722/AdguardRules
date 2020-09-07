@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RmcvAxfgkZsB9qj+02s4SA
-! Version: 202009070600
+! Checksum: rykli75lP0ihT7vSz5aosA
+! Version: 202009070621
 ! Title: EasyList
-! Last modified: 07 Sep 2020 06:00 UTC
+! Last modified: 07 Sep 2020 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29430,6 +29430,7 @@ _popunder+$popup
 ##[href^="https://IS.ltroute.com/"]
 ##[href^="https://get-download.club/"]
 ##[href^="https://maskip.co/"]
+##[href^="https://offer.adcampo.com/"]
 ##[id^="adframe_wrap_"]
 ##[id^="bunyad_ads_"]
 ##[lazy-ad="leftbottom_banner"]
@@ -52794,7 +52795,7 @@ bento.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][t
 ! Rewrite to internal resources rules for Adblock Plus
 ||slacker.com^*/getspot/?spotid=$media,rewrite=abp-resource:blank-mp3,domain=slacker.com
 ! *** easylist:easylist/easylist_specific_block_popup.txt ***
-$popup,third-party,domain=play.hydracdn.network|streamtape.com
+$popup,third-party,domain=loader.to|play.hydracdn.network|streamtape.com
 %3D$popup,domain=nme.com
 /dlads.$popup,domain=ouo.io|ouo.press
 /sendspace-pop.$popup,domain=sendspace.com
