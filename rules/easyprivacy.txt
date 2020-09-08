@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rZf3eMByjz4vmT2WRYmELw
-! Version: 202009080001
+! Checksum: zt1s1x4RG6x8T5uLhLv3GA
+! Version: 202009080051
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2020 00:01 UTC
+! Last modified: 08 Sep 2020 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15476,6 +15476,7 @@ _mongo_stats/
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com^*/10341xh50yz21mhhydueu4m5wad.js$script,domain=ebay.com
 ||ebaystatic.com^*/g52yxhxv2mzcbealmlkri4kn5av.js$script,domain=ebay.com
+||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ! Fingerprint
 /^https?:\/\/www\.mouser\.com\/[a-z]{30,}.js/$script,domain=mouser.com
