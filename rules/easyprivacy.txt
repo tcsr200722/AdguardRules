@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: zt1s1x4RG6x8T5uLhLv3GA
-! Version: 202009080051
+! Checksum: QDpizfhP4fm6SE4YQtjQHg
+! Version: 202009080121
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2020 00:51 UTC
+! Last modified: 08 Sep 2020 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12075,6 +12075,7 @@ _mongo_stats/
 ! Consent Trackers
 ||privacy-mgmt.com^$script,third-party
 ! Unnecessary third-party scripts
+||cyveillance.com^$third-party
 ||howsmyssl.com^$third-party
 ||js.trendmd.com^$script,subdocument,third-party
 ||nsg.symantec.com^$third-party
@@ -14160,6 +14161,7 @@ _mongo_stats/
 ||modernsalon.com/includes/sc_video_tracking.js
 ||momtastic.com/libraries/pebblebed/js/pb.track.js
 ||moneysupermarket.com^*/ProphetInsert.js
+||monitor.ebay.com^
 ||monkeyquest.com/monkeyquest/static/js/ga.js
 ||monova.org/js/ga.js
 ||monstercrawler.com/__kl.gif
@@ -15479,7 +15481,7 @@ _mongo_stats/
 ||pages.ebay.com/identity/device/$subdocument
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ! Fingerprint
-/^https?:\/\/www\.mouser\.com\/[a-z]{30,}.js/$script,domain=mouser.com
+/^https?:\/\/www\.mouser\.com\/[a-z]{25,}.js/$script,xmlhttprequest,domain=mouser.com
 /^https?:\/\/www\.mouser\.com\/static\/[a-z0-9]{30,}/$script,domain=mouser.com
 /^https?:\/\/www\.ugg\.com\/static\/[a-z0-9]{15,}/$domain=ugg.com
 ||aero.bankofamerica.com^$script,~third-party,xmlhttprequest
