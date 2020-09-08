@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: QDpizfhP4fm6SE4YQtjQHg
-! Version: 202009080121
+! Checksum: FemzMGt7Gvq3rIZuETXHcQ
+! Version: 202009080141
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2020 01:21 UTC
+! Last modified: 08 Sep 2020 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6607,6 +6607,7 @@ _mongo_stats/
 ||guardwork.info^$third-party
 ||gvisit.com^$third-party
 ||gweini.com^$third-party
+||gwmtracking.com^$third-party
 ||gxgydnhz.com^$third-party
 ||h4k5.com^$third-party
 ||halldata.com^$third-party
@@ -13270,7 +13271,7 @@ _mongo_stats/
 ||cgi.nch.com.au^*&referrer
 ||chanel.com/js/flashtrack.js
 ||channel4.com/foresee_c4/
-||charter.com/static/scripts/mock/tracking.js
+||charter.com/api/collector
 ||chase.com/activity$image
 ||cheapflights.com/ic/*.gif?
 ||cheapsalesconsulting.com/adaptive.php?
