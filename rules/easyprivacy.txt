@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4GR2d+LNoDWmQLM/1k1+IA
-! Version: 202009110301
+! Checksum: dAAW4qWDe5eUyRIg5ebxVA
+! Version: 202009110321
 ! Title: EasyPrivacy
-! Last modified: 11 Sep 2020 03:01 UTC
+! Last modified: 11 Sep 2020 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7665,6 +7665,7 @@ _mongo_stats/
 ||smrk.io^$third-party
 ||snapdeal.biz^$third-party
 ||snapsmedia.io^$third-party
+||snigelweb.com^$third-party
 ||sniperlog.ru^$third-party
 ||sniphub.com^$third-party
 ||snoobi.com^$third-party
@@ -10716,8 +10717,6 @@ _mongo_stats/
 ||geckofoot.com/gfcounterimg.aspx?
 ||geckofoot.com/gfvisitormap.aspx?
 ||geni.us/snippet.js
-||geo-eu.snigelweb.com^
-||geo-us.snigelweb.com^
 ||geo.ertya.com^
 ||geo.gexo.com/geo.js$third-party
 ||geo.gorillanation.com^
