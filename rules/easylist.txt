@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p67OOlrQg9rE/l9n1CpBTg
-! Version: 202009110621
+! Checksum: yQ1mI66Ce9yucQvF5SCnMA
+! Version: 202009110640
 ! Title: EasyList
-! Last modified: 11 Sep 2020 06:21 UTC
+! Last modified: 11 Sep 2020 06:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31663,6 +31663,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||badskies.com^
 ||badskis.com^
 ||balanderramed.site^
+||banesnorttat.cam^
 ||bangedmarketcake.com^
 ||banicywan.com^
 ||bannneddd.xyz^
@@ -32046,6 +32047,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dantbritingd.club^
 ||dardwebertoha.info^
 ||dartsirhose.icu^
+||dashcreakyock.com^
 ||dasimporary.club^
 ||datedissyuk.icu^
 ||dating2cloud.org^
@@ -32426,6 +32428,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||feb12740de5be9b3.com^
 ||federalderok.club^
 ||fedsit.com^
+||feed-xml.com^
 ||feed111.com^
 ||feed777.me^
 ||feedinburgew.site^
@@ -32469,6 +32472,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||flatlyforensics.com^
 ||flaudnrs.me^
 ||flowwiththetide.xyz^
+||fluffyeaster.com^
 ||flvs7ql3l6.com^
 ||flxargtrgwt.com^
 ||fmax.xyz^
@@ -32650,6 +32654,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||haithoaz.net^
 ||halleyperson.pro^
 ||hamadotax.site^
+||hamsterresentful.com^
 ||hapogzu9a19m5fhe56pb.pro^
 ||haracticdag.fun^
 ||haractice.club^
@@ -32730,6 +32735,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||i99i.org^
 ||ialgregarderol.fun^
 ||ianisedover.info^
+||ibjjsptlmv.com^
 ||iclickcdn.com^
 ||icn.brandnewapp.pro^
 ||ideliv.net^
@@ -32915,6 +32921,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||laygunwow.com^
 ||layshyjar.com^
 ||lcnf.pro^
+||ld3hkhldgbkl.com^
 ||ldevillaechildren.info^
 ||ldingchristing.site^
 ||ldwidentconc.space^
@@ -32942,6 +32949,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||leveryone.club^
 ||lfendascra.club^
 ||lgmsekxqwxe.com^
+||lhljbgevp.com^
 ||li9t691864th.com^
 ||libanyelm.com^
 ||libcdn.xyz^
@@ -32979,6 +32987,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lomerswithi.club^
 ||lomkgojdoeffl.com^
 ||loobusir.com^
+||loopredsglen.com^
 ||lopetgohou.cf^
 ||lophaszip.com^
 ||lopzitpup.com^
@@ -33588,6 +33597,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||prepenseprepensedefiance.com^
 ||presearchity.site^
 ||presentsh.club^
+||pressingfastenedphantom.com^
 ||presticikju.club^
 ||prevealhealth.info^
 ||previsibilisais.website^
@@ -34223,6 +34233,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||topbetfast.com^
 ||topblockchainsolutions.nl^
 ||topdisplaynetwork.com^
+||toplesstacticsdepend.com^
 ||topperformance.xyz^
 ||topperyregard.fun^
 ||toprevenuenetwork.com^
