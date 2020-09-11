@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Aih1U2LAhhFsHMRQp46lbg
-! Version: 202009110401
+! Checksum: 5nnMh6q/xcMR1qeHUae9MA
+! Version: 202009110420
 ! Title: EasyList
-! Last modified: 11 Sep 2020 04:01 UTC
+! Last modified: 11 Sep 2020 04:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31494,6 +31494,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||allyopenetic.info^
 ||almetasteyu.info^
 ||aloeparssabres.com^
+||aloguerequi.space^
 ||aloissentence.pro^
 ||alruqbfjg.com^
 ||althoutafrick.info^
@@ -31717,6 +31718,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||bidiology.com^
 ||bilkscotpyx.com^
 ||billionpops.com^
+||bindmillionairenaturalists.com^
 ||binetsrealing.club^
 ||binsatbee.club^
 ||biroads.com^
@@ -32601,6 +32603,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||grampouz.net^
 ||grandparen.club^
 ||granticaffodily.club^
+||grapefruitlifestyle.com^
 ||graunada.com^
 ||greatmentef.club^
 ||greatvideos.xyz^
@@ -34463,6 +34466,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wg-aff.com^
 ||wgqakonrahgprc.com^
 ||whadaupo.net^
+||whaiweel.com^
 ||whamukoji.pro^
 ||whaustou.net^
 ||wheessoo.com^
