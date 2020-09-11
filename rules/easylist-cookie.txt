@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RzLq8rZdityQk1Smjpw+wg
-! Version: 202009081041
+! Checksum: 6NbeYG7AyP2immDH+VOk2w
+! Version: 202009110150
 ! Title: EasyList Cookie List
-! Last modified: 08 Sep 2020 10:41 UTC
+! Last modified: 11 Sep 2020 01:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1968,6 +1968,7 @@ _site_cookie_
 ###ccp-bnr-ck
 ###ccpa-banner
 ###ccpa-consent-banner
+###ccpa-cookie
 ###ccpa-prompt-wrapper
 ###ccpaCookieBanner
 ###ccs-notification
@@ -2826,6 +2827,7 @@ _site_cookie_
 ###cookieChoice
 ###cookieChoiceBanner
 ###cookieChoiceBar
+###cookieChoiceBdrop
 ###cookieChoiceInfo
 ###cookieChoiceInfoAccept
 ###cookieChoiceInfo_general
@@ -12638,6 +12640,7 @@ wrigleys.co.uk###rpcm
 tenuser.com###rsp
 sanitas.com###sanitasCookieAlert
 people.cn###shengmingTip
+convertlive.com###sid-container
 investing.com###sideNotificationZone
 centurion-magazine.com###simple-notification
 isa.org###simplemodal-container
@@ -13533,6 +13536,8 @@ ashtangayogaantibes.com###shBackground
 selexion.be###splash_footer
 mailorama.fr###toast-container
 commentseruiner.com###uec_wrap
+frontpopulaire.fr##.Modal-inner-wrapper
+frontpopulaire.fr##.Modal-wrapper
 drweb.fr##.SHOWIT-msg_showed
 acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 camara.net##.activebar-container
