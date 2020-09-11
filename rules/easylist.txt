@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8xAHX1qZCi/npKCkV2/Zdw
-! Version: 202009110321
+! Checksum: cFZrtCSTuwweke8+RV9RJA
+! Version: 202009110340
 ! Title: EasyList
-! Last modified: 11 Sep 2020 03:21 UTC
+! Last modified: 11 Sep 2020 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38885,6 +38885,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||snack-media.com^$third-party
 ||snap.com^$third-party
 ||sndkorea.co.kr^$third-party
+||snigelweb.com^$third-party
 ||so-excited.com^$third-party
 ||soagitet.net^$third-party
 ||soalouve.com^$third-party
