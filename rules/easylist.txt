@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: y5O5vTpv90kAU07XU/uOhA
-! Version: 202009110801
+! Checksum: MJHr6hzBZFXCg517C/4ecg
+! Version: 202009110821
 ! Title: EasyList
-! Last modified: 11 Sep 2020 08:01 UTC
+! Last modified: 11 Sep 2020 08:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32514,6 +32514,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||g2afse.com^
 ||g3bxbinwsgdf.com^
 ||g6zkzy0g2g.com^
+||g8cp5djk1j0r.com^
 ||gadsabz.com^
 ||gadsans.com^
 ||gadsanz.com^
@@ -32721,6 +32722,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||howbyehid.site^
 ||howeverhou.fun^
 ||hpeprovisioning17.live^
+||hqr9q6f30371.com^
 ||hriaaim06kts.com^
 ||hrthvf.xyz^
 ||hsh51nvkrv.com^
@@ -34224,6 +34226,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tithewtog.com^
 ||titoaktop.com^
 ||tiveacquisitsprett.info^
+||tiznmktqel.com^
 ||tj9pcnb2ws.com^
 ||tjzetzjqodjj.com^
 ||tlocatering.club^
