@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j8gmMkAHCrsuQbQlSKVysw
-! Version: 202009121103
+! Checksum: YSjBV2TGsaaUvVwxxLH0Xg
+! Version: 202009121113
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 12 Sep 2020 11:03 UTC
+! Last Modified: 12 Sep 2020 11:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1098,6 +1098,7 @@ _xiuno_com_ad/
 ##script + #coupletBox
 ##script + #rbbox
 ###leftCouple1
+##.add-gg
 ###leftFloat1 + #rightFloat1
 ###photo-header-title-content-text-dallor11
 ###rightCouple1
@@ -1107,6 +1108,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||xn--9kq745jwng.work^
 ||alightin.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -10442,7 +10444,6 @@ ceiea.com##.adclass2019
 pchome.com.tw##.adcon
 52pk.com,hao.rising.cn,vpgame.com##.add
 78dm.net##.add-980
-kmzy6.com##.add-gg
 fang.com,soufun.com##.add1200
 chinanews.com##.add3
 chinanews.com##.add4
@@ -13688,7 +13689,7 @@ ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
 jianshu.com#?#div[id]:-abp-has(> .ad-badge)
 jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
-kmzy6.com#?#a:-abp-has(> .xcybk-adfg)
+chbeyond.cn#?#a:-abp-has(> .xcybk-adfg)
 kostool.cn#?#div:-abp-has(> h1:-abp-contains(推广))
 lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
 hk.yahoo.com##li[class="js-stream-content Cf Pos-r RevealNested      "][data-uuid]:not([data-uuid*="-"])
