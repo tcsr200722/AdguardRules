@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mFCwN/N2BA5Fb6IK9tzYsA
-! Version: 202009131020
+! Checksum: WzK+yE3PLz0cJMeanI8jxg
+! Version: 202009131040
 ! Title: EasyList Cookie List
-! Last modified: 13 Sep 2020 10:20 UTC
+! Last modified: 13 Sep 2020 10:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12787,6 +12787,7 @@ currencyrate.today##.cc-alert
 viralnova.com##.cc-banner
 wallpapershome.com##.cc-dialog
 drakecircus.com##.ccc-widget
+hannity.com##.ccpa
 orcadian.co.uk##.cd-container
 wunderground.com##.cdk-overlay-container
 kbs.co.kr##.chrome_pick
@@ -12952,6 +12953,7 @@ airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co
 myanimelist.net##.modal-container
 myanimelist.net##.modal-content
 environmental-finance.com##.modal-dialog
+oranum.com##.modal-inner
 usnews.com##.modal-window
 motorsport.com##.ms-footer-messages
 motorsport.com##.ms-header-messages
