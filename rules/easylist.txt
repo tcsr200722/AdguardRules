@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +ngB+hp3uxmbTsGth1wxdg
-! Version: 202009131121
+! Checksum: 1SkivJH6tUbltByJZJmjOw
+! Version: 202009131140
 ! Title: EasyList
-! Last modified: 13 Sep 2020 11:21 UTC
+! Last modified: 13 Sep 2020 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56861,7 +56861,7 @@ this.org##.Wrap-leaderboard
 xbox.com##.XbcSponsorshipText
 rxlist.com##.Yahoo
 tumblr.com##._1aQrn
-juxtapoz.com##._300x250
+coderwall.com,juxtapoz.com##._300x250
 thewirecutter.com##._6bcd
 pirateiro.com##._br9is
 filmshowonline.net##._ccctb
@@ -62091,6 +62091,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||amebame.com/pub/ads/$image,domain=ameba.jp
 @@||anandabazar.com/js/anandabazar-bootstrap/$script
 @@||api.friends.ponta.jp/api/$~third-party
+@@||astatic.ccmbg.com^*/prebid$script,domain=linternaute.com
 @@||bancodevenezuela.com/imagenes/publicidad/$~third-party
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
