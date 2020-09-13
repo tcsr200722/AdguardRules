@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ht0l3IrdxVmkj5jDoXLDEw
-! Version: 202009130121
+! Checksum: j64S6QE3XuTwocZxnHswSA
+! Version: 202009130131
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 01:21 UTC
+! Last modified: 13 Sep 2020 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14033,6 +14033,7 @@ _mongo_stats/
 ||media-imdb.com/images/*/imdbads/js/beacon-$script
 ||media-imdb.com^*/adblock.swf
 ||mediaplex.com^*/universal.html
+||medium.com^*/performance/
 ||medscape.com/pi/1x1/pv/profreg-1x1.gif
 ||meduza.io/stat/
 ||merchantcircle.com/static/track.js

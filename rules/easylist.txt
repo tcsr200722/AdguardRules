@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /fhQA960qdOqCbyti8SAyg
-! Version: 202009130121
+! Checksum: RpdP25HHpQDgUVNSITRJ3w
+! Version: 202009130131
 ! Title: EasyList
-! Last modified: 13 Sep 2020 01:21 UTC
+! Last modified: 13 Sep 2020 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16680,6 +16680,7 @@ _popunder+$popup
 ###sp-advtop3
 ###spec_offer_ad2
 ###special-deals-ad
+###specialAd
 ###specialAd_one
 ###specialAd_two
 ###special_ads
@@ -57710,7 +57711,6 @@ helensburghadvertiser.co.uk,the-gazette.co.uk##.btn
 mydramalist.com##.btn-amazon
 cryptocompare.com##.btn-home-trade
 adlock.in##.btn-info
-livemint.com##.btnClose
 clip.dj##.btnDownloadRingtone
 whosampled.com##.btnRingtoneTrack
 boredomtherapy.com##.btparel1
