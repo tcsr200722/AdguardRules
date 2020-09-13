@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gi3lbskyQrx9yjYKjBZV8w
-! Version: 202009131101
+! Checksum: yI3mtckjslQFmaxlPmhq7g
+! Version: 202009131111
 ! Title: EasyList Cookie List
-! Last modified: 13 Sep 2020 11:01 UTC
+! Last modified: 13 Sep 2020 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1833,6 +1833,7 @@ _site_cookie_
 ###bottomCookieUsage
 ###bottomStickyCookiesBox
 ###bottom_cookie
+###box-alert-cookie
 ###box-cookie
 ###box-cookie-notice
 ###box-cookie-overlay
@@ -13936,7 +13937,7 @@ cassaforense.it,cfnews.it###cassaforense-cookies
 centrometeolombardo.com###cc_div
 ecodallecitta.it###contenuto_consenso
 spesasicura.com###cook
-aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,spesati.it,tecnocasa.it,wd40.it###cookie
+aeo.it,bookingaltoadige.com,camionsupermarket.it,chiesi.com,citroen-club.it,confidisystema.com,enistation.com,esselunga.it,esselungajob.it,exprivia.it,famila.it,giornaledicalabria.it,ildolomiti.it,kolping.it,messinaline.it,miamerano.it,mymercato.it,primocanale.it,sace.it,sanfrancescopatronoditalia.it,spesati.it,tecnocasa.it,wd40.it###cookie
 angolotesti.it,armietiro.it,automobilismo.it,automobilismodepoca.it,chateau-dax.it,ciclismo.it,cyclistmagazine.it,evomagazine.it,lupopornohd.it,menshealth.it,motociclismo.it,ordineavvocati.bari.it,pardini.it,runnersworld.it,supermercato24.it,tennisitaliano.it,testimania.com,thefilmclub.it,unipv.it,velaemotore.it###cookies
 majani.it###cs-banner
 netflixlovers.it###cs_container
