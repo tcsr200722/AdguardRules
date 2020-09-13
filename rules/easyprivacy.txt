@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oyxgkqh0tqavyu7k59ENJw
-! Version: 202009130421
+! Checksum: BRyoq7gpOX6llb3M4eU56A
+! Version: 202009130441
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 04:21 UTC
+! Last modified: 13 Sep 2020 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10732,6 +10732,7 @@ _mongo_stats/
 ||geo.ngtv.io^
 ||geo.q5media.net^
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
+||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
 ||geoip.nekudo.com^
 ||geoservice.curse.com^
