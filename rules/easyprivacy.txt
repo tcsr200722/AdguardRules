@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jX+z9hlNLvTe1+vkJ0deeA
-! Version: 202009130241
+! Checksum: 5QLEiY5GMyjnjHDaiKMofQ
+! Version: 202009130301
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 02:41 UTC
+! Last modified: 13 Sep 2020 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5353,6 +5353,7 @@ _admiral.
 ! Consent/GDPR tracking
 /cmp-hello.
 /cmp/messaging.js
+/cmp3.js
 /sourcepoint.js
 /SourcePoint_JS_Files/*
 ! Eulerian
