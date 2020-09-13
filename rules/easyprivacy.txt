@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4lhnguYGBxS5avQGQiUnFA
-! Version: 202009130521
+! Checksum: rvdvCRJ88HQBukDnmsPHHQ
+! Version: 202009130541
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 05:21 UTC
+! Last modified: 13 Sep 2020 05:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8658,6 +8658,7 @@ _mongo_stats/
 ||alleyarm.com^$third-party
 ||allowmailbox.com^$third-party
 ||amazingairplane.com^$third-party
+||amlg.io^$third-party
 ||anxiousapples.com^$third-party
 ||attractivecap.com^$third-party
 ||audioarctic.com^$third-party
@@ -8796,6 +8797,7 @@ _mongo_stats/
 ||pietexture.com^$third-party
 ||plantdigestion.com^$third-party
 ||pleasantpump.com^$third-party
+||plotrabbit.com^$third-party
 ||prepareplanes.com^$third-party
 ||profusesupport.com^$third-party
 ||puffyloss.com^$third-party
