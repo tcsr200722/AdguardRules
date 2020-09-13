@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Jpa2ezGoYKH4H0IRmxJ33g
-! Version: 202009132321
+! Checksum: GQAKIJqt6ZriqjFBbkui8Q
+! Version: 202009132341
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 23:21 UTC
+! Last modified: 13 Sep 2020 23:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1511,7 +1511,7 @@
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
-/criteo.$domain=~criteo.investorroom.com
+/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com
 /Criteo/*
 /criteo_
 /criteoRTA.
