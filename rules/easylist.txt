@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bFKq3aW2JkIYKjA+toIFTA
-! Version: 202009140620
+! Checksum: upvl0qF4RZ7jSvQ3386lZQ
+! Version: 202009140641
 ! Title: EasyList
-! Last modified: 14 Sep 2020 06:20 UTC
+! Last modified: 14 Sep 2020 06:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31316,6 +31316,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||69v.club^
 ||6b29d83ec954e7.com^
 ||6b357cda0f.com^
+||6bgaput9ullc.com^
 ||6ed0a6630b.com^
 ||6f2bdffd6587d.com^
 ||6f363e072e82206b.com^
@@ -31551,6 +31552,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||appropolyfunt.site^
 ||aptashant.club^
 ||aqknmbh198dn.com^
+||arableredressalacrity.com^
 ||aranlucas.pro^
 ||arbingfifted.club^
 ||ardingage.club^
@@ -34510,6 +34512,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wagerjoint.com^
 ||wagoapse.com^
 ||wahamtou.net^
+||waistcoatfast.com^
 ||waitingpresen.info^
 ||wandara113.xyz^
 ||warfarewithdigestion.com^
