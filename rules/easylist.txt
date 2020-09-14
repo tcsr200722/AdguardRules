@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hke6Y/qYsCA2uQ3gWQa3oQ
-! Version: 202009142120
+! Checksum: mj3QcKm+/AHIbDcEN6sJZQ
+! Version: 202009142140
 ! Title: EasyList
-! Last modified: 14 Sep 2020 21:20 UTC
+! Last modified: 14 Sep 2020 21:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30849,7 +30849,7 @@ community.pictavo.com#@#.ads-1
 community.pictavo.com#@#.ads-2
 community.pictavo.com#@#.ads-3
 mommyish.com#@#.ads-300-250
-pch.com#@#.ads-area
+dova-s.jp,pch.com#@#.ads-area
 hellogiggles.com#@#.ads-bg
 queer.pl#@#.ads-col
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
@@ -57891,6 +57891,7 @@ alternet.org##.has-banner
 whistleout.com.au##.has-hover
 twitter.com##.has-profile-promoted-tweet
 denverpost.com##.hatad
+tomshardware.com##.hawk-placeholder
 laptopmag.com##.hawk-review-container
 pcgamer.com##.hawk-widget
 pcgamer.com,techradar.com##.hawk-widget-insert

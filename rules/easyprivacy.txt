@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bl1ehybnTOMYmGxebSUeSg
-! Version: 202009142121
+! Checksum: KV87I+NoudCnaqpjGfkYlw
+! Version: 202009142141
 ! Title: EasyPrivacy
-! Last modified: 14 Sep 2020 21:21 UTC
+! Last modified: 14 Sep 2020 21:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17880,7 +17880,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 !
 !---------- Portuguese ----------
 !
-@@||127.0.0.1^$websocket,domain=sicredi.com.br
+@@||127.0.0.1^$websocket,domain=bancoamazonia.com.br|bancobrasil.com.br|banese.com.br|banestes.b.br|brb.com.br|caixa.gov.br|credicoamo.com.br|gastecnologia.com.br|safra.com.br|sicredi.com.br|tribancoonline.com.br|unicred.com.br
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.br|laredoute.pt
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
