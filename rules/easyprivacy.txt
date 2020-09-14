@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: XI23G/aBne6qLD4Pzno7CA
-! Version: 202009140821
+! Checksum: a+xw5N1bf/lfsrfq3Nfulg
+! Version: 202009140841
 ! Title: EasyPrivacy
-! Last modified: 14 Sep 2020 08:21 UTC
+! Last modified: 14 Sep 2020 08:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5331,6 +5331,9 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! DNS checks
+/DNSCheck.js
+/DNSChecker.js
 ! hawkeye
 /hawk.js
 /hawkeye.js
