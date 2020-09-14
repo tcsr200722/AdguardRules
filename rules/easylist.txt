@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GOjOJbVzHLX4BVKh1t1TFQ
-! Version: 202009142241
+! Checksum: yVxdvf08F0GJDYFN9k8isg
+! Version: 202009142301
 ! Title: EasyList
-! Last modified: 14 Sep 2020 22:41 UTC
+! Last modified: 14 Sep 2020 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60623,6 +60623,7 @@ youporn.com,youporngay.com##.footer-element-container
 gotporn.com##.footer-image-contents-bl
 hclips.com,onlydudes.tv##.footer-spot
 pornhd.com##.footer-zone
+homo.xxx##.footer.spot
 babesandstars.com##.footer_banners
 badjojo.com##.footera
 xpics.me##.frequently
@@ -60794,6 +60795,7 @@ fux.com,gotporn.com,pornerbros.com,porntube.com##.sponsored
 bravotube.net,camvideos.tv,dixyporn.com,hotmovs.com,proporn.com,smut6.com,tubepornclassic.com,vjav.com,xhamster.com,xhamster.one##.spot
 magicaltube.com##.spot-block
 xhamster.com,xhamster.one##.spot-container
+homo.xxx##.spot.column
 drtuber.com##.spot_button_m
 drtuber.com,smutr.com##.spots
 analsexstars.com##.sppc
@@ -61742,6 +61744,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||strangermeetup.com/socket.io/$~third-party
 @@||tabiat.gov.tr/KACMS/Files/ad-$image,~third-party
 @@||valuecommerce.com^$image,domain=pointtown.com
+@@||velet.jp/images/adv/$image,~third-party
 @@||vidgyor.com/live/dai/js/videojs.ads.min.js$script,domain=zeebiz.com
 @@||vitalia.pl/gfx/*reklama$image,domain=diety.wp.pl
 ! Used as an Anti-adblock check
