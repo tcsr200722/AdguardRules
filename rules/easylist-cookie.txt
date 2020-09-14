@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HaFCCHY0jpK4ArLKafH7Vw
-! Version: 202009140200
+! Checksum: N47OuMBxnqCdxdT8SDV/iw
+! Version: 202009140220
 ! Title: EasyList Cookie List
-! Last modified: 14 Sep 2020 02:00 UTC
+! Last modified: 14 Sep 2020 02:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12528,6 +12528,7 @@ play.google.com###gb > div[style*="background-color"]
 gdata-software.com,gdatasoftware.com###gd-cookiebar
 lloyd.com###globalerror
 draeger.com###globalnotification
+timefmtoronto.com###guacBg2
 mercateo.com###header-popup-info
 wattsindustries.com###header1_overlay2
 eutelsat.com###header_higher
