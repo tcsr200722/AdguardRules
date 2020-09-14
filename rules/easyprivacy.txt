@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: NtKp/WR1Jn4wraKmvf1jrw
-! Version: 202009140721
+! Checksum: W7gre56qfZjdx/CBorMCKw
+! Version: 202009140741
 ! Title: EasyPrivacy
-! Last modified: 14 Sep 2020 07:21 UTC
+! Last modified: 14 Sep 2020 07:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2056,6 +2056,7 @@
 /gemiusAudience.
 /generictracking.
 /geo-ip-detect?
+/geo-location/v1
 /geo.php?
 /geoAnalysis.js
 /geocc.$domain=~geocc.ru
