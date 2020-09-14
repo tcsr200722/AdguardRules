@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: E/QNRoFdqsICfcDzac8JzQ
-! Version: 202009142321
+! Checksum: JJI0aPABP3pUdgsvWWPqiw
+! Version: 202009142341
 ! Title: EasyPrivacy
-! Last modified: 14 Sep 2020 23:21 UTC
+! Last modified: 14 Sep 2020 23:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10978,7 +10978,6 @@ _mongo_stats/
 ||livefyre.com/tracking/
 ||livefyre.com^*/tracker.js
 ||livefyre.com^*/tracking/
-||livehelpnow.net/lhn/handler/$image
 ||livehelpnow.net/lhn/jsutil/getinvitationmessage.aspx?
 ||liverail.com/?metric=
 ||liverail.com/track/?
