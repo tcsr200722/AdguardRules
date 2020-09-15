@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '0 0 * * *'
     
 jobs:
   download-and-update:
@@ -97,19 +97,19 @@ jobs:
         file-name: "i-dont-care-about-cookies.txt"
         location: "./rules"
     
-#     - name: xinggsf-rule
-#       uses: carlosperate/download-file-action@v1.0.3
-#       with:
-#         file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
-#         file-name: "xinggsf-rule.txt"
-#         location: "./rules"
+    - name: xinggsf-rule
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
+        file-name: "xinggsf-rule.txt"
+        location: "./rules"
     
-#     - name: xinggsf-mv
-#       uses: carlosperate/download-file-action@v1.0.3
-#       with:
-#         file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
-#         file-name: "xinggsf-mv.txt"
-#         location: "./rules"
+    - name: xinggsf-mv
+      uses: carlosperate/download-file-action@v1.0.3
+      with:
+        file-url: "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
+        file-name: "xinggsf-mv.txt"
+        location: "./rules"
     
     - name: Zhihu
       uses: carlosperate/download-file-action@v1.0.3
